@@ -288,6 +288,13 @@ namespace SleepyDiscord {
 			return PairImpl<Class, Type, TypeHelper<Type, TypeHelper2>>{member, name, type};
 		}
 
+#define JSONStructCtor(struct_name)                      \
+  struct_name() = default;                               \
+  struct_name(const json::Value & json)                  \
+    : struct_name(json::fromJSON<struct_name>(json)) {}  \
+  struct_name(const std::string_view & json)             \
+    : struct_name(json::fromJSON<struct_name>(json)) {}
+
 		//There needs to be a workaround for Visual C++ and clang for this to compile. However, this workaround relys on c++14.
 #if __cpp_return_type_deduction
 #define JSONStruct getJSONStructure()
