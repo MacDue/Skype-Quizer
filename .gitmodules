@@ -1,0 +1,12 @@
+[submodule "formatxx"]
+	path = formatxx
+	url = https://github.com/seanmiddleditch/formatxx.git
+[submodule "litexx"]
+	path = litexx
+	url = https://github.com/seanmiddleditch/litexx.git
+[submodule "crow"]
+	path = crow
+	url = https://github.com/ipkn/crow.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson.git
