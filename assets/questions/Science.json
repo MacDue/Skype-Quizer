@@ -1,8 +1,8 @@
 [
  {
    "No": 1,
-   "Quiz question": "Who was the first man to fly around the earth with a spaceship?",
-   "Answer": "Gagarin"
+   "Quiz question": "Who was the first man to complete one full orbit of the earth?",
+   "Answer": "Yuri Gagarin"
  },
  {
    "No": 2,
@@ -17,7 +17,7 @@
  {
    "No": 4,
    "Quiz question": "Who invented vulcanized rubber?",
-   "Answer": "Goodyear"
+   "Answer": "Charles Goodyear"
  },
  {
    "No": 5,
@@ -72,7 +72,7 @@
  {
    "No": 15,
    "Quiz question": "What is the lightest existing metal?",
-   "Answer": "Aluminium"
+   "Answer": "Lithium"
  },
  {
    "No": 16,
@@ -81,23 +81,23 @@
  },
  {
    "No": 17,
-   "Quiz question": "What are the three primary colors?",
-   "Answer": "Blue, yellow and red"
+   "Quiz question": "What is the process called when an atom splits?",
+   "Answer": "Nuclear Fission"
  },
  {
    "No": 18,
-   "Quiz question": "Who discoved one of the first antibiotics: penicillin ?",
+   "Quiz question": "Who discoved one of the first antibiotics: penicillin?",
    "Answer": "Alexander Fleming"
  },
  {
    "No": 19,
-   "Quiz question": "Which planet is nearest the sun?",
+   "Quiz question": "Which planet stays the closest to earth?",
    "Answer": "Mercury"
  },
  {
    "No": 20,
-   "Quiz question": "What was the name of Yuri Gagarin s space ship?",
-   "Answer": "Vostok 1"
+   "Quiz question": "What was the name of the first satellite in space?",
+   "Answer": "Sputnik I"
  },
  {
    "No": 21,
@@ -142,6 +142,6 @@
  {
    "No": 29,
    "Quiz question": "What is the color of giraffe tongue",
-   "Answer": "Blue or purple"
+   "Answer": "Blue/Purple"
  }
 ]
