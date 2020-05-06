@@ -1,7 +1,7 @@
 [
  {
    "No": 1,
-   "Quiz question": "In which year did Maradona score a goal with his hand?",
+   "Quiz question": "In which year did Diego Maradona score a goal with his hand?",
    "Answer": "1986"
  },
  {
@@ -32,7 +32,7 @@
  {
    "No": 7,
    "Quiz question": "How matches did Mohammed Ali lose in his career?",
-   "Answer": "Only one"
+   "Answer": "5"
  },
  {
    "No": 8,
@@ -46,7 +46,7 @@
  },
  {
    "No": 10,
-   "Quiz question": "Which car won Fernando Alonso his first tittle in Formula 1 with?",
+   "Quiz question": "Which car make won Fernando Alonso his first title in Formula 1?",
    "Answer": "Renault"
  },
  {
@@ -66,37 +66,37 @@
  },
  {
    "No": 14,
-   "Quiz question": "What was the Olympic city of 1992 ?",
+   "Quiz question": "What was the Olympic city of 1992?",
    "Answer": "Barcelona"
  },
  {
    "No": 15,
-   "Quiz question": "What is the largest stadium in the world ?",
-   "Answer": "Azteca Stadium in Mexico city"
+   "Quiz question": "What is the largest stadium in the world?",
+   "Answer": "North Korea's Rungrado 1st of May Stadium"
  },
  {
    "No": 16,
-   "Quiz question": "Which two sports are practiced on a green table ?",
+   "Quiz question": "Which two sports are practiced on a green table?",
    "Answer": "Billiards and ping-pong"
  },
  {
    "No": 17,
-   "Quiz question": "In which country is the Interlagos F1-circuit ?",
+   "Quiz question": "In which country is the Interlagos F1-circuit?",
    "Answer": "Brazil"
  },
  {
    "No": 18,
-   "Quiz question": "What is the name of the Barcelona football stadium ?",
+   "Quiz question": "What is the name of the Barcelona football stadium?",
    "Answer": "Camp Nou"
  },
  {
    "No": 19,
-   "Quiz question": "Where were the Olympic Games held in 1996 ?",
+   "Quiz question": "Where were the Olympic Games held in 1996?",
    "Answer": "Atlanta"
  },
  {
    "No": 20,
-   "Quiz question": "What is the nickname of the Belgian national soccer team?",
+   "Quiz question": "What is the nickname of the Belgian national football team?",
    "Answer": "Red devils"
  },
  {

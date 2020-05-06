@@ -16,8 +16,8 @@
  },
  {
    "No": 4,
-   "Quiz question": "What is the noisiest city in the world?",
-   "Answer": "Hong Kong"
+   "Quiz question": "Which country has some of the loudest cities in the world",
+   "Answer": "India"
  },
  {
    "No": 5,
@@ -26,8 +26,8 @@
  },
  {
    "No": 6,
-   "Quiz question": "What is a very cold part of Russia?",
-   "Answer": "Siberia"
+   "Quiz question": "How many countires does Russia border?",
+   "Answer": "Fourteen Countries"
  },
  {
    "No": 7,
@@ -76,13 +76,13 @@
  },
  {
    "No": 16,
-   "Quiz question": "Which European river does flow through six different countries?",
-   "Answer": "Donau river"
+   "Quiz question": "Which European river flows through ten different countries?",
+   "Answer": "Donube river"
  },
  {
    "No": 17,
    "Quiz question": "What is the longest river in Europe?",
-   "Answer": "Wolga river"
+   "Answer": "Volga river"
  },
  {
    "No": 18,
@@ -92,7 +92,7 @@
  {
    "No": 19,
    "Quiz question": "What is the second largest country in Europe after Russia?",
-   "Answer": "France"
+   "Answer": "Ukraine"
  },
  {
    "No": 20,
@@ -116,7 +116,7 @@
  },
  {
    "No": 24,
-   "Quiz question": "What is the capital city of Australia ?",
+   "Quiz question": "What is the capital city of Australia?",
    "Answer": "Canberra"
  },
  {

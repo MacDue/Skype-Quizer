@@ -16,13 +16,13 @@
  },
  {
    "No": 4,
-   "Quiz question": "Cannonball, bok choy, savoy, kohlrabi, red drumhead are all types of...",
+   "Quiz question": "Cannonball, bok choy, savoy, kohlrabi, red drumhead are all types of..?",
    "Answer": "Cabbage"
  },
  {
    "No": 5,
    "Quiz question": "Name a vegetable that is rich in vitamin A.",
-   "Answer": "Carrot"
+   "Answer": "Sweet Potato, Carrots, Chili Pepper, Lettuce, Spinach"
  },
  {
    "No": 6,
@@ -41,13 +41,13 @@
  },
  {
    "No": 9,
-   "Quiz question": "What are wild onions called?",
-   "Answer": "Bear s leek"
+   "Quiz question": "What is wild garlic also knows as?",
+   "Answer": "Bear’s leek"
  },
  {
    "No": 10,
-   "Quiz question": "Which vegetable makes your eyes tear when you peel it?",
-   "Answer": "Onion"
+   "Quiz question": "Which vegetable did the ancient egyptians worship?",
+   "Answer": "Onions"
  },
  {
    "No": 11,
@@ -82,6 +82,6 @@
  {
    "No": 17,
    "Quiz question": "How long was the longest apple peel, recorded in the Guinness Book of Records?",
-   "Answer": "52 meters"
+   "Answer": "5 meters"
  }
 ]

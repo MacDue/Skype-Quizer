@@ -1,7 +1,7 @@
 [
  {
    "No": 1,
-   "Quiz question": "What is Elvis Presley s middle name?",
+   "Quiz question": "What is Elvis’s middle name?",
    "Answer": "Aaron"
  },
  {
@@ -36,13 +36,13 @@
  },
  {
    "No": 8,
-   "Quiz question": "What is Madonna s full name",
+   "Quiz question": "What is Madonna’s full name",
    "Answer": "Madonna Louise Ciccone"
  },
  {
    "No": 9,
-   "Quiz question": "What is the name of the Irish singer who won the Eurovision Song Contest twice?",
-   "Answer": "Johnny Logan"
+   "Quiz question": "What country was the piano invented in?",
+   "Answer": "Italy"
  },
  {
    "No": 10,
@@ -66,7 +66,7 @@
  },
  {
    "No": 14,
-   "Quiz question": "Who did win the most Grammy Awards in the 80?",
+   "Quiz question": "Who won the most Grammy Awards in the 80?",
    "Answer": "Michael Jackson"
  },
  {
@@ -101,7 +101,7 @@
  },
  {
    "No": 21,
-   "Quiz question": "Who composed the music for the Spaghetti Western The Good, The Bad and The Ugly with Clint Eastwood ?",
+   "Quiz question": "Who composed the music for The Good, The Bad and The Ugly?",
    "Answer": "Ennio Morricone"
  },
  {
@@ -111,12 +111,12 @@
  },
  {
    "No": 23,
-   "Quiz question": "Which British singer had a hit in 2006 with Rehab ?",
+   "Quiz question": "Which British singer had a hit in 2006 with Rehab?",
    "Answer": "Amy Winehouse"
  },
  {
    "No": 24,
-   "Quiz question": "What was Mozart s nationality?",
+   "Quiz question": "What was Mozart’s nationality?",
    "Answer": "Austrian"
  },
  {
@@ -126,7 +126,7 @@
  },
  {
    "No": 26,
-   "Quiz question": "What was Madonna s first top 10 single?",
+   "Quiz question": "What was Madonna’s first top 10 single?",
    "Answer": "Holiday"
  },
  {
@@ -151,7 +151,7 @@
  },
  {
    "No": 31,
-   "Quiz question": "Who was Elvis Presley s manager?",
+   "Quiz question": "Who was Elvis Presley’s manager?",
    "Answer": "Kolonel Parker"
  },
  {

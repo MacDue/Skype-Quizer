@@ -11,13 +11,13 @@
  },
  {
    "No": 3,
-   "Quiz question": "How many stars has the American flag got?",
-   "Answer": "Fifty"
+   "Quiz question": "How many stars has the Australian flag got?",
+   "Answer": "6"
  },
  {
    "No": 4,
    "Quiz question": "How long is the Great Wall of China?",
-   "Answer": "4000 miles"
+   "Answer": "5,500 miles"
  },
  {
    "No": 5,
@@ -36,12 +36,12 @@
  },
  {
    "No": 8,
-   "Quiz question": "In what year did princess diana die?",
+   "Quiz question": "In what year did Princess Diana die?",
    "Answer": "In the year 1997"
  },
  {
    "No": 9,
-   "Quiz question": "Which famous British women murderer of the 19th century was never arrested?",
+   "Quiz question": "Which famous women murderer of the 19th century was never arrested?",
    "Answer": "Jack the Ripper"
  },
  {
@@ -51,52 +51,62 @@
  },
  {
    "No": 11,
-   "Quiz question": "What is the largest number of five digits?",
-   "Answer": "99999"
- },
- {
-   "No": 12,
    "Quiz question": "What is the most fractured human bone?",
    "Answer": "Clavicle"
  },
  {
-   "No": 13,
+   "No": 12,
    "Quiz question": "What is the most famous university of Paris?",
    "Answer": "Sorbonne"
  },
  {
-   "No": 14,
+   "No": 13,
    "Quiz question": "Which animal is on the golden Flemish flag?",
    "Answer": "Lion"
  },
  {
-   "No": 15,
+   "No": 14,
    "Quiz question": "What is the name of the Indian holy river?",
    "Answer": "Ganges"
  },
  {
-   "No": 16,
+   "No": 15,
    "Quiz question": "Which South American country is named after Venice?",
    "Answer": "Venezuela"
  },
  {
-   "No": 17,
-   "Quiz question": "How many stars feature on the flag of New Zealand?",
-   "Answer": "Four stars"
- },
- {
-   "No": 18,
+   "No": 16,
    "Quiz question": "What colour to do you get when you mix red and white?",
    "Answer": "Pink"
  },
  {
-   "No": 19,
+   "No": 17,
    "Quiz question": "What is both a French wine region and a luxury American automobile?",
    "Answer": "Cadillac"
  },
  {
-   "No": 20,
+   "No": 18,
    "Quiz question": "For which narrow sea strait is Hellespont the ancient name?",
    "Answer": "Dardanelles"
+ },
+ {
+   "No": 19,
+   "Quiz question": "The Chronicles of Narnia’ is a children’s book series written by which author?",
+   "Answer": "C. S. Lewis"
+ },
+ {
+   "No": 20,
+   "Quiz question": "Which BBC children's show gardens were famously vandalised in 1983?",
+   "Answer": "Blue Peter"
+ },
+ {
+   "No": 21,
+   "Quiz question": "The common phrase 'down and out' meaning beaten is taken from which sport?",
+   "Answer": "Boxing"
+ },
+ {
+   "No": 22,
+   "Quiz question": "Dog, Ice and Out can all precede which five letter word?",
+   "Answer": "House"
  }
 ]
