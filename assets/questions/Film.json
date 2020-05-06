@@ -7,7 +7,7 @@
  {
    "No": 2,
    "Quiz question": "How many Tomb Raider movies were made?",
-   "Answer": "Two movies"
+   "Answer": "Three movies"
  },
  {
    "No": 3,
@@ -76,51 +76,46 @@
  },
  {
    "No": 16,
-   "Quiz question": "Give the name of the best James Bond parody.",
-   "Answer": "Austin Powers"
- },
- {
-   "No": 17,
    "Quiz question": "What is the name of the bald commander of the Enterprise in Star Trek?",
    "Answer": "Captain Picard"
  },
  {
-   "No": 18,
-   "Quiz question": "What is the name of Steven Spielberg s black-and-white-film about the second world war?",
-   "Answer": "Schindler s List"
+   "No": 17,
+   "Quiz question": "What is the name of Steven Spielberg’s black-and-white-film about the second world war?",
+   "Answer": "Schindler’s List"
  },
  {
-   "No": 19,
-   "Quiz question": "Who was the leading actress in Sister act I en II ?",
+   "No": 18,
+   "Quiz question": "Who was the leading actress in Sister act I en II?",
    "Answer": "Whoopi Goldberg"
  },
  {
-   "No": 20,
+   "No": 19,
    "Quiz question": "What is the profession of Popeye?",
    "Answer": "Seaman"
  },
  {
-   "No": 21,
+   "No": 20,
    "Quiz question": "Who was the director of the movie The Piano?",
    "Answer": "Jane Campion"
  },
  {
-   "No": 22,
+   "No": 21,
    "Quiz question": "Who was Mozart s great rival in Amadeus movie?",
    "Answer": "Antonio Salieri"
  },
  {
-   "No": 23,
+   "No": 22,
    "Quiz question": "Which French woman was the most famous actress in the world in the late 19th and early 20th century?",
    "Answer": "Sarah Bernhardt"
  },
  {
-   "No": 24,
+   "No": 23,
    "Quiz question": "Who played the lead role in the movie Scarface in 1983?",
    "Answer": "Al Pacino"
  },
  {
-   "No": 25,
+   "No": 24,
    "Quiz question": "Who played Che Guevara in the movie \"Evita\"?",
    "Answer": "Antonio Banderas"
  }
