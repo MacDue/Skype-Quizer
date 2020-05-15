@@ -3,6 +3,7 @@
 #include <random>
 #include <chrono>
 #include <string>
+#include <vector>
 #include <fstream>
 #include <utility>
 #include <iostream>
@@ -208,16 +209,25 @@ class Quiz final {
           break;
         case SHOWING_ANSWER:
         case SHOWING_QUESTION:
+        {
+          auto& questions = std::get<1>(categories[current_category]);
           current_question += 1;
           if (current_question >= questions_per_category
-            || current_question >= std::get<1>(categories[current_category]).size()
+            || current_question >= questions.size()
           ) {
             if (current_state == SHOWING_QUESTION) {
               current_question = 0;
               current_state = ANSWERS_TITLE;
             } else {
+              // Simple hack to remove repeat questions
+              if (current_question < questions.size()) {
+                questions.erase(questions.begin(), questions.begin() + current_question);
+                current_category += 1;
+              } else {
+                categories.erase(categories.begin() + current_category);
+                categories_to_play -= 1;
+              }
               current_state = SHOWING_CATEGORY;
-              current_category += 1;
               if (current_category >= categories_to_play
                 || current_category >= categories.size()
               ) {
@@ -227,6 +237,7 @@ class Quiz final {
             }
           }
           break;
+        }
         case ANSWERS_TITLE:
           current_state = SHOWING_ANSWER;
       }
