@@ -1,127 +1,2882 @@
 [
- {
-   "No": 1,
-   "Quiz question": "Which German Count invented the zeppelin?",
-   "Answer": "Count (Von) Zeppelin"
- },
- {
-   "No": 2,
-   "Quiz question": "Who was the first president of the USA?",
-   "Answer": "George Washington"
- },
- {
-   "No": 3,
-   "Quiz question": "Who was the third president of the United States?",
-   "Answer": "Thomas Jefferson"
- },
- {
-   "No": 4,
-   "Quiz question": "In which year did Henry found the Church of England?",
-   "Answer": "1534"
- },
- {
-   "No": 5,
-   "Quiz question": "In which city was the Titanic built?",
-   "Answer": "Belfast"
- },
- {
-   "No": 6,
-   "Quiz question": "What was the name of Napoleon’s first wife?",
-   "Answer": "Josephine"
- },
- {
-   "No": 7,
-   "Quiz question": "Which city became capital of West-Germany in 1949?",
-   "Answer": "Bonn"
- },
- {
-   "No": 8,
-   "Quiz question": "On which island was Napoleon born?",
-   "Answer": "Corsica"
- },
- {
-   "No": 9,
-   "Quiz question": "How many children did Queen Victoria have?",
-   "Answer": "Nine children"
- },
- {
-   "No": 10,
-   "Quiz question": "Which war was ended by the signing the armistice on July 27th, 1953?",
-   "Answer": "The Korean War"
- },
- {
-   "No": 11,
-   "Quiz question": "When became Albania an independent country? In 1713, 1813 or 1913?",
-   "Answer": "In the year 1913"
- },
- {
-   "No": 12,
-   "Quiz question": "Xerxes ruled a great empire around the fifth century BC. Which empire?",
-   "Answer": "The Persian empire"
- },
- {
-   "No": 13,
-   "Quiz question": "Which French king was called the Sun King?",
-   "Answer": "Louis XIV"
- },
- {
-   "No": 14,
-   "Quiz question": "What was in England the northern frontier of the Roman Empire?",
-   "Answer": "Hadrian’s wall"
- },
- {
-   "No": 15,
-   "Quiz question": "Which German war criminal was for 21 years the only inmate of Spandau complex?",
-   "Answer": "Rudolf Hess"
- },
- {
-   "No": 16,
-   "Quiz question": "Which norse explorer first discovered Greenland?",
-   "Answer": "Erik de Rode"
- },
- {
-   "No": 17,
-   "Quiz question": "Which Mexican rebel was shot in 1923 and died?",
-   "Answer": "Pancho Villa"
- },
- {
-   "No": 18,
-   "Quiz question": "Which building in Athens was destroyed by a Venetian cannon ball in the 17th century?",
-   "Answer": "Parthenon"
- },
- {
-   "No": 19,
-   "Quiz question": "What was the name of the Protestant revolution against the domination of the Pope?",
-   "Answer": "Reformation"
- },
- {
-   "No": 20,
-   "Quiz question": "Who was the first king of Belgium ?",
-   "Answer": "Leopold I"
- },
- {
-   "No": 21,
-   "Quiz question": "What was the former name of New York?",
-   "Answer": "New Amsterdam"
- },
- {
-   "No": 22,
-   "Quiz question": "Which country was formerly called Ceylon?",
-   "Answer": "Sri Lanka"
- },
- {
-   "No": 23,
-   "Quiz question": "What was the Latin name of Paris in Roman times?",
-   "Answer": "Lutetia"
- },
- {
-   "No": 24,
-   "Quiz question": "Which city was the capital of Australia from 1901 to 1927?",
-   "Answer": "Melbourne"
- },
- {
-   "No": 25,
-   "Quiz question": "Which country sent its navy around the world to fight the Japanese in 1904?",
-   "Answer": "Russia"
- }
+    {
+        "Quiz question": "Which country had a secret police force known as the Tonton Macoute?",
+        "Answer": "Haiti"
+    },
+    {
+        "Quiz question": "What was the 1st human invention that broke the sound barrier?",
+        "Answer": "The whip"
+    },
+    {
+        "Quiz question": "What name was given to the Samuri code of honour?",
+        "Answer": "Bushido"
+    },
+    {
+        "Quiz question": "What was the third last state to join the USA?",
+        "Answer": "Arizona"
+    },
+    {
+        "Quiz question": "Which King of England was crowned on Christmas Day?",
+        "Answer": "William the Conqueror / William I (in 1066)"
+    },
+    {
+        "Quiz question": "Who was Queen for just nine days in 1553?",
+        "Answer": "Lady Jane Grey"
+    },
+    {
+        "Quiz question": "Who overthrew King Idris in 1969?",
+        "Answer": "Colonel Gaddafi (in Libya)"
+    },
+    {
+        "Quiz question": "What was the name of the rocket used by Yuri Gagarin for the first manned space flight?",
+        "Answer": "Vostok 1"
+    },
+    {
+        "Quiz question": "Who was assassinated by Nathuram Godse in 1948?",
+        "Answer": "Mahatma Ghandi"
+    },
+    {
+        "Quiz question": "Which monarch held her nerve in the Bedchamber Crisis?",
+        "Answer": "Queen Victoria"
+    },
+    {
+        "Quiz question": "Who had a two ounce stone cut from his bladder in 1658?",
+        "Answer": "Samuel Pepys"
+    },
+    {
+        "Quiz question": "What was the name of King Henry VIII's older brother?",
+        "Answer": "Arthur (died in 1502 whilst still heir presumptive)"
+    },
+    {
+        "Quiz question": "Which three letters did SOS replace as a Morse mayday signal?",
+        "Answer": "CQD - CQ was a general call to all ships and D signalled Distress"
+    },
+    {
+        "Quiz question": "In a competition in 1829, what beat Cycloped, Novelty, Perseverance and Sans Pareil?",
+        "Answer": "Stephenson's Rocket (Rainhill Trials)"
+    },
+    {
+        "Quiz question": "In which British city did the Peterloo massacre take place in 1819?",
+        "Answer": "Manchester"
+    },
+    {
+        "Quiz question": "Who was known as the Maid of Orleans?",
+        "Answer": "Joan of Arc"
+    },
+    {
+        "Quiz question": "Who was British Prime Minister on V-J Day?",
+        "Answer": "Clement Attlee"
+    },
+    {
+        "Quiz question": "During World War II, how was William Joyce better known?",
+        "Answer": "Lord Haw-Haw"
+    },
+    {
+        "Quiz question": "What is the name of the canoeist who famously faked his own death when he disappeared in 2002?",
+        "Answer": "John Darwin"
+    },
+    {
+        "Quiz question": "Who assassinated John Lennon?",
+        "Answer": "Mark Chapman"
+    },
+    {
+        "Quiz question": "Who succeeded David Steel as leader of the Liberal Democrats?",
+        "Answer": "Paddy Ashdown"
+    },
+    {
+        "Quiz question": "What is significant about the death of Ruth Ellis in 1955?",
+        "Answer": "She was the last woman to be executed in Britain"
+    },
+    {
+        "Quiz question": "Which comedian was the first person in Britain to make a call on a mobile phone?",
+        "Answer": "Ernie Wise (on New Years Day 1985)"
+    },
+    {
+        "Quiz question": "In what year was the Great Train Robbery?",
+        "Answer": "1963"
+    },
+    {
+        "Quiz question": "What were lost by King John, melted down by Oliver Cromwell and almost stolen by Thomas Blood?",
+        "Answer": "The Crown Jewels"
+    },
+    {
+        "Quiz question": "By what name was Helen Porter Mitchell better known?",
+        "Answer": "Dame Nellie Melba"
+    },
+    {
+        "Quiz question": "To which country did Tanzania belong before becoming a British mandate?",
+        "Answer": "Germany"
+    },
+    {
+        "Quiz question": "Who was the last Governor of Hong Kong?",
+        "Answer": "Chris Pattern"
+    },
+    {
+        "Quiz question": "In which city was Terry Waite kidnapped?",
+        "Answer": "Beirut"
+    },
+    {
+        "Quiz question": "The 1812 Overture was written to celebrate the defeat of Napoleon in which city?",
+        "Answer": "Moscow"
+    },
+    {
+        "Quiz question": "Which rebellion was defeated at the Battle of Sedgemoor in 1685?",
+        "Answer": "The Monmouth Rebellion"
+    },
+    {
+        "Quiz question": "Which Prime Minister made Jeffrey Archer a life peer?",
+        "Answer": "John Major"
+    },
+    {
+        "Quiz question": "What was the original name of the Royal Air Force?",
+        "Answer": "Royal Flying Corps"
+    },
+    {
+        "Quiz question": "Between them, the six wives of HenryVIII were of three different nationalities. English, Spanish and what other?",
+        "Answer": "German (Ann of Cleves)"
+    },
+    {
+        "Quiz question": "Which famous sailor was born in 1758 at Burnham Thorpe in Norfolk?",
+        "Answer": "Horatio Nelson."
+    },
+    {
+        "Quiz question": "The doomed ship Titanic had two sister ships. What were their names?",
+        "Answer": "Brittanic and Olympic"
+    },
+    {
+        "Quiz question": "Was the West German currency introduced in East Germany before or after re-unification in 1990?",
+        "Answer": "Before"
+    },
+    {
+        "Quiz question": "In which city were the 1916 Olympic Games scheduled to take place before being cancelled due to the war?",
+        "Answer": "Berlin"
+    },
+    {
+        "Quiz question": "Who was the command module pilot for Apollo 11 in 1969?",
+        "Answer": "Michael Collins"
+    },
+    {
+        "Quiz question": "Who was the third man to walk on the moon?",
+        "Answer": "Charles 'Pete' Conrad"
+    },
+    {
+        "Quiz question": "In which century did the Mary Rose sink?",
+        "Answer": "16th"
+    },
+    {
+        "Quiz question": "How old was Prince Charles when he was invested as Prince of Wales?",
+        "Answer": "20 (1st July 1969)"
+    },
+    {
+        "Quiz question": "Who was the second president of the United States of America?",
+        "Answer": "John Adams"
+    },
+    {
+        "Quiz question": "Who appeared on a World War I recruitment poster above the words 'Your country needs YOU'?",
+        "Answer": "Lord Kitchener"
+    },
+    {
+        "Quiz question": "How many wives did Henry VIII have?",
+        "Answer": "6"
+    },
+    {
+        "Quiz question": "In which city was the Titanic built?",
+        "Answer": "Belfast"
+    },
+    {
+        "Quiz question": "What was Blackbeard's origanal name?",
+        "Answer": "Edward Teach"
+    },
+    {
+        "Quiz question": "With what did the CIA reputedly try to assassinate Fidel Castro?",
+        "Answer": "An exploding cigar"
+    },
+    {
+        "Quiz question": "What was the profession of Wyatt Earp's sidekick Doc Holiday?",
+        "Answer": "Dentist"
+    },
+    {
+        "Quiz question": "In terms of land area, what was the largest empire of all time?",
+        "Answer": "The British Empire"
+    },
+    {
+        "Quiz question": "Genghis Khan founded which empire?",
+        "Answer": "Mongol empire"
+    },
+    {
+        "Quiz question": "During the Great Plague, what was painted on the front doors of plague-ridden houses?",
+        "Answer": "Red crosses"
+    },
+    {
+        "Quiz question": "Where did the peaceful Velvet Revolution take place in 1989?",
+        "Answer": "Czechoslovakia"
+    },
+    {
+        "Quiz question": "Who invented the ball-point pen?",
+        "Answer": "Laszlo Biro"
+    },
+    {
+        "Quiz question": "When the UN was established in 1945, what did it replace?",
+        "Answer": "The League of Nations"
+    },
+    {
+        "Quiz question": "Who is the only US president to have served more than two terms in office?",
+        "Answer": "Franklin D Roosevelt"
+    },
+    {
+        "Quiz question": "By what name is Edward Teach better known?",
+        "Answer": "Blackbeard"
+    },
+    {
+        "Quiz question": "Which was the first European country to issue banknotes?",
+        "Answer": "Sweden"
+    },
+    {
+        "Quiz question": "Which famous Greek was a student of Plato and teacher to Alexander the Great?",
+        "Answer": "Aristotle"
+    },
+    {
+        "Quiz question": "In Roman mythology, who was the ruler of the Gods?",
+        "Answer": "Jupiter"
+    },
+    {
+        "Quiz question": "In Egyptian mythology, who was the God of embalming who also watched over the dead?",
+        "Answer": "Anubis"
+    },
+    {
+        "Quiz question": "In Norse mythology, what name was given to the female warriors who carried the bodies of heroes from the battlefield to feast in Valhalla?",
+        "Answer": "Valkyrie"
+    },
+    {
+        "Quiz question": "In Roman mythology, who was the ruler of the Gods?",
+        "Answer": "Jupiter"
+    },
+    {
+        "Quiz question": "What was the name of the first artificial satellite sent into space?",
+        "Answer": "Sputnik 1"
+    },
+    {
+        "Quiz question": "Who invented the hot air balloon?",
+        "Answer": "The Montgolfier brothers"
+    },
+    {
+        "Quiz question": "In what year did the United States enter the First World War?",
+        "Answer": "1917"
+    },
+    {
+        "Quiz question": "In which decade did America last have four presidents? 1850s, 1880s or 1910s?",
+        "Answer": "1880s"
+    },
+    {
+        "Quiz question": "Who was the first person to sail around the world?",
+        "Answer": "Ferdinand Magellan"
+    },
+    {
+        "Quiz question": "Which US president was the first to reside in the White House?",
+        "Answer": "John Adams"
+    },
+    {
+        "Quiz question": "What was the name of the Duke of Wellingtons horse at the Battle of Waterloo?",
+        "Answer": "Copenhagen"
+    },
+    {
+        "Quiz question": "Which Carthaginian general led his army across the Alps with a contingent of elephants?",
+        "Answer": "Hannibal"
+    },
+    {
+        "Quiz question": "Other than Scapa Flow, where was much of the British fleet protected during World War 2?",
+        "Answer": "Loch Ewe"
+    },
+    {
+        "Quiz question": "What Viking is said to have discovered America?",
+        "Answer": "Eric the Red"
+    },
+    {
+        "Quiz question": "What was Ghandi's real first name?",
+        "Answer": "Mohandas"
+    },
+    {
+        "Quiz question": "Who is the only British Prime Minister to be born overseas?",
+        "Answer": "Andrew Bonar Law"
+    },
+    {
+        "Quiz question": "Before becoming President of the United States, George W Bush was govenor of which state?",
+        "Answer": "Texas"
+    },
+    {
+        "Quiz question": "Who was the first US president to die whilst in office?",
+        "Answer": "William Harrison"
+    },
+    {
+        "Quiz question": "Who was the oldest to be elected president of the United States?",
+        "Answer": "Ronald Reagan"
+    },
+    {
+        "Quiz question": "Who was president of the United States during the brief Spanish-American war?",
+        "Answer": "William McKinley"
+    },
+    {
+        "Quiz question": "What yellow fossilised resin was used as jewellery by the Greeks and Romans?",
+        "Answer": "Amber"
+    },
+    {
+        "Quiz question": "Who invented the piano?",
+        "Answer": "Bartolomeo Cristofori"
+    },
+    {
+        "Quiz question": "Who did Clementine Ogilvy Hozier marry in 1908?",
+        "Answer": "Winston Churchill"
+    },
+    {
+        "Quiz question": "Which achievement links Arthur Martin-Leake, Noel Chavasse and Charles Upham?",
+        "Answer": "The only people to be awarded two Victoria Crosses?"
+    },
+    {
+        "Quiz question": "Colonel James Doolittle led the first bombing raid on which city during World War II?",
+        "Answer": "Tokyo"
+    },
+    {
+        "Quiz question": "In which year did the English Civil War start?",
+        "Answer": "1642"
+    },
+    {
+        "Quiz question": "Born in 1599, who coined the phrase 'warts and all' while sitting for a portrait?",
+        "Answer": "Oliver Cromwell"
+    },
+    {
+        "Quiz question": "When Eugene Cernan and Harrison Schmitt were the last people to walk on the moon, what number was their Apollo mission?",
+        "Answer": "XVII (17)"
+    },
+    {
+        "Quiz question": "Which World War II action had the code name Operation Chastise?",
+        "Answer": "The Dambusters Raid"
+    },
+    {
+        "Quiz question": "In which war were the most Victoria Crosses awarded?",
+        "Answer": "First World War"
+    },
+    {
+        "Quiz question": "What was the operational squadron number of the Dambusters?",
+        "Answer": "617 Squadron"
+    },
+    {
+        "Quiz question": "Before Tony Blair, who was the previous leader of the Labour Party to win a general election?",
+        "Answer": "Harold Wilson"
+    },
+    {
+        "Quiz question": "Which country has been ruled by the Grimaldi dynasty for over 700 years?",
+        "Answer": "Monaco"
+    },
+    {
+        "Quiz question": "Who is the only British Prime Minister to be assassinated?",
+        "Answer": "Spencer Perceval (in 1812)"
+    },
+    {
+        "Quiz question": "What was the name of Lord Nelson's mistress?",
+        "Answer": "Emma Hamilton"
+    },
+    {
+        "Quiz question": "Which famous leader once said 'I'm still at the crease, but the bowling is more hostile these days'?",
+        "Answer": "Margaret Thatcher"
+    },
+    {
+        "Quiz question": "What name was given to the Chinese peasant uprising of 1900?",
+        "Answer": "Boxer Rebellion"
+    },
+    {
+        "Quiz question": "What was the name of England's wartime code breaking station?",
+        "Answer": "Bletchley Park"
+    },
+    {
+        "Quiz question": "What was the name of Napoleon's first wife?",
+        "Answer": "Josephine"
+    },
+    {
+        "Quiz question": "What is the significance of the dates August 9th 1902, June 23rd 1911, May 12th 1937 and June 2nd 1953?",
+        "Answer": "They're Coronation dates"
+    },
+    {
+        "Quiz question": "Which volcano caused the destruction of Pompeii?",
+        "Answer": "Vesuvius"
+    },
+    {
+        "Quiz question": "Before becoming President of the United States, Bill Clinton was govenor of which state?",
+        "Answer": "Arkansas"
+    },
+    {
+        "Quiz question": "Which century saw the abolition of the slave trade in the British Empire?",
+        "Answer": "19th"
+    },
+    {
+        "Quiz question": "The Battle of Bunker Hill was fought during which war?",
+        "Answer": "American War Of Independence"
+    },
+    {
+        "Quiz question": "Known as The Jersey Lily, actress Lily Langtry was the mistress of which King?",
+        "Answer": "Edward VII"
+    },
+    {
+        "Quiz question": "Which Royal Wedding took place in 1973?",
+        "Answer": "Princess Anne and Captain Mark Phillips"
+    },
+    {
+        "Quiz question": "Which company opened the first Burger Restaurant in Britain in 1954?",
+        "Answer": "Wimpey"
+    },
+    {
+        "Quiz question": "Aboard which ship did Captain Scott sail to the Antarctic in 1901?",
+        "Answer": "The Discovery"
+    },
+    {
+        "Quiz question": "Which Queen had been pregnant at least 18 times, but only gave birth to one child who lived to be at least 2 years old?",
+        "Answer": "Queen Anne"
+    },
+    {
+        "Quiz question": "Who was the first member of the royal family to divorce?",
+        "Answer": "Henry VIII"
+    },
+    {
+        "Quiz question": "Who was the second ever member of the Royal Family to divorce?",
+        "Answer": "Princess Margaret"
+    },
+    {
+        "Quiz question": "From what ancient activity does the word 'crestfallen' come?",
+        "Answer": "Cockfighting"
+    },
+    {
+        "Quiz question": "What did Britain's roads first acquire in 1914?",
+        "Answer": "White Lines"
+    },
+    {
+        "Quiz question": "In which city did the grave robbers Burke and Hare operate?",
+        "Answer": "Edinburgh"
+    },
+    {
+        "Quiz question": "How many UK monarchs were there in the 20th century?",
+        "Answer": "6"
+    },
+    {
+        "Quiz question": "In 1949, which city became the capital of West Germany?",
+        "Answer": "Bonn"
+    },
+    {
+        "Quiz question": "How many funnels did Titanic have?",
+        "Answer": "4"
+    },
+    {
+        "Quiz question": "Which famous British statesman was born in a ladies' room during a dance?",
+        "Answer": "Sir Winston Churchill"
+    },
+    {
+        "Quiz question": "Which famous artist also invented the scissors?",
+        "Answer": "Leonardo Da Vinci"
+    },
+    {
+        "Quiz question": "Who was the third man on the Apollo 11 moon mission, who didn't get to walk on the moon?",
+        "Answer": "Michael Collins"
+    },
+    {
+        "Quiz question": "How many Victoria Crosses were awarded after the Battle of Rorke's Drift in the Zulu wars?",
+        "Answer": "11"
+    },
+    {
+        "Quiz question": "Which famous person from history was born with the name Temujin in the 12th centry?",
+        "Answer": "Genghis Khan"
+    },
+    {
+        "Quiz question": "What links Akagi, Hiryu, Kaga, Shokaku, Soryu and Zuikaku?",
+        "Answer": "They were the Japanese aircraft carriers that attacked Pearl Harbour"
+    },
+    {
+        "Quiz question": "Who was known as the 'Desert Fox'?",
+        "Answer": "Erwin Rommel"
+    },
+    {
+        "Quiz question": "How many stars were there on the Confederate flag?",
+        "Answer": "13"
+    },
+    {
+        "Quiz question": "By what name was 617 squadron known during the Second World War?",
+        "Answer": "The Dambusters"
+    },
+    {
+        "Quiz question": "Who was the first U.S. president to reside in the White House?",
+        "Answer": "John Adams"
+    },
+    {
+        "Quiz question": "Which country's president post did Albert Einstein decline?",
+        "Answer": "Israel"
+    },
+    {
+        "Quiz question": "Which Scottish novelist became Governor General of Canada in 1935?",
+        "Answer": "John Buchan"
+    },
+    {
+        "Quiz question": "The British cabinet has only once held a full Cabinet meeting outside London. In which Scottish city did this take place?",
+        "Answer": "Inverness"
+    },
+    {
+        "Quiz question": "Dinosaurs became extinct at the end of which period? The Cretaceous, The Paleogene or The Jurassic?",
+        "Answer": "Creaceous"
+    },
+    {
+        "Quiz question": "In which year did Disney Land first open in California? 1955, 1960 or 1965?",
+        "Answer": "1955"
+    },
+    {
+        "Quiz question": "Who shot Martin Luther King?",
+        "Answer": "James Earl Ray"
+    },
+    {
+        "Quiz question": "With which foot did Neil Armstrong first step onto the moon? His right or his left?",
+        "Answer": "His left"
+    },
+    {
+        "Quiz question": "The inhabitants of which English town hung a monkey during the Napoleonic wars?",
+        "Answer": "Hartlepool - they thought it was a French spy"
+    },
+    {
+        "Quiz question": "What famous building did John Nash rebuild in 1825?",
+        "Answer": "Buckingham Palace"
+    },
+    {
+        "Quiz question": "Which major British newspaper closed down for almost a year in 1978?",
+        "Answer": "The Times"
+    },
+    {
+        "Quiz question": "Which King was known as William the Conqueror? William I, William II or William III?",
+        "Answer": "William I"
+    },
+    {
+        "Quiz question": "During which war did Florence Nightingale become famous for her work in army hospitals?",
+        "Answer": "Crimean"
+    },
+    {
+        "Quiz question": "In which battle was Horatio Nelson fatally wounded?",
+        "Answer": "Trafalgar"
+    },
+    {
+        "Quiz question": "According to the Bible, who committed the first ever murder?",
+        "Answer": "Cain"
+    },
+    {
+        "Quiz question": "In which year did John Major become leader of the Conservative party?",
+        "Answer": "1990"
+    },
+    {
+        "Quiz question": "Which politician's last words are said to be 'I'm so bored with it all'?",
+        "Answer": "Winston Churchill"
+    },
+    {
+        "Quiz question": "How many took part in the Last Supper?",
+        "Answer": "13"
+    },
+    {
+        "Quiz question": "What were the first living creatures sent into space by the United States?",
+        "Answer": "Mice"
+    },
+    {
+        "Quiz question": "The world's first public railway was opened in which country?",
+        "Answer": "England"
+    },
+    {
+        "Quiz question": "Napoleon was born on which island?",
+        "Answer": "Corsica"
+    },
+    {
+        "Quiz question": "Who is said to have founded Rome after killing his brother? Romulus or Remus?",
+        "Answer": "Romulus"
+    },
+    {
+        "Quiz question": "What was the system of drawing pictures to symbolise words in ancient Egypt called?",
+        "Answer": "Hieroglyphics"
+    },
+    {
+        "Quiz question": "In which month of 1929 did the St Valentines Day massacre take place?",
+        "Answer": "February"
+    },
+    {
+        "Quiz question": "How many children did Queen Victoria have?",
+        "Answer": "9"
+    },
+    {
+        "Quiz question": "Which battle of 1746 ended the Jacobite revolution?",
+        "Answer": "Culloden"
+    },
+    {
+        "Quiz question": "Who is the second longest reigning monarch in Britain, behind Queen Victoria?",
+        "Answer": "George III"
+    },
+    {
+        "Quiz question": "For how many days were US TV commercials dropped after President Kennedy's death as a mark of respect? 1, 4 or 14?",
+        "Answer": "4"
+    },
+    {
+        "Quiz question": "What was the name of the ship on which Charles Darwin began developing his theory of evolution?",
+        "Answer": "The Beagle"
+    },
+    {
+        "Quiz question": "Who's demonstrations led to the Civil Rights Act in 1964?",
+        "Answer": "Martin Luther King's"
+    },
+    {
+        "Quiz question": "What was the plane that dropped the first atomic bomb?",
+        "Answer": "Enola Gay"
+    },
+    {
+        "Quiz question": "Which town was the scene of the Gunfight at the OK Corral?",
+        "Answer": "Tombstone"
+    },
+    {
+        "Quiz question": "How many wives did Henry VIII divorce?",
+        "Answer": "2"
+    },
+    {
+        "Quiz question": "Who killed who in the first live televised murder in 1963?",
+        "Answer": "Jack Ruby killed Lee Harvey Oswald"
+    },
+    {
+        "Quiz question": "What was the hunchback of Notre Dame's name?",
+        "Answer": "Quasimodo"
+    },
+    {
+        "Quiz question": "In what year did the London Eye open?",
+        "Answer": "2000"
+    },
+    {
+        "Quiz question": "In 1982, Hector E. Bonzo was the last Captain of which ship?",
+        "Answer": "General Belgrano"
+    },
+    {
+        "Quiz question": "Which famous person in history rode a horse called Black Bess?",
+        "Answer": "Dick Turpin"
+    },
+    {
+        "Quiz question": "Ted Bundy the American serial killer was convicted because of what type of forensic evidence? Hair samples, Fingerprints or Bite Marks?",
+        "Answer": "Bite marks"
+    },
+    {
+        "Quiz question": "Which two months are named after Roman Emperors?",
+        "Answer": "July and August"
+    },
+    {
+        "Quiz question": "In which British city was Guy Fawkes born and Dick Turpin killed?",
+        "Answer": "York"
+    },
+    {
+        "Quiz question": "Who was Prime Minister for France in 1974 to 1976 and 1986 to 1988 and became President of France in 1995?",
+        "Answer": "Jacques Chirac"
+    },
+    {
+        "Quiz question": "Which country was once called Rhodesia?",
+        "Answer": "Zimbabwe"
+    },
+    {
+        "Quiz question": "During which month is the anniversary of the revolution celebrated in Russia?",
+        "Answer": "November (the 7th)"
+    },
+    {
+        "Quiz question": "Which of the following English King's never married? William II, Edward II or George II?",
+        "Answer": "William II"
+    },
+    {
+        "Quiz question": "In what decade was Mahatma Gandhi assassinated?",
+        "Answer": "1940s (1948)"
+    },
+    {
+        "Quiz question": "In what year was the Berlin wall erected?",
+        "Answer": "1961"
+    },
+    {
+        "Quiz question": "According to Greek mythology, who destroyed the monsters Python and Cyclops?",
+        "Answer": "Apollo"
+    },
+    {
+        "Quiz question": "What type of antique furniture was a cheval?",
+        "Answer": "Mirror"
+    },
+    {
+        "Quiz question": "Which of Henry VIII's wives was mother to Queen Elizabeth I?",
+        "Answer": "Anne Boleyn"
+    },
+    {
+        "Quiz question": "In which country did the religion of Rastafarianism originate?",
+        "Answer": "Jamaica"
+    },
+    {
+        "Quiz question": "In what year was the battle of Trafalgar? 1785, 1805 or 1814?",
+        "Answer": "1805"
+    },
+    {
+        "Quiz question": "When was the country of Albania formed? 1713, 1813 or 1913?",
+        "Answer": "1913"
+    },
+    {
+        "Quiz question": "What is the earliest recorded Roman town in England? York, Colchester or Chelmsford?",
+        "Answer": "Colchester"
+    },
+    {
+        "Quiz question": "Who was born in Russia in 1877, moved to America and worked on make-up for films and in 1927 introduced the first cosmetics to be sold to non-theatrical customers?",
+        "Answer": "Max Factor"
+    },
+    {
+        "Quiz question": "In which century did Good King Wenceslas live?",
+        "Answer": "10th"
+    },
+    {
+        "Quiz question": "Who is reported to have said to his wife 'Honey, I forgot to duck' after an assassination attempt in 1981?",
+        "Answer": "Ronald Reagan"
+    },
+    {
+        "Quiz question": "In 1898, which nation fought Spain in one of the most one-sided wars in modern history?",
+        "Answer": "USA"
+    },
+    {
+        "Quiz question": "What was Winston ChurchillÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s home in Kent called?",
+        "Answer": "Chartwell"
+    },
+    {
+        "Quiz question": "According to the Bible, what kind of bird did Noah first release from the Ark when the rain stopped?",
+        "Answer": "A raven."
+    },
+    {
+        "Quiz question": "Which European country began the tradition of exchanging gifts at Christmas time?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "What appeared for the first time in The Times newspaper in September 1860 ?",
+        "Answer": "The weather forecast"
+    },
+    {
+        "Quiz question": "In what year did Buffalo Bill die? 1789, 1865 or 1917?",
+        "Answer": "1917"
+    },
+    {
+        "Quiz question": "By what nickname was William Bonney better known?",
+        "Answer": "Billy The Kid"
+    },
+    {
+        "Quiz question": "What nationality was Adolf Hitler?",
+        "Answer": "Austrian"
+    },
+    {
+        "Quiz question": "Who designed the Royal Pavillion in Brighton?",
+        "Answer": "John Nash"
+    },
+    {
+        "Quiz question": "The body of the Egyptian Sphinx was based on which animal?",
+        "Answer": "A lion"
+    },
+    {
+        "Quiz question": "Which war was ended by the signing of an armistice on 27th July 1953?",
+        "Answer": "The Korean War"
+    },
+    {
+        "Quiz question": "What nationality was Copernicus, the astronomer who showed that the Earth rotated around the Sun?",
+        "Answer": "Polish"
+    },
+    {
+        "Quiz question": "Who is the only American President to have been born on July 4th?",
+        "Answer": "Calvin Coolidge"
+    },
+    {
+        "Quiz question": "What is 'Paille Maille' from which the London street Pall Mall takes it's name?",
+        "Answer": "A French game, similar to croquet"
+    },
+    {
+        "Quiz question": "What nationality was the architect Robert Adam?",
+        "Answer": "Scottish"
+    },
+    {
+        "Quiz question": "For what was Sir Rowland Hill famous for in the 19th century?",
+        "Answer": "Postage stamps"
+    },
+    {
+        "Quiz question": "In which city was Archduke Ferdinand assassinated leading to the World War I?",
+        "Answer": "Sarajevo"
+    },
+    {
+        "Quiz question": "Which British Prime Minister, in 1938, returned from Germany with a paper signed by Hitler, declaring that it meant 'peace for our time'?",
+        "Answer": "Neville Chamberlain."
+    },
+    {
+        "Quiz question": "What name was given to the stock-market crash which led to the Great Depression in America? Black Monday, Black Tuesday or Black Wednesday?",
+        "Answer": "Black Tuesday"
+    },
+    {
+        "Quiz question": "Valencia Island is off the coast of which European country?",
+        "Answer": "Ireland"
+    },
+    {
+        "Quiz question": "Which people met famously in Ujiji in 1871?",
+        "Answer": "Stanley and Dr Livingstone"
+    },
+    {
+        "Quiz question": "Who was the second President of the USA?",
+        "Answer": "John Adams"
+    },
+    {
+        "Quiz question": "What was the Roman name for Scotland?",
+        "Answer": "Caledonia"
+    },
+    {
+        "Quiz question": "Which country began the tradition of exchanging gifts at Christmas? Italy, Denmark or Turkey?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "At what type of shop did the Great Fire Of London start in 1666?",
+        "Answer": "Bakers"
+    },
+    {
+        "Quiz question": "Who invented vulcanized rubber in 1839?",
+        "Answer": "Charles Goodyear"
+    },
+    {
+        "Quiz question": "In which century did William Shakespeare write 'Henry VIII'?",
+        "Answer": "17th"
+    },
+    {
+        "Quiz question": "Who hit the first golf ball on the moon?",
+        "Answer": "Alan Shepard"
+    },
+    {
+        "Quiz question": "On which island did the now extinct dodo live?",
+        "Answer": "Mauritius"
+    },
+    {
+        "Quiz question": "During what century was Napoleon Bonaparte the emperor of France?",
+        "Answer": "19th"
+    },
+    {
+        "Quiz question": "Which city did the Romans call Eboracum?",
+        "Answer": "York"
+    },
+    {
+        "Quiz question": "In which year did the Titanic sink?",
+        "Answer": "1912"
+    },
+    {
+        "Quiz question": "Who did John Hinkley try to assassinate in 1981?",
+        "Answer": "Ronald Reagan"
+    },
+    {
+        "Quiz question": "Who was President of the United States during the American Civil War?",
+        "Answer": "Abraham Lincoln"
+    },
+    {
+        "Quiz question": "For what invention is Earl Silas Tupper best known?",
+        "Answer": "Tupperware"
+    },
+    {
+        "Quiz question": "Whose last words were 'TÃÆÃÂªte d'ArmÃÆÃÂ©e' which translate as 'Chief Of The Army'?",
+        "Answer": "Napolean Bonaparte"
+    },
+    {
+        "Quiz question": "Which American President ordered the dropping of the first Atomic Bomb?",
+        "Answer": "Harry Truman"
+    },
+    {
+        "Quiz question": "What did American astronomer Clyde Tombaugh discover in 1930?",
+        "Answer": "The planet Pluto"
+    },
+    {
+        "Quiz question": "What was the original function of the Leaning Tower of Pisa?",
+        "Answer": "A bell tower"
+    },
+    {
+        "Quiz question": "In which year did John F Kennedy become President of the USA?",
+        "Answer": "1961"
+    },
+    {
+        "Quiz question": "In what year was the last judicial hanging in Britain?",
+        "Answer": "1964"
+    },
+    {
+        "Quiz question": "Who was the leader of the Bolshevik Revolution in Russia in 1917?",
+        "Answer": "Lenin"
+    },
+    {
+        "Quiz question": "Who was the first English monarch to be addressed as 'Your Majesty'?",
+        "Answer": "Henry VIII"
+    },
+    {
+        "Quiz question": "What was the first country in the world to allow women to vote?",
+        "Answer": "New Zealand"
+    },
+    {
+        "Quiz question": "Who is generally referred to as being the first serial killer of all time?",
+        "Answer": "Jack The Ripper"
+    },
+    {
+        "Quiz question": "In which Asian country did the Long March of the 1930s take place?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "In which country land did the Ptolemy dynasty once rule?",
+        "Answer": "Egypt"
+    },
+    {
+        "Quiz question": "What is the world's oldest continually inhabited city?",
+        "Answer": "Damascus"
+    },
+    {
+        "Quiz question": "Albert Einstein declined the Presidency of which country in 1952?",
+        "Answer": "Israel"
+    },
+    {
+        "Quiz question": "Who invented the safety lamp in 1815?",
+        "Answer": "Sir Humphry Davy"
+    },
+    {
+        "Quiz question": "Which 'S.P.' was invented by Walter Hunt in 1847?",
+        "Answer": "Safety Pin"
+    },
+    {
+        "Quiz question": "In which year was the first atomic bomb launched?",
+        "Answer": "1945"
+    },
+    {
+        "Quiz question": "What famous discovery took place in 1922 in the Valley of Kings near Luxor in Egypt?",
+        "Answer": "King Tutankhamen's tomb"
+    },
+    {
+        "Quiz question": "Who sailed to the Galapagos Islands on his ship HMS Beagle?",
+        "Answer": "Charles Darwin"
+    },
+    {
+        "Quiz question": "In which decade did the Roswell incident take place, in which wreckage from a UFO was said to be discovered?",
+        "Answer": "1940s"
+    },
+    {
+        "Quiz question": "Which is Britain's oldest cathedral?",
+        "Answer": "Canterbury"
+    },
+    {
+        "Quiz question": "What was the first metal used by man to make tools and weapons?",
+        "Answer": "Copper"
+    },
+    {
+        "Quiz question": "What method of transport was invented by Karl D. Sauerbronn in 1816?",
+        "Answer": "The bicycle"
+    },
+    {
+        "Quiz question": "Who was William Frederick Cody better known as?",
+        "Answer": "Buffalo Bill"
+    },
+    {
+        "Quiz question": "What was the first country to issue postage stamps?",
+        "Answer": "Britain"
+    },
+    {
+        "Quiz question": "Which American president gave the order to withdraw from the Vietnam War?",
+        "Answer": "Richard Nixon"
+    },
+    {
+        "Quiz question": "Beginning with the letter 'O' what became the 46th state of the USA in 1907?",
+        "Answer": "Oklahoma"
+    },
+    {
+        "Quiz question": "Who was the first human to walk in space?",
+        "Answer": "Alexei Leonov"
+    },
+    {
+        "Quiz question": "Name the only three successive female English monarchs?",
+        "Answer": "Lady Jane Gray, Mary I and Elizabeth I"
+    },
+    {
+        "Quiz question": "Which American President saw active service in both World War I and World War II?",
+        "Answer": "Eisenhower"
+    },
+    {
+        "Quiz question": "Who, in 1985, said 'Only free men can negotiate; prisoners cannot enter into contracts'?",
+        "Answer": "Nelson Mandela"
+    },
+    {
+        "Quiz question": "Which knight of the Round Table fell in love with Queen Guinevere?",
+        "Answer": "Lancelot"
+    },
+    {
+        "Quiz question": "What was Ferdinand Porches best selling car design?",
+        "Answer": "The Volkswagen Beetle"
+    },
+    {
+        "Quiz question": "What was the first food consumed by the astronauts of Apollo 11 after landing on the Moon?",
+        "Answer": "Turkey"
+    },
+    {
+        "Quiz question": "What was the first animal to be sent into space?",
+        "Answer": "A dog"
+    },
+    {
+        "Quiz question": "Where in London were Prince Charles and Princess Diana married?",
+        "Answer": "St Pauls Cathedral"
+    },
+    {
+        "Quiz question": "In which decade was Calvin Coolidge President of the USA?",
+        "Answer": "1920s"
+    },
+    {
+        "Quiz question": "Who was the first woman to win a Nobel Prize?",
+        "Answer": "Marie Curie"
+    },
+    {
+        "Quiz question": "Who invented the telephone?",
+        "Answer": "Alexander Graham Bell"
+    },
+    {
+        "Quiz question": "What is the oldest University in Britain?",
+        "Answer": "Oxford"
+    },
+    {
+        "Quiz question": "Martin Luther King stood before what monument when he delivered his famous 'I have a dream' speech?",
+        "Answer": "Lincoln Memorial."
+    },
+    {
+        "Quiz question": "Who preceded John F Kennedy as the President of the USA?",
+        "Answer": "Dwight Eisenhower"
+    },
+    {
+        "Quiz question": "Who was the last English King to die in battle?",
+        "Answer": "Richard III"
+    },
+    {
+        "Quiz question": "What two names are given to the old and new styles of calendar?",
+        "Answer": "Julian (old style) and Gregorian (new style)"
+    },
+    {
+        "Quiz question": "In what year did Guy Fawkes attempt to blow up the Houses of Parliament?",
+        "Answer": "1605"
+    },
+    {
+        "Quiz question": "In what year did Iraq invade Kuwait, leading to the Gulf War?",
+        "Answer": "1990"
+    },
+    {
+        "Quiz question": "In 1889, what took over from the Great Pyramid as the tallest building in the world?",
+        "Answer": "The Eiffel Tower"
+    },
+    {
+        "Quiz question": "By what name was the Allied operation against Iraq in the Gulf war of 1991 known?",
+        "Answer": "Desert Storm"
+    },
+    {
+        "Quiz question": "Which of these periods was most recent? Permian, Cretaceous or Silurian?",
+        "Answer": "Silurian"
+    },
+    {
+        "Quiz question": "Who invented both the electric lamp and the gramaphone?",
+        "Answer": "Thomis Edison"
+    },
+    {
+        "Quiz question": "Whose ship was originally called Pelican and later called the Golden Hind?",
+        "Answer": "Sir Francis Drake's"
+    },
+    {
+        "Quiz question": "Which American President was in office when America declared war on Germany in World War I?",
+        "Answer": "Woodrow Wilson"
+    },
+    {
+        "Quiz question": "Which American President was known as 'Man of the People'?",
+        "Answer": "Andrew Jackson"
+    },
+    {
+        "Quiz question": "In which year did Princess Diana die?",
+        "Answer": "1997"
+    },
+    {
+        "Quiz question": "Who was British Prime Minister from  1951-1955?",
+        "Answer": "Winston Churchill"
+    },
+    {
+        "Quiz question": "In which country did the dance the fandango originate?",
+        "Answer": "Spain"
+    },
+    {
+        "Quiz question": "Which American President was nicknamed 'Old Hickery'?",
+        "Answer": "Andrew Jackson"
+    },
+    {
+        "Quiz question": "Which British Prime Minister merged the British and Irish Parliaments in 1801?",
+        "Answer": "William Pitt"
+    },
+    {
+        "Quiz question": "What was William The Conqueror's wife called?",
+        "Answer": "Matilda"
+    },
+    {
+        "Quiz question": "What country began the tradition of exchanging gifts over Christmas?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "In 1916, 55% of cars were of what make?",
+        "Answer": "Model T Fords"
+    },
+    {
+        "Quiz question": "In which century was King Henry IV of England born?",
+        "Answer": "14th"
+    },
+    {
+        "Quiz question": "In what year did Ruth Ellis become the last woman to be hanged in England?",
+        "Answer": "1955"
+    },
+    {
+        "Quiz question": "The first nationally televised presidential debate involved which two American candidates?",
+        "Answer": "John F Kennedy and Richard Nixon."
+    },
+    {
+        "Quiz question": "What was the first method of transport used to take people into the air?",
+        "Answer": "Hot Air Balloons"
+    },
+    {
+        "Quiz question": "Who was the first British monarch to choose Buckingham Palace as their home?",
+        "Answer": "Queen Victoria"
+    },
+    {
+        "Quiz question": "Cameroon gained it's independence from which European country in 1960?",
+        "Answer": "France"
+    },
+    {
+        "Quiz question": "Which American President once famously proclaimed 'Ich bin ein Berliner'?",
+        "Answer": "John F. Kennedy"
+    },
+    {
+        "Quiz question": "Which US president was shot in 1901? McKinley, Lincoln or Cleveland?",
+        "Answer": "McKinley"
+    },
+    {
+        "Quiz question": "What type of transport appeared in London for the first time in 1861?",
+        "Answer": "Trams"
+    },
+    {
+        "Quiz question": "Which British politician said 'Assassination has never changed the history of the world' in 1865?",
+        "Answer": "Benjamin Disraeli"
+    },
+    {
+        "Quiz question": "Which of Henry VIII's wives was mother to King Edward VI?",
+        "Answer": "Jane Seymour"
+    },
+    {
+        "Quiz question": "In ancient Greece, Aristotle claimed that all matter on Earth was made of which four elements?",
+        "Answer": "Earth, Air, Water and Fire."
+    },
+    {
+        "Quiz question": "Which British monarch was on the throne at the beginning of the 20th Century?",
+        "Answer": "Queen Victoria"
+    },
+    {
+        "Quiz question": "In what year did Neville Chamberlain first become Prime Minister?",
+        "Answer": "1937"
+    },
+    {
+        "Quiz question": "Who did Jimmy Carter succeed as President of the United States?",
+        "Answer": "Gerald Ford"
+    },
+    {
+        "Quiz question": "What were the Montgolfier brothers the first to do in 1783?",
+        "Answer": "Send up a hot-air balloon."
+    },
+    {
+        "Quiz question": "In which country did Karl Marx spend the last 34 years of his life?",
+        "Answer": "England"
+    },
+    {
+        "Quiz question": "In which century did Henry V rule England?",
+        "Answer": "15th"
+    },
+    {
+        "Quiz question": "Who was the first man to swim the English channel?",
+        "Answer": "Matthew Webb"
+    },
+    {
+        "Quiz question": "Who was the first member of the Royal Family to be interviewed on television?",
+        "Answer": "Prince Philip"
+    },
+    {
+        "Quiz question": "How was the Volstead Act of 1919 better known in America?",
+        "Answer": "Prohibition"
+    },
+    {
+        "Quiz question": "What is the oldest daily newspaper in England?",
+        "Answer": "The Times"
+    },
+    {
+        "Quiz question": "Which of Henry VIII's children reigned in England for 44 years?",
+        "Answer": "Elizabeth I"
+    },
+    {
+        "Quiz question": "Which two American states joined the union in 1959?",
+        "Answer": "Alaska and Hawaii"
+    },
+    {
+        "Quiz question": "Which American President ordered the dropping of the first atomic bomb?",
+        "Answer": "Harry S Truman"
+    },
+    {
+        "Quiz question": "After which famous person in history was the teddy bear named?",
+        "Answer": "Theodore Roosevelt"
+    },
+    {
+        "Quiz question": "In which century did King George IV rule Great Britain?",
+        "Answer": "18th"
+    },
+    {
+        "Quiz question": "What was the name given to the trials of 24 Nazi leaders for war crimes in 1945?",
+        "Answer": "The Nuremberg Trials"
+    },
+    {
+        "Quiz question": "In what century was the Taj Mahal built?",
+        "Answer": "17th"
+    },
+    {
+        "Quiz question": "Which gangster said 'I've been accused of every death except the casualty list of the World War'?",
+        "Answer": "Al Capone."
+    },
+    {
+        "Quiz question": "In what year was Prince William born?",
+        "Answer": "1982"
+    },
+    {
+        "Quiz question": "The word 'book' originates from the middle English word 'bok' meaning which type of tree?",
+        "Answer": "Beech"
+    },
+    {
+        "Quiz question": "Richard Byrd is credited with having been the first person to fly over what particular spot in the world?",
+        "Answer": "The North Pole"
+    },
+    {
+        "Quiz question": "Why don't the restaurants 'Palm Court', 'Café Parisien' and 'Verandah' exist anymore?",
+        "Answer": "They were on the Titanic"
+    },
+    {
+        "Quiz question": "What city was the capital of Poland between 1320 and 1611?",
+        "Answer": "Krakow"
+    },
+    {
+        "Quiz question": "Who was the first President of America?",
+        "Answer": "George Washington"
+    },
+    {
+        "Quiz question": "Which American President served only 31 days?",
+        "Answer": "William Harrison"
+    },
+    {
+        "Quiz question": "When the first World War broke out which three countries made up the Triple Entente?",
+        "Answer": "France, England and Russia"
+    },
+    {
+        "Quiz question": "What is Adam's ale or Adam's wine?",
+        "Answer": "Water"
+    },
+    {
+        "Quiz question": "Who were the mother and father of Elizabeth I?",
+        "Answer": "Anne Boleyn and Henry VIII"
+    },
+    {
+        "Quiz question": "Which British Prime Minister resigned because of the Suez crisis?",
+        "Answer": "Anthoney Eden"
+    },
+    {
+        "Quiz question": "For what was Rosa Parks arrested in 1955, leading to the biggest US Civil Rights movement?",
+        "Answer": "Refusing to give up her seat on a bus for a white man"
+    },
+    {
+        "Quiz question": "John Major became a member of Parliament in 1979 for which town, north of London?",
+        "Answer": "Huntingdon"
+    },
+    {
+        "Quiz question": "Which American President was shot in 1901 and died 8 days later?",
+        "Answer": "McKinley"
+    },
+    {
+        "Quiz question": "The Battle of Bosworth in 1485 was the last battle of which series of wars?",
+        "Answer": "The Wars Of The Roses"
+    },
+    {
+        "Quiz question": "The explorer Sir Edmund Hillary was from which country?",
+        "Answer": "New Zealand"
+    },
+    {
+        "Quiz question": "The popular British pub name 'The Royal Oak' is named after which King?",
+        "Answer": "Charles II (he hid in an oak tree to escape enemies)"
+    },
+    {
+        "Quiz question": "Collectively, by what name are Carole Richardson, Patrick Armstrong, Paul Hill and Gerard Conlon better known?",
+        "Answer": "The Guildford Four"
+    },
+    {
+        "Quiz question": "In which century was the world's first public railway opened?",
+        "Answer": "19th"
+    },
+    {
+        "Quiz question": "The invention of what in 1867, made Alfred Nobel famous?",
+        "Answer": "Dynamite"
+    },
+    {
+        "Quiz question": "What was King William II killed by? An arrow, the plague or old age?",
+        "Answer": "An Arrow"
+    },
+    {
+        "Quiz question": "In Greek mythology, who was the goddess of marriage, women and childbirth?",
+        "Answer": "Hera"
+    },
+    {
+        "Quiz question": "In what year did Margaret Thatcher become Prime Minister?",
+        "Answer": "1979"
+    },
+    {
+        "Quiz question": "In what year was London due to host the Olympic Games, but couldn't because of the Second World War?",
+        "Answer": "1944"
+    },
+    {
+        "Quiz question": "On March 3rd, 1991, who was severly beaten by Los Angeles police officers causing public outcry?",
+        "Answer": "Rodney King"
+    },
+    {
+        "Quiz question": "Which king was the target of the Gunpowder plot of 1605?",
+        "Answer": "James I"
+    },
+    {
+        "Quiz question": "In which year did Tony Blair first become British Prime Minister?",
+        "Answer": "1997"
+    },
+    {
+        "Quiz question": "What alloy was the most important metal for tools and weapons between the years 4000 and 2000 B.C.?",
+        "Answer": "Bronze"
+    },
+    {
+        "Quiz question": "Who was the first US President to meet with a reigning British monarch?",
+        "Answer": "Woodrow Wilson"
+    },
+    {
+        "Quiz question": "In which month in 1914, did Britain declare war on Germany?",
+        "Answer": "August"
+    },
+    {
+        "Quiz question": "Thomas Chippendale was best known for making and designing what in the 18th century?",
+        "Answer": "Furniture"
+    },
+    {
+        "Quiz question": "What historic event does the nursery rhyme 'Ring-a-ring of roses' commemorate?",
+        "Answer": "The Great Plague"
+    },
+    {
+        "Quiz question": "In which year did colour TV transmissions begin in Britain?",
+        "Answer": "1969"
+    },
+    {
+        "Quiz question": "As at the year 2001, who has been the tallest American President?",
+        "Answer": "Abraham Lincoln"
+    },
+    {
+        "Quiz question": "Which famous London department store opened on 15th March, 1909?",
+        "Answer": "Selfridges"
+    },
+    {
+        "Quiz question": "Which of the following occurred most recently? The Iron Age or The Bronze Age?",
+        "Answer": "Iron Age"
+    },
+    {
+        "Quiz question": "Who is the only American President to have served non-consecutive terms in office?",
+        "Answer": "Grover Cleveland"
+    },
+    {
+        "Quiz question": "In which country did the cloning of Dolly the sheep take place?",
+        "Answer": "Scotland"
+    },
+    {
+        "Quiz question": "Who ordered the beheading of Mary Queen Of Scots?",
+        "Answer": "Queen Elizabeth I"
+    },
+    {
+        "Quiz question": "Which English queen was married to Lord Guildford Dudley?",
+        "Answer": "Lady Jane Grey"
+    },
+    {
+        "Quiz question": "Which geographical location was the first word spoken on the moon?",
+        "Answer": "Houston"
+    },
+    {
+        "Quiz question": "What was Hitler's title as the leader of Nazi Germany? Fuhrer, Muller or Kaiser?",
+        "Answer": "Fuhrer"
+    },
+    {
+        "Quiz question": "What was the surname of Zachary, the President of the USA between 1849 and 1850?",
+        "Answer": "Taylor"
+    },
+    {
+        "Quiz question": "How many of Henry VIII's wives had been previously married?",
+        "Answer": "2"
+    },
+    {
+        "Quiz question": "Who did Queen Elizabeth I succeed to the throne?",
+        "Answer": "Mary I"
+    },
+    {
+        "Quiz question": "In which war was the Victoria Cross first awarded?",
+        "Answer": "The Crimean War"
+    },
+    {
+        "Quiz question": "In which century did the diamond engagement ring first become popular?",
+        "Answer": "15th"
+    },
+    {
+        "Quiz question": "Which country declared war on both Germany and the Allies in World War II?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "Which two brothers are associated with the invention of the aeroplane?",
+        "Answer": "Orville and Wilbur Wright"
+    },
+    {
+        "Quiz question": "By what title was Oliver Cromwell known?",
+        "Answer": "Lord Protector"
+    },
+    {
+        "Quiz question": "In 1978, what was Sweden's most profitable export, ahead of Volvo?",
+        "Answer": "Abba"
+    },
+    {
+        "Quiz question": "How did Robert The Bruce die?",
+        "Answer": "Of the disease leprosy"
+    },
+    {
+        "Quiz question": "What was the name of the bomb which was dropped on Nagasaki during World War II?",
+        "Answer": "Fat Man"
+    },
+    {
+        "Quiz question": "Which famous museum opened in London, in April 1928?",
+        "Answer": "Madam Tussauds"
+    },
+    {
+        "Quiz question": "In Greek mythology, what was unusual about Medusa's hair?",
+        "Answer": "It was made of snakes."
+    },
+    {
+        "Quiz question": "In America, what became the 49th state to enter the union in 1959?",
+        "Answer": "Alaska"
+    },
+    {
+        "Quiz question": "Which district of London was named after a battle fought in 1815?",
+        "Answer": "Waterloo"
+    },
+    {
+        "Quiz question": "In what year did the first successful Mars landings take place? 1970, 1973 or 1976?",
+        "Answer": "1976"
+    },
+    {
+        "Quiz question": "For how many years did the Jurassic period last? 60 million, 180 million or 660 million?",
+        "Answer": "180 million"
+    },
+    {
+        "Quiz question": "In which century was Mary, Queen Of Scots executed?",
+        "Answer": "16th"
+    },
+    {
+        "Quiz question": "Who was the first American President to visit China?",
+        "Answer": "Richard Nixon"
+    },
+    {
+        "Quiz question": "Parker and Barrow were the surnames of which famous couple?",
+        "Answer": "Bonnie and Clyde"
+    },
+    {
+        "Quiz question": "What type of animal was the first to be sent into space?",
+        "Answer": "A dog"
+    },
+    {
+        "Quiz question": "For what reason did American Sally Ride become famous in 1983?",
+        "Answer": "First American female in space"
+    },
+    {
+        "Quiz question": "In which year did Richard Nixon begin the secret bombing of Cambodia?",
+        "Answer": "1969"
+    },
+    {
+        "Quiz question": "Which famous person in history invented the greeting, 'Hello' first used for answering the telephone?",
+        "Answer": "Thomas Edison"
+    },
+    {
+        "Quiz question": "Who was the famous son of the Greek princess Olympias?",
+        "Answer": "Alexander The Great"
+    },
+    {
+        "Quiz question": "What were the names of Adam and Eve's three sons?",
+        "Answer": "Cain, Abel and Seth"
+    },
+    {
+        "Quiz question": "Which war was called the 'War to end all wars'? World War I, World War II or The American Civil War?",
+        "Answer": "World War I"
+    },
+    {
+        "Quiz question": "In what year did Laika the dog become the first space traveller?",
+        "Answer": "1957"
+    },
+    {
+        "Quiz question": "Which country in Europe has the oldest Parliament?",
+        "Answer": "Iceland"
+    },
+    {
+        "Quiz question": "Who was the third President of America and chief authour of the Declaration Of Independence?",
+        "Answer": "Thomas Jefferson"
+    },
+    {
+        "Quiz question": "In what year was the battle of Agincourt?",
+        "Answer": "1415"
+    },
+    {
+        "Quiz question": "By what name was the Scottish outlaw Robert McGregor better known?",
+        "Answer": "Rob Roy"
+    },
+    {
+        "Quiz question": "In 1969, what became the first song to be sung in outer space?",
+        "Answer": "Happy Birthday"
+    },
+    {
+        "Quiz question": "By what name was Sir Arthur Wellesley better known?",
+        "Answer": "Duke of Wellington"
+    },
+    {
+        "Quiz question": "What was the name of the suffragette who threw herself under the King's horse in the 1913 Derby?",
+        "Answer": "Emily Davison"
+    },
+    {
+        "Quiz question": "What was the profession of Alexander Graham Bell, inventor of the telephone?",
+        "Answer": "Teacher (of deaf and dumb children)"
+    },
+    {
+        "Quiz question": "Which country suffered over 6 million deaths in World War II, equivalent to over 17% of it's population?",
+        "Answer": "Poland"
+    },
+    {
+        "Quiz question": "Which English King was killed by an arrow at the battle of Hastings?",
+        "Answer": "King Harold"
+    },
+    {
+        "Quiz question": "In what year were protesting students murdered in Tiananman Square?",
+        "Answer": "1989"
+    },
+    {
+        "Quiz question": "Who was murdered by Robert Ford?",
+        "Answer": "Jesse James"
+    },
+    {
+        "Quiz question": "Which US President was forced to resign because of the Watergate scandal?",
+        "Answer": "Richard Nixon"
+    },
+    {
+        "Quiz question": "Which monarch's last words were 'All my possessions for a moment of time'?",
+        "Answer": "Elizabeth I"
+    },
+    {
+        "Quiz question": "What happened in 1847 that is sometimes referred to as 'Black Forty Seven'?",
+        "Answer": "The potato famine in Ireland"
+    },
+    {
+        "Quiz question": "In which country was Mother Theresa born?",
+        "Answer": "Yugoslavia"
+    },
+    {
+        "Quiz question": "In which country did Venetian blinds originate? Italy, India or Japan?",
+        "Answer": "Japan"
+    },
+    {
+        "Quiz question": "Who was the first American President to die while in office?",
+        "Answer": "William Harrison"
+    },
+    {
+        "Quiz question": "What was the maiden name of the bride at the first wedding watched by over 750 million people?",
+        "Answer": "Diana Spencer"
+    },
+    {
+        "Quiz question": "Who was Queen Elizabeth II's father?",
+        "Answer": "George VI"
+    },
+    {
+        "Quiz question": "Who, in 1901, was the first man to send a Radio Telegraph signal across the Atlantic Ocean?",
+        "Answer": "Guglielmo Marconi"
+    },
+    {
+        "Quiz question": "Which famous raid did Guy Gibson lead in 1943?",
+        "Answer": "The Dambusters"
+    },
+    {
+        "Quiz question": "Which historical event does the London structure called the Monument commemorate?",
+        "Answer": "The Great Fire Of London."
+    },
+    {
+        "Quiz question": "Which animal was first domesticated by humans? The cat or the dog?",
+        "Answer": "Dog"
+    },
+    {
+        "Quiz question": "Which European country first began using house numbers?",
+        "Answer": "France"
+    },
+    {
+        "Quiz question": "Who was the third crew member along with Neil Armstrong and Buzz Aldrin on the Apollo 11 mission?",
+        "Answer": "Michael Collins"
+    },
+    {
+        "Quiz question": "What was the name of the world's first test-tube baby?",
+        "Answer": "Louise Brown"
+    },
+    {
+        "Quiz question": "In which century was the author Jane Austen born?",
+        "Answer": "18th"
+    },
+    {
+        "Quiz question": "What was the former name for Halloween? All Hallow's Eve, All Saints Eve or All Souls Eve?",
+        "Answer": "All Hallow's Eve"
+    },
+    {
+        "Quiz question": "Which type of buildings did Don Quixote mistake for evil giants?",
+        "Answer": "Windmills"
+    },
+    {
+        "Quiz question": "Who organised the first continental holiday tour in 1855?",
+        "Answer": "Thomas Cook"
+    },
+    {
+        "Quiz question": "What was the name of the street where the Great Fire of London started?",
+        "Answer": "Pudding Lane"
+    },
+    {
+        "Quiz question": "In what year did Roald Amundsen become the first man to reach the South Pole?",
+        "Answer": "1911"
+    },
+    {
+        "Quiz question": "Who said in 1963 'All free men, wherever they may live, are citizens of Berlin'?",
+        "Answer": "John F. Kennedy (shortly followed by 'ich bin ein Berliner')"
+    },
+    {
+        "Quiz question": "In which language was the Magna Carta written?",
+        "Answer": "Latin"
+    },
+    {
+        "Quiz question": "Who ordered the building of The Tower of London?",
+        "Answer": "William the Conqueror"
+    },
+    {
+        "Quiz question": "In which month in 1963 was John F Kennedy assassinated?",
+        "Answer": "November"
+    },
+    {
+        "Quiz question": "Who was been the oldest American President to be elected into office?",
+        "Answer": "Ronald Reagan"
+    },
+    {
+        "Quiz question": "What nationality was Nostradamus?",
+        "Answer": "French"
+    },
+    {
+        "Quiz question": "Great Britain declared war on Germany after they invaded which country in 1939?",
+        "Answer": "Poland"
+    },
+    {
+        "Quiz question": "Which politcal party did American President Bill Clinton represent?",
+        "Answer": "Democratic Party"
+    },
+    {
+        "Quiz question": "Which British TV star and disc jockey said 'It's not affected my work - how healthy do you have to be to play Da Do Ron Ron?' in 1992 after confirming he had AIDS?",
+        "Answer": "Kenny Everett"
+    },
+    {
+        "Quiz question": "What is the literal translation of the word 'dinosaur'? Ancient Lizard, Great Lizard or Terrible Lizard?",
+        "Answer": "Terrible Lizard"
+    },
+    {
+        "Quiz question": "Which type of material was first manufactured in France at Nimes, from where it got its name?",
+        "Answer": "Denim"
+    },
+    {
+        "Quiz question": "In what year did Adolf Hitler commit suicide?",
+        "Answer": "1945"
+    },
+    {
+        "Quiz question": "What devastated Egypt in 1348? A Flood, a Drought or the Black Death?",
+        "Answer": "Black Death"
+    },
+    {
+        "Quiz question": "Through which city did Lady Godiva famously ride naked?",
+        "Answer": "Coventry"
+    },
+    {
+        "Quiz question": "Who was British Prime Minister from 1974-1976?",
+        "Answer": "Harold Wilson"
+    },
+    {
+        "Quiz question": "Whose last words were 'Et tu, Brute'?",
+        "Answer": "Julius Caesar's"
+    },
+    {
+        "Quiz question": "In which year did the Titanic sink?",
+        "Answer": "1912"
+    },
+    {
+        "Quiz question": "Who ruled England from 1837 to 1901?",
+        "Answer": "Queen Victoria"
+    },
+    {
+        "Quiz question": "What was the name of the first artificial satellite which the Soviets sent into orbit in 1957?",
+        "Answer": "Sputnik 1"
+    },
+    {
+        "Quiz question": "In what year did the first human heart transplant take place?",
+        "Answer": "1967"
+    },
+    {
+        "Quiz question": "What was the first machine to use electricity to send messages?",
+        "Answer": "The telegraph"
+    },
+    {
+        "Quiz question": "In what decade did the building of the Berlin wall begin?",
+        "Answer": "1960s"
+    },
+    {
+        "Quiz question": "Who was the first American President to appear on a postage stamp?",
+        "Answer": "George Washington"
+    },
+    {
+        "Quiz question": "What was the Roman name for Ireland?",
+        "Answer": "Hibernia"
+    },
+    {
+        "Quiz question": "Who was the first American president to resign from office?",
+        "Answer": "Richard Nixon"
+    },
+    {
+        "Quiz question": "In which century was William Wallace born?",
+        "Answer": "13th"
+    },
+    {
+        "Quiz question": "Captain Matthew Webb, famous for swimming the English Channel, drowned in 1883 attempting to swim what?",
+        "Answer": "The rapids below Niagra Falls"
+    },
+    {
+        "Quiz question": "How old was Queen Victoria when she ascended the throne in 1837?",
+        "Answer": "18"
+    },
+    {
+        "Quiz question": "Which two countries fought in the hundred years war?",
+        "Answer": "England and France"
+    },
+    {
+        "Quiz question": "Who were the parents of Queen Elizabeth the first?",
+        "Answer": "Henry VIII and Anne Boleyn"
+    },
+    {
+        "Quiz question": "Which country did Norway belong to until 1905?",
+        "Answer": "Sweden"
+    },
+    {
+        "Quiz question": "How many colonies made up the original United States in 1776?",
+        "Answer": "13"
+    },
+    {
+        "Quiz question": "Which baseball star did Marilyn Monroe marry in January, 1954?",
+        "Answer": "Joe DiMaggio"
+    },
+    {
+        "Quiz question": "What was the name of the largest dinosaur?",
+        "Answer": "Seismosaurus"
+    },
+    {
+        "Quiz question": "According to legend, what type of creature was slain by St George?",
+        "Answer": "Dragon"
+    },
+    {
+        "Quiz question": "Who was the first Roman Emperor?",
+        "Answer": "Augustus"
+    },
+    {
+        "Quiz question": "Who was the dance the 'Lindy Hop' named after?",
+        "Answer": "Charles Lindbergh"
+    },
+    {
+        "Quiz question": "In what century was Joan of Arc born?",
+        "Answer": "15th"
+    },
+    {
+        "Quiz question": "What was the first name of ex-Prime Minister Margaret Thatcher's husband?",
+        "Answer": "Denis"
+    },
+    {
+        "Quiz question": "Which country was once ruled by Tsars?",
+        "Answer": "Russia"
+    },
+    {
+        "Quiz question": "In what year did King John sign the Magna Carta?",
+        "Answer": "1215"
+    },
+    {
+        "Quiz question": "In which century did the Battle Of Agincourt take place?",
+        "Answer": "15th"
+    },
+    {
+        "Quiz question": "Who was the first American President to be assassinated?",
+        "Answer": "Abraham Lincoln"
+    },
+    {
+        "Quiz question": "What nationality was the philosopher Confucious?",
+        "Answer": "Chinese"
+    },
+    {
+        "Quiz question": "What was the name of the blind Benedictine monk who invented Champagne?",
+        "Answer": "Dom Perignon"
+    },
+    {
+        "Quiz question": "Which Canadian city was originally called York in 1793?",
+        "Answer": "Toronto"
+    },
+    {
+        "Quiz question": "In which city is Karl Marx buried?",
+        "Answer": "London"
+    },
+    {
+        "Quiz question": "Which country was once known as Constanstinople?",
+        "Answer": "Istanbul"
+    },
+    {
+        "Quiz question": "Who was reigning in Britain at the start of the First World War?",
+        "Answer": "King George V"
+    },
+    {
+        "Quiz question": "When women first got the vote in Britain in 1918, how old did they have to be?",
+        "Answer": "30"
+    },
+    {
+        "Quiz question": "In what year was the battle of Trafalgar?",
+        "Answer": "1805"
+    },
+    {
+        "Quiz question": "Which British Prime Minister was assassinated in 1812?",
+        "Answer": "Spencer Perceval"
+    },
+    {
+        "Quiz question": "Who was the first man to reach the South Pole?",
+        "Answer": "Roald Amundsen"
+    },
+    {
+        "Quiz question": "'Whiskey-A-Go-Go' in Los Angeles was America's first what?",
+        "Answer": "Discotheque"
+    },
+    {
+        "Quiz question": "The Panama Canal opened in the same year as a major war broke out. Which war?",
+        "Answer": "World War I"
+    },
+    {
+        "Quiz question": "Who was the British Prime Minister at the outbreak of the Second World War?",
+        "Answer": "Neville Chamberlain"
+    },
+    {
+        "Quiz question": "Who was killed playing poker while holding a pair of aces and a pair of eights leading to expression 'dead man's hand'?",
+        "Answer": "Wild Bill Hickock"
+    },
+    {
+        "Quiz question": "In which harbour did the Mary Rose sink in 1545?",
+        "Answer": "Portsmouth"
+    },
+    {
+        "Quiz question": "Which food, not rationed during World War II was later rationed after it?",
+        "Answer": "Bread"
+    },
+    {
+        "Quiz question": "Who, at 42 years old, was the youngest President of the United States of America?",
+        "Answer": "Theodore Roosevelt"
+    },
+    {
+        "Quiz question": "Which English King was nicknamed 'The Hammer of the Scots'?",
+        "Answer": "Edward I"
+    },
+    {
+        "Quiz question": "Which famous person in history had a horse called Marengo?",
+        "Answer": "Napolean"
+    },
+    {
+        "Quiz question": "In which town did Jesus grow up?",
+        "Answer": "Nazareth"
+    },
+    {
+        "Quiz question": "What American city was devastated by fire in 1871, allegedly as the result of a cow kicking over a lantern?",
+        "Answer": "Chicago"
+    },
+    {
+        "Quiz question": "In what year was Nelson Mandela imprisoned for life?",
+        "Answer": "1964"
+    },
+    {
+        "Quiz question": "What were Charles De Gaulle's last two words? 'Not now', 'It hurts' or 'Maybe later'?",
+        "Answer": "It hurts"
+    },
+    {
+        "Quiz question": "The Greek gods were believed to reside on what mountain?",
+        "Answer": "Olympus"
+    },
+    {
+        "Quiz question": "Who was the first divorced man to become American President?",
+        "Answer": "Ronald Reagan"
+    },
+    {
+        "Quiz question": "At the time when dinosaurs existed on the Earth's surface, how many continents were there?",
+        "Answer": "One"
+    },
+    {
+        "Quiz question": "In which war was the Victoria Cross first awarded?",
+        "Answer": "Crimean"
+    },
+    {
+        "Quiz question": "In what year did London's last tram run? 1932, 1942 or 1952?",
+        "Answer": "1952"
+    },
+    {
+        "Quiz question": "What did Henry Beck famously map out in 1932?",
+        "Answer": "The London Underground"
+    },
+    {
+        "Quiz question": "In which year was the Declaration Of Independence signed in America?",
+        "Answer": "1776."
+    },
+    {
+        "Quiz question": "What was the name of George Stephenson's train which made its first journey in public passenger service in 1825?",
+        "Answer": "Locomotion No. 1"
+    },
+    {
+        "Quiz question": "Who was the first person pictured on a British postage stamp?",
+        "Answer": "Queen Victoria"
+    },
+    {
+        "Quiz question": "In which decade was insulin first used to treat Diabetes?",
+        "Answer": "1920s"
+    },
+    {
+        "Quiz question": "In Greek mythology, who was the daughter or Cronus and wife of Zeus?",
+        "Answer": "Hera"
+    },
+    {
+        "Quiz question": "Who was President of the USA from 1963 to 1969?",
+        "Answer": "Lyndon B Johnson"
+    },
+    {
+        "Quiz question": "How many of Henry VIII's wives were called Catherine?",
+        "Answer": "3"
+    },
+    {
+        "Quiz question": "In which century did Christopher Columbus die?",
+        "Answer": "16th"
+    },
+    {
+        "Quiz question": "Who created havoc in 1938, when his radio broadcast of 'The War Of The Worlds' was believed to be true?",
+        "Answer": "Orson Welles"
+    },
+    {
+        "Quiz question": "Where was Napoleon Bonaparte's place of exile? Corsica, St Helena or Jersey?",
+        "Answer": "St Helena"
+    },
+    {
+        "Quiz question": "For which historical event did Benjamin Brittain compose the opera 'Gloriana'?",
+        "Answer": "The Coronation of Queen Elizabeth II"
+    },
+    {
+        "Quiz question": "In Greek mythology, who did Zeus punish by making him carry the heavens with his head and hands?",
+        "Answer": "Atlas"
+    },
+    {
+        "Quiz question": "The words Czar and Kaiser are both derived from which famous person in history?",
+        "Answer": "Julius Caesar"
+    },
+    {
+        "Quiz question": "Kim Campbell became the first female Prime Minister of which country in 1993?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "How was Agnes Gonxha Bojaxhiu better known?",
+        "Answer": "Mother Theresa"
+    },
+    {
+        "Quiz question": "Who replaced Asquith as leader of a coalition government during World War I?",
+        "Answer": "David Lloyd George."
+    },
+    {
+        "Quiz question": "What did the 'F' in John F. Kennedy stand for?",
+        "Answer": "Fitzgerald"
+    },
+    {
+        "Quiz question": "Which British King wrote farming articles under the pseudonym Ralph Robinson?",
+        "Answer": "George III"
+    },
+    {
+        "Quiz question": "As at the year 2000, how many Queens have ruled France?",
+        "Answer": "None"
+    },
+    {
+        "Quiz question": "At which battle was King Harold killed by an arrow?",
+        "Answer": "Battle of Hastings"
+    },
+    {
+        "Quiz question": "What four words first appeared on American coins in 1864 and became the American national motto in 1956?",
+        "Answer": "'In God We Trust'"
+    },
+    {
+        "Quiz question": "Who was the first Englishman to circumnavigate the globe?",
+        "Answer": "Sir Francis Drake"
+    },
+    {
+        "Quiz question": "Which country has the world's oldest flag?",
+        "Answer": "Denmark"
+    },
+    {
+        "Quiz question": "In which century did William Shakespeare write 'Romeo And Juliet'?",
+        "Answer": "16th"
+    },
+    {
+        "Quiz question": "In which country was Leon Trotsky killed?",
+        "Answer": "Mexico"
+    },
+    {
+        "Quiz question": "Who was responsible for the introduction of the penny post in Britain in 1840?",
+        "Answer": "Sir Rowland Hill"
+    },
+    {
+        "Quiz question": "In which was did the Battle of the Somme take place?",
+        "Answer": "World War I"
+    },
+    {
+        "Quiz question": "In Roman times, what was the tenth month of the year?",
+        "Answer": "December"
+    },
+    {
+        "Quiz question": "In what year was Hong Kong returned to China?",
+        "Answer": "1997"
+    },
+    {
+        "Quiz question": "In World War II, what was the name of the German coding machine, which the British eventually managed to crack?",
+        "Answer": "Enigma"
+    },
+    {
+        "Quiz question": "Who patented the sewing machine in 1851?",
+        "Answer": "Isaac Singer"
+    },
+    {
+        "Quiz question": "Who was shot in the back by Jack McCall in 1876 in the Number 10 Saloon in Deadwood, South Dakota?",
+        "Answer": "Wild Bill Hickok"
+    },
+    {
+        "Quiz question": "Which famous speech began with the words 'At long last, I am able to say a few words of my own'?",
+        "Answer": "The abdication speech of Edward VIII"
+    },
+    {
+        "Quiz question": "In what year did Stanley Baldwin first become Prime Minister?",
+        "Answer": "1923"
+    },
+    {
+        "Quiz question": "In what year was the first television broadcast in the UK? 1930, 1933 or 1936?",
+        "Answer": "1936"
+    },
+    {
+        "Quiz question": "How many husbands did Mary Queen of Scots have?",
+        "Answer": "3"
+    },
+    {
+        "Quiz question": "Who shot and killed Lee Harvey Oswald?",
+        "Answer": "Jack Ruby"
+    },
+    {
+        "Quiz question": "Which Southern Hemisphere country was the first in the world to allow women to vote?",
+        "Answer": "New Zealand"
+    },
+    {
+        "Quiz question": "Who was British Prime Minister from 1955 to 1958?",
+        "Answer": "Anthony Eden"
+    },
+    {
+        "Quiz question": "Whose assassination is said to have led to the outbreak of the first world war?",
+        "Answer": "Archduke Ferdinand's"
+    },
+    {
+        "Quiz question": "Who was the British king during World War I?",
+        "Answer": "George V"
+    },
+    {
+        "Quiz question": "Who first crossed the English channel by aeroplane?",
+        "Answer": "Louis Bleriot"
+    },
+    {
+        "Quiz question": "For what event in particular is baker Thomas Farynor best known?",
+        "Answer": "Starting the Great Fire of London"
+    },
+    {
+        "Quiz question": "The Jurassic and Triassic periods fall into which era? Caenozoic, Mesozoic or Palaezoic?",
+        "Answer": "Mesozoic"
+    },
+    {
+        "Quiz question": "When was Adolf Hitler born? 1879, 1889 or 1899?",
+        "Answer": "1889"
+    },
+    {
+        "Quiz question": "What nationality was the economist Adam Smith?",
+        "Answer": "Scottish"
+    },
+    {
+        "Quiz question": "What war began on 10 October, 1899?",
+        "Answer": "The Boer War"
+    },
+    {
+        "Quiz question": "Why was Louise Brown famous in 1978?",
+        "Answer": "She was the first test-tube baby"
+    },
+    {
+        "Quiz question": "Who was the first American President to win the Nobel Peace Prize?",
+        "Answer": "Theodore Roosevelt"
+    },
+    {
+        "Quiz question": "Who in 1961 made the first space flight?",
+        "Answer": "Yuri Gagarin"
+    },
+    {
+        "Quiz question": "In 1993, Kim Campbell became the first female Prime Minister of which country?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "Who was the first US President to appear on television?",
+        "Answer": "Franklin D. Roosevelt"
+    },
+    {
+        "Quiz question": "The Chaco War of 1932 - 1935 was between which two South American countries?",
+        "Answer": "Bolivia and Paraguay"
+    },
+    {
+        "Quiz question": "Who gave the famous speech known as the 'Gettysburg Address'?",
+        "Answer": "Abraham Lincoln"
+    },
+    {
+        "Quiz question": "In which battle was Nelson killed?",
+        "Answer": "The Battle of Trafalgar"
+    },
+    {
+        "Quiz question": "What nationality was the explorer Roald Amudsen?",
+        "Answer": "Norwegian"
+    },
+    {
+        "Quiz question": "For what was Ruth Ellis famous in 1955?",
+        "Answer": "Last woman to be executed in Britain."
+    },
+    {
+        "Quiz question": "Which famous person in history, when he died he left his property in his will to his two daughters, sister, three nephews and many friends, but left nothing to his wife Anne?",
+        "Answer": "William Shakespeare"
+    },
+    {
+        "Quiz question": "The first Opium War was a conflict between which two nations?",
+        "Answer": "Great Britain and China"
+    },
+    {
+        "Quiz question": "In what year did the attack on Pearl Harbour take place?",
+        "Answer": "1941"
+    },
+    {
+        "Quiz question": "On what date and in what year did America declare it's independence from Britain?",
+        "Answer": "4th July, 1776"
+    },
+    {
+        "Quiz question": "James Earl Ray was responsible for who's death in 1968?",
+        "Answer": "Martin Luther King's"
+    },
+    {
+        "Quiz question": "Where were the first pair of sunglasses invented? China, America or Italy?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "What large plant-eating dinosaur has a name that means 'thunder lizard'?",
+        "Answer": "Brontosaurus"
+    },
+    {
+        "Quiz question": "In what year did the Great Fire of London occur?",
+        "Answer": "1666"
+    },
+    {
+        "Quiz question": "In which century did Henry VIII rule?",
+        "Answer": "16th"
+    },
+    {
+        "Quiz question": "What was the first name of Nelson, the British Admiral who defeated the French at the battle of Trafalgar?",
+        "Answer": "Horatio"
+    },
+    {
+        "Quiz question": "Which English King was publicly beheaded in front of his palace in 1649?",
+        "Answer": "Charles I"
+    },
+    {
+        "Quiz question": "Which famous person in history was born in 356 BC and had a horse called Bucephalus?",
+        "Answer": "Alexander the Great"
+    },
+    {
+        "Quiz question": "In which country was Mother Theresa born?",
+        "Answer": "Albania"
+    },
+    {
+        "Quiz question": "In which country did the religion of Taoism originate?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "What was the President of the USA between 1981 and 1989?",
+        "Answer": "Ronald Reagan"
+    },
+    {
+        "Quiz question": "Originally called 40/50, what did Rolls Royce's 1907 car later become known as?",
+        "Answer": "Silver Ghost"
+    },
+    {
+        "Quiz question": "In which century were the War of the Roses fought?",
+        "Answer": "15th"
+    },
+    {
+        "Quiz question": "The name 'United States of America' was first officially used in what document?",
+        "Answer": "The Declaration Of Independence"
+    },
+    {
+        "Quiz question": "In 1319, which country was Sweden united with under the rule Magnus VII?",
+        "Answer": "Norway"
+    },
+    {
+        "Quiz question": "At which battle in World War I were tanks used for the first time?",
+        "Answer": "The Battle Of The Somme"
+    },
+    {
+        "Quiz question": "What was the name of the spacecraft which burst into flames on it's ground-test in 1967, killing all three astronauts on board?",
+        "Answer": "Apollo I"
+    },
+    {
+        "Quiz question": "Appointed by Bill Clinton in 1993, Louis J. Freeh became the director of which organisation?",
+        "Answer": "The FBI"
+    },
+    {
+        "Quiz question": "In what year did the Great Train Robbery take place?",
+        "Answer": "1963"
+    },
+    {
+        "Quiz question": "The modern flushing toilet was invented by Thomas Crapper, but the soldiers of which war were first to use it?",
+        "Answer": "World War I"
+    },
+    {
+        "Quiz question": "In which year of the twentieth century did the Spanish Civil War begin?",
+        "Answer": "1936"
+    },
+    {
+        "Quiz question": "What was the name of the British liner which exploded in 1962 killing over 200 people?",
+        "Answer": "Dara"
+    },
+    {
+        "Quiz question": "Which English explorer introduced the potato and the tobacco plant to England?",
+        "Answer": "Sir Walter Raleigh"
+    },
+    {
+        "Quiz question": "What nationality was the explorer Dr Livingstone?",
+        "Answer": "Scottish"
+    },
+    {
+        "Quiz question": "Nicknamed Charles the Fat, of which European country did Charles II rule between the years 884 and 887?",
+        "Answer": "France"
+    },
+    {
+        "Quiz question": "Which is older? Stonehenge in England or the Colosseum in Rome?",
+        "Answer": "Stonehenge"
+    },
+    {
+        "Quiz question": "Which American state first declared Labor Day a legal holiday? Colorado, Connecticut or California?",
+        "Answer": "Colorado"
+    },
+    {
+        "Quiz question": "How many funnels did the Titanic have?",
+        "Answer": "4"
+    },
+    {
+        "Quiz question": "Which famous inventor was born in Scotland in 1847 and became a US citizen 35 years later?",
+        "Answer": "Alexander Graham Bell"
+    },
+    {
+        "Quiz question": "When asked if he would be going to Marilyn Monroe's funeral, who said 'Why should I go? She won't be there'? Arthur Miller, Joe Di Maggio or John F Kennedy?",
+        "Answer": "Arthur Miller"
+    },
+    {
+        "Quiz question": "Which famous British ship's name means 'The Short Skirt'?",
+        "Answer": "The Cutty Sark"
+    },
+    {
+        "Quiz question": "After who or what is the Rosetta stone named?",
+        "Answer": "The town where it was found"
+    },
+    {
+        "Quiz question": "In 1889, what took over from the Great Pyramid as the tallest building in the world?",
+        "Answer": "Eiffel Tower"
+    },
+    {
+        "Quiz question": "What ancient Greek mathematician compiled 13 volumes on geometry called 'The Elements'?",
+        "Answer": "Euclid"
+    },
+    {
+        "Quiz question": "What were the surnames of 'Bonnie And Clyde'?",
+        "Answer": "Parker and Barrow"
+    },
+    {
+        "Quiz question": "What was the codename for the German invasion of Russia in World War II?",
+        "Answer": "Barbarossa"
+    },
+    {
+        "Quiz question": "How long did the one hundred year war last? 66, 89, 100 or 116 years?",
+        "Answer": "116 years"
+    },
+    {
+        "Quiz question": "Which English King was defeated by Robert The Bruce at the battle of Bannockburn?",
+        "Answer": "Edward II"
+    },
+    {
+        "Quiz question": "Which king of England had a mother and a son who were beheaded?",
+        "Answer": "James I"
+    },
+    {
+        "Quiz question": "Which British Admiral defeated the French at Trafalgar, but was killed during the battle?",
+        "Answer": "Nelson"
+    },
+    {
+        "Quiz question": "In what year did the building of the Panama canal begin? 1870, 1880 or 1890?",
+        "Answer": "1880"
+    },
+    {
+        "Quiz question": "In 1785, Blanchard and Jeffries became the first to cross the English channel using which method of transport?",
+        "Answer": "Balloon"
+    },
+    {
+        "Quiz question": "On the 1st of January of what year did Czechoslovakia split into the Czech Republic and Slovakia? 1989, 1991 or 1993?",
+        "Answer": "1993"
+    },
+    {
+        "Quiz question": "What was an iron maiden used for? Dress making, Feeding horses or Torture?",
+        "Answer": "Torture"
+    },
+    {
+        "Quiz question": "Who were Balthazar, Melchior and Caspar?",
+        "Answer": "The Three Wise Men who visited the baby Jesus"
+    },
+    {
+        "Quiz question": "Which war was fought between 1936 and 1939?",
+        "Answer": "Spanish Civil War"
+    },
+    {
+        "Quiz question": "What was the name of the peace treaty at the end of World War I?",
+        "Answer": "The Treaty of Versailles"
+    },
+    {
+        "Quiz question": "What year saw the first flying bombs drop on London?",
+        "Answer": "1944"
+    },
+    {
+        "Quiz question": "In 1901, who became the only US President not be sworn in on a Bible?",
+        "Answer": "Theodore Roosevelt"
+    },
+    {
+        "Quiz question": "Which island was awarded the George Cross in 1942?",
+        "Answer": "Malta"
+    },
+    {
+        "Quiz question": "In which year was the Battle of the Somme?",
+        "Answer": "1916"
+    },
+    {
+        "Quiz question": "Which London museum was originally called the Museum of Ornamental Art?",
+        "Answer": "The Victoria and Albert Museum"
+    },
+    {
+        "Quiz question": "Which French city was besieged by the English until the arrival of Joan of Arc?",
+        "Answer": "Orleans"
+    },
+    {
+        "Quiz question": "Who preceded Queen Victoria on the British throne?",
+        "Answer": "William IV"
+    },
+    {
+        "Quiz question": "In what year was Martin Luther King assassinated?",
+        "Answer": "1968"
+    },
+    {
+        "Quiz question": "Which city became the capital of America in 1788?",
+        "Answer": "New York"
+    },
+    {
+        "Quiz question": "In Greek legend, which King turned everything he touched into gold?",
+        "Answer": "King Midas"
+    },
+    {
+        "Quiz question": "In which year did the Japanese bomb Pearl Harbour?",
+        "Answer": "1941"
+    },
+    {
+        "Quiz question": "Which European capital city was known as Lutecia by the Romans?",
+        "Answer": "Paris"
+    },
+    {
+        "Quiz question": "In which century was the religion Buddhism formed? 6th century B.C, 2nd century A.D. or 9th century A.D.?",
+        "Answer": "6th century B.C."
+    },
+    {
+        "Quiz question": "Which David Lynch film was based on the life of John Merrick?",
+        "Answer": "'The Elephant Man'"
+    },
+    {
+        "Quiz question": "How many of Henry VIII's wives were beheaded?",
+        "Answer": "2"
+    },
+    {
+        "Quiz question": "What were the surnames of Bonnie and Clyde?",
+        "Answer": "Bonnie Parker and Clyde Barrow"
+    },
+    {
+        "Quiz question": "In which country was Florence Nightingale born?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "Which famous person in history was shot by John Wilkes Booth?",
+        "Answer": "Abraham Lincoln"
+    },
+    {
+        "Quiz question": "What 16th century warship was raised from the sea bed in 1982?",
+        "Answer": "Mary Rose"
+    },
+    {
+        "Quiz question": "On which Greek island was a famous sculpture with no arms found in 1820?",
+        "Answer": "Milos"
+    },
+    {
+        "Quiz question": "Which of Henry VIII's wives was mother to Queen Mary?",
+        "Answer": "Catherine Of Aragon"
+    },
+    {
+        "Quiz question": "In what century was chocolate introduced to Britain?",
+        "Answer": "17th"
+    },
+    {
+        "Quiz question": "What nationality was the inventor Thomas Edison?",
+        "Answer": "American"
+    },
+    {
+        "Quiz question": "Which American President founded the Peace Corps?",
+        "Answer": "John F Kennedy"
+    },
+    {
+        "Quiz question": "What type of headgear was named after a battle in the Crimean War?",
+        "Answer": "The Balaclava"
+    },
+    {
+        "Quiz question": "What was the capital of Norway in the 11th and 12th centuries? Oslo, Trondheim or Helsinborg?",
+        "Answer": "Trondheim"
+    },
+    {
+        "Quiz question": "Under what name did Vladimir Ilich Ulyanov become better known?",
+        "Answer": "Lenin"
+    },
+    {
+        "Quiz question": "What type of sweet did Mars and Murrie develop in 1941?",
+        "Answer": "M & Ms"
+    },
+    {
+        "Quiz question": "Which of these periods came first? Jurassic, Palaeocene or Carboniferous?",
+        "Answer": "Palaeocene"
+    },
+    {
+        "Quiz question": "By what nickname was the 70s serial killer David Berkovitz better known?",
+        "Answer": "Son Of Sam"
+    },
+    {
+        "Quiz question": "Which was the first product to ever have the bar code? Chewing Gum, Washing Up Liquid or Cigarettes?",
+        "Answer": "Chewing Gum"
+    },
+    {
+        "Quiz question": "What type of transport was 'The Flying Dutchman'?",
+        "Answer": "Ship"
+    },
+    {
+        "Quiz question": "What dinosaur was an armoured plant-eater with a bony frill around its neck and three sharp horns on its head?",
+        "Answer": "Tricerotops"
+    },
+    {
+        "Quiz question": "What three words was Uncle Sam depicted as saying while pointing his finger at the viewer on a World War I American army recruiting poster?",
+        "Answer": "'I want you'"
+    },
+    {
+        "Quiz question": "Which King defeated Harold at Hastings?",
+        "Answer": "William I"
+    },
+    {
+        "Quiz question": "In which year was Prince Charles born?",
+        "Answer": "1948"
+    },
+    {
+        "Quiz question": "Who ruled England from 1910 to 1936?",
+        "Answer": "King George V"
+    },
+    {
+        "Quiz question": "What was the name of Dick Turpin's horse?",
+        "Answer": "Black Bess"
+    },
+    {
+        "Quiz question": "Who bought the Castle of Mey in 1952?",
+        "Answer": "The Queen Mother"
+    },
+    {
+        "Quiz question": "Who ordered the execution of John The Baptist?",
+        "Answer": "King Herod"
+    },
+    {
+        "Quiz question": "Who was Prsident of the USA from 1974-1977?",
+        "Answer": "Gerald Ford"
+    },
+    {
+        "Quiz question": "Florence Nightingale was a nurse during which war ?",
+        "Answer": "The Crimean war"
+    },
+    {
+        "Quiz question": "What was the first country to issue postage stamps?",
+        "Answer": "Great Britain"
+    },
+    {
+        "Quiz question": "In mytholody, which of the following did Pegasus have that a normal horse wouldn't? Wings, a Crown or three eyes?",
+        "Answer": "Wings"
+    },
+    {
+        "Quiz question": "What was the name of the theatre where Abraham Lincoln was killed?",
+        "Answer": "Ford's Theatre"
+    },
+    {
+        "Quiz question": "What were Benjy and  Laska, which were sent into space in 1958?",
+        "Answer": "Mice"
+    },
+    {
+        "Quiz question": "Which president of France from 1969 to 1974 had the first name Georges?",
+        "Answer": "Pompidou"
+    },
+    {
+        "Quiz question": "In Greek mythology, who was killed by a poisoned arrow in his heel?",
+        "Answer": "Achilles"
+    },
+    {
+        "Quiz question": "What historic event happened on Monday, December 9, 1980?",
+        "Answer": "John Lennon was killed."
+    },
+    {
+        "Quiz question": "In which century did Louis XIV begin ruling France?",
+        "Answer": "17th"
+    },
+    {
+        "Quiz question": "What was an iron maiden used for?",
+        "Answer": "Torture (it was a box lined with iron spikes, in which someone was fastened)."
+    },
+    {
+        "Quiz question": "What four countries formed the Quadruple Alliance in 1718, against Spain?",
+        "Answer": "Britain, France, Austria and Holland"
+    },
+    {
+        "Quiz question": "In which country did playing cards originate?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "Who was Queen Victoria's grandfather?",
+        "Answer": "George III"
+    },
+    {
+        "Quiz question": "Dinosaurs were the dominant land animal for approximately how many years? 130 million, 600 million or 2 billion?",
+        "Answer": "130 million"
+    },
+    {
+        "Quiz question": "Ginger ale and the pneumatic tyre were both invented in which European city?",
+        "Answer": "Belfast"
+    },
+    {
+        "Quiz question": "Who was the first actress to appear on a postage stamp?",
+        "Answer": "Grace Kelly"
+    },
+    {
+        "Quiz question": "Who's last words were 'Kiss me Hardy'?",
+        "Answer": "Nelson's (during the Battle of Trafalgar)"
+    },
+    {
+        "Quiz question": "What country celebrates a holiday in July in honour of an act in 1867 which unified the nation? China, Canada or Russia?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "What was the name of the plane Lindbergh flew on the first non-stop flight across the Atlantic?",
+        "Answer": "The Spirit Of St Louis"
+    },
+    {
+        "Quiz question": "From which country did King Zog flee in 1939?",
+        "Answer": "Albania"
+    },
+    {
+        "Quiz question": "In what year did Margaret Thatcher become Prime Minister?",
+        "Answer": "1979"
+    },
+    {
+        "Quiz question": "What award was given to Theodore Roosevelt in 1906, Martin Luther King in 1964 and Mikhail Gorbachev in 1990?",
+        "Answer": "The Nobel Peace Prize"
+    },
+    {
+        "Quiz question": "For how many years was Queen Victoria queen of the United Kingdom? 63, 73 or 83?",
+        "Answer": "63"
+    },
+    {
+        "Quiz question": "In what year was the first atom bomb dropped?",
+        "Answer": "1945"
+    },
+    {
+        "Quiz question": "In what year did American President Richard Nixon resign from office?",
+        "Answer": "1974"
+    },
+    {
+        "Quiz question": "For how many days did the Great Fire of London last?",
+        "Answer": "4"
+    },
+    {
+        "Quiz question": "After John F Kennedy was assassinated on November 22nd, 1963, on which date was Lee Harvey Oswald, who was alleged to have shot him, murdered?",
+        "Answer": "November 25th, 1963"
+    },
+    {
+        "Quiz question": "In which century was King Richard II of England born?",
+        "Answer": "14th"
+    },
+    {
+        "Quiz question": "Who was the first British King of the 19th century?",
+        "Answer": "George III"
+    },
+    {
+        "Quiz question": "In what year did Disneyland open? 1942, 1955 or 1966?",
+        "Answer": "1955"
+    },
+    {
+        "Quiz question": "In which year did the Great Wall Street Crash occur?",
+        "Answer": "1929"
+    },
+    {
+        "Quiz question": "Who was the first man to fly the Atlantic solo?",
+        "Answer": "Charles Lindbergh"
+    },
+    {
+        "Quiz question": "Davy Crockett's hat was made from the fur of what animal?",
+        "Answer": "Racoon"
+    },
+    {
+        "Quiz question": "Yuri Gagarin was the first to orbit Earth in which year?",
+        "Answer": "1961"
+    },
+    {
+        "Quiz question": "Which British monarch of the 20th century was almost 60 years old when they were crowned?",
+        "Answer": "Edward VII"
+    },
+    {
+        "Quiz question": "The first artificially refrigerated ice rink opened in which country? U.S.A., England or China?",
+        "Answer": "England"
+    },
+    {
+        "Quiz question": "Who was the American president when the Berlin Wall was constructed?",
+        "Answer": "John F Kennedy"
+    },
+    {
+        "Quiz question": "In what century was Shakespeare born?",
+        "Answer": "16th"
+    },
+    {
+        "Quiz question": "A British TV audience outnumbered a British radio audience for the first time for what special occasion?",
+        "Answer": "The Coronation of Elizabeth II"
+    },
+    {
+        "Quiz question": "In what country is Waterloo, where the famous battle took place?",
+        "Answer": "Belgium"
+    },
+    {
+        "Quiz question": "Who was the second wife of Henry VIII?",
+        "Answer": "Anne Boleyn"
+    },
+    {
+        "Quiz question": "What nationality was the psychoanalyst Sigmund Freud?",
+        "Answer": "Austrian"
+    },
+    {
+        "Quiz question": "In what year was the British Commonwealth established?",
+        "Answer": "1931"
+    },
+    {
+        "Quiz question": "In Greek mythology, what was Nike the Goddess of? Sport, Victory or Wisdom?",
+        "Answer": "Victory"
+    },
+    {
+        "Quiz question": "Who was the famous wife of King Louis XVI of France?",
+        "Answer": "Marie Antoinette"
+    },
+    {
+        "Quiz question": "Which brothers invented the airplane in 1903?",
+        "Answer": "Wilbur and Orville Wright"
+    },
+    {
+        "Quiz question": "Thomas Selfridge was the first man to be killed by what type of transport?",
+        "Answer": "Aeroplane"
+    },
+    {
+        "Quiz question": "Which prison was built on the Isle of Wight in 1830?",
+        "Answer": "Parkhurst"
+    },
+    {
+        "Quiz question": "What was Dom Perignon the first to insert in a bottle?",
+        "Answer": "A cork"
+    },
+    {
+        "Quiz question": "Who was British Prime Minister at the time of Elizabeth IIÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s Coronation?",
+        "Answer": "Winston Churchill"
+    },
+    {
+        "Quiz question": "Which country was admitted to the United Nations in 1993, becoming the smallest country to have done so?",
+        "Answer": "Monaco"
+    },
+    {
+        "Quiz question": "In which year did Britain change to decimal currency?",
+        "Answer": "1971"
+    },
+    {
+        "Quiz question": "King Richard I was known by what other name?",
+        "Answer": "Richard the Lionheart"
+    },
+    {
+        "Quiz question": "Which six countries made up the EEC when it formed in 1957?",
+        "Answer": "Belgium, France, West Germany, Italy, Luxembourg and the Netherlands"
+    },
+    {
+        "Quiz question": "Who was the first American President to be born in the 20th century?",
+        "Answer": "John F Kennedy"
+    },
+    {
+        "Quiz question": "In 1961, the East German bricklayer Peter Fechter became the first to die doing what?",
+        "Answer": "Crossing the Berlin Wall"
+    },
+    {
+        "Quiz question": "What was the name of the volcano that erupted in the year A.D. 79 and destroyed the city of Pompeii?",
+        "Answer": "Vesuvius"
+    },
+    {
+        "Quiz question": "Which British monarch was known as the 'Sailor King'?",
+        "Answer": "William IV"
+    },
+    {
+        "Quiz question": "Who was the first Roman Catholic to become American President?",
+        "Answer": "John F. Kennedy"
+    },
+    {
+        "Quiz question": "Who in 1938 invented the first ball point pen?",
+        "Answer": "Lasalo Biro"
+    },
+    {
+        "Quiz question": "For how many years was Queen Victoria queen of the United Kingdom? 51, 64 or 76?",
+        "Answer": "64"
+    },
+    {
+        "Quiz question": "On which island did Napoleon die?",
+        "Answer": "St Helena"
+    },
+    {
+        "Quiz question": "What great discovery was made in 1922 by Howard Carter and Lord Caernarvon?",
+        "Answer": "The tomb of Tutankamun"
+    },
+    {
+        "Quiz question": "In what year did Queen Victoria die?",
+        "Answer": "1901"
+    },
+    {
+        "Quiz question": "Which English explorer introduced tobacco and potatoes to England?",
+        "Answer": "Walter Raleigh"
+    },
+    {
+        "Quiz question": "In 1943, about 5,000 lives were lost due to flooding in which country?",
+        "Answer": "India"
+    },
+    {
+        "Quiz question": "'Whiskey-A-Go-Go' in Los Angeles was America's first what?",
+        "Answer": "Disco"
+    },
+    {
+        "Quiz question": "Appointed by Theodore Roosevelt in 1909, who was the first director of the FBI?",
+        "Answer": "Stanley W. Finch"
+    },
+    {
+        "Quiz question": "Which king was killed from getting hit by an arrow in his eye?",
+        "Answer": "King Harold"
+    },
+    {
+        "Quiz question": "What was the surname of both the 9th and 23rd Presidents of the USA?",
+        "Answer": "Harrison"
+    },
+    {
+        "Quiz question": "What was the number of the Apollo mission that first landed on the moon?",
+        "Answer": "11"
+    },
+    {
+        "Quiz question": "Which of the following religions was organized most recently? Islam, Hinduism or Christianity?",
+        "Answer": "Islam"
+    },
+    {
+        "Quiz question": "Who did John Francis attempt to assassinate in 1842? John Constable, Charles Dickens or Queen Victoria?",
+        "Answer": "Queen Victoria"
+    },
+    {
+        "Quiz question": "In what decade was London bridge transported from England to America?",
+        "Answer": "1970s"
+    },
+    {
+        "Quiz question": "What was the name of Sir Walter Raleigh's ship in the battle of the Armada?",
+        "Answer": "The Ark"
+    },
+    {
+        "Quiz question": "In which city was Dick Turpin hanged?",
+        "Answer": "York"
+    },
+    {
+        "Quiz question": "In which century did the ship the Mayflower begin it's epic voyage?",
+        "Answer": "17th (year 1620)"
+    },
+    {
+        "Quiz question": "According to the Bible, what did God do on the fourth day?",
+        "Answer": "Created the sun, moon and stars."
+    },
+    {
+        "Quiz question": "Who became King of Scotland in 1371? Robert II, James III or James IV?",
+        "Answer": "Robert II"
+    },
+    {
+        "Quiz question": "In which century did Alexander Graham Bell invent the telephone?",
+        "Answer": "19th"
+    },
+    {
+        "Quiz question": "Which country celebrated its bicentenary in 1988?",
+        "Answer": "Australia"
+    },
+    {
+        "Quiz question": "Which two other countries joined the EEC at the same time as Britain?",
+        "Answer": "Denmark and Ireland"
+    },
+    {
+        "Quiz question": "In what century was the leaning tower of Pisa built?",
+        "Answer": "14th"
+    },
+    {
+        "Quiz question": "Who famously said 'a week is a long time in politics'?",
+        "Answer": "Harold Wilson"
+    },
+    {
+        "Quiz question": "In which year did John Major become Prime Minister?",
+        "Answer": "1990"
+    },
+    {
+        "Quiz question": "What was the first type of animal in the world to be domesticated?",
+        "Answer": "The dog"
+    },
+    {
+        "Quiz question": "What did Russia sell to America in 1867?",
+        "Answer": "Alaska"
+    },
+    {
+        "Quiz question": "What was the name of the fort in Texas where a group of Americans fought a large Mexican force in 1836?",
+        "Answer": "Alamo"
+    }
 ]

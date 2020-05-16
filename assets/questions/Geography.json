@@ -1,127 +1,2882 @@
 [
- {
-   "No": 1,
-   "Quiz question": "What is the capital of Turkey?",
-   "Answer": "Ankara"
- },
- {
-   "No": 2,
-   "Quiz question": "What is the national animal of China?",
-   "Answer": "Giant panda"
- },
- {
-   "No": 3,
-   "Quiz question": "Which Turkish city has the name of a cartoon character?",
-   "Answer": "Batman"
- },
- {
-   "No": 4,
-   "Quiz question": "Which country has some of the loudest cities in the world",
-   "Answer": "India"
- },
- {
-   "No": 5,
-   "Quiz question": "What is the name of the desert area in Mexico?",
-   "Answer": "Sonora"
- },
- {
-   "No": 6,
-   "Quiz question": "How many countires does Russia border?",
-   "Answer": "Fourteen Countries"
- },
- {
-   "No": 7,
-   "Quiz question": "How many continents are there?",
-   "Answer": "Seven"
- },
- {
-   "No": 8,
-   "Quiz question": "On which Italian island is Palermo?",
-   "Answer": "Sicily"
- },
- {
-   "No": 9,
-   "Quiz question": "How many time zones are there in the world?",
-   "Answer": "Twenty-four"
- },
- {
-   "No": 10,
-   "Quiz question": "Which is the largest desert on earth?",
-   "Answer": "Sahara"
- },
- {
-   "No": 11,
-   "Quiz question": "Which river is flowing through Rome?",
-   "Answer": "Tiber"
- },
- {
-   "No": 12,
-   "Quiz question": "Which country did once have the name Rhodesia?",
-   "Answer": "Zimbabwe"
- },
- {
-   "No": 13,
-   "Quiz question": "What island, which belonged to Denmark, was independent in 1944?",
-   "Answer": "Iceland"
- },
- {
-   "No": 14,
-   "Quiz question": "What is the largest state of the United States?",
-   "Answer": "Alaska"
- },
- {
-   "No": 15,
-   "Quiz question": "On which continent can you visit Sierra Leone?",
-   "Answer": "Africa"
- },
- {
-   "No": 16,
-   "Quiz question": "Which European river flows through ten different countries?",
-   "Answer": "Donube river"
- },
- {
-   "No": 17,
-   "Quiz question": "What is the longest river in Europe?",
-   "Answer": "Volga river"
- },
- {
-   "No": 18,
-   "Quiz question": "Through which capital does the Liffey river flow?",
-   "Answer": "Dublin"
- },
- {
-   "No": 19,
-   "Quiz question": "What is the second largest country in Europe after Russia?",
-   "Answer": "Ukraine"
- },
- {
-   "No": 20,
-   "Quiz question": "What is the capital of the American state Hawaii?",
-   "Answer": "Honolulu"
- },
- {
-   "No": 21,
-   "Quiz question": "What do the Japanese people call their own country?",
-   "Answer": "Nippon"
- },
- {
-   "No": 22,
-   "Quiz question": "In which country is Krakow located?",
-   "Answer": "Poland"
- },
- {
-   "No": 23,
-   "Quiz question": "What is the largest city in Canada?",
-   "Answer": "Toronto"
- },
- {
-   "No": 24,
-   "Quiz question": "What is the capital city of Australia?",
-   "Answer": "Canberra"
- },
- {
-   "No": 25,
-   "Quiz question": "Which two seas are joined by the Suez Canal?",
-   "Answer": "The Mediterranean Sea and the Red Seas"
- }
+    {
+        "Quiz question": "What is the capital of India?",
+        "Answer": "New delhi"
+    },
+    {
+        "Quiz question": "In which city is the European Parliament based?",
+        "Answer": "Strasbourg"
+    },
+    {
+        "Quiz question": "The highest temperature ever recorded outside in the shade was recorded in Azizah, in Africa. In which country is this city located?",
+        "Answer": "Libya"
+    },
+    {
+        "Quiz question": "What is the largest fresh water lake in North America?",
+        "Answer": "Lake Superior"
+    },
+    {
+        "Quiz question": "Which South American country was named after the Italian city of Venice?",
+        "Answer": "Venezuela"
+    },
+    {
+        "Quiz question": "In which country is the highest mountain in South America?",
+        "Answer": "Argentina"
+    },
+    {
+        "Quiz question": "How many emirates make up the United Arab Emirates?",
+        "Answer": "7"
+    },
+    {
+        "Quiz question": "Known as the Rio Grande in the USA, what is it called in Mexico?",
+        "Answer": "Rio Bravo"
+    },
+    {
+        "Quiz question": "Fort Knox lies in which American state?",
+        "Answer": "Kentucky"
+    },
+    {
+        "Quiz question": "Tokelau is a dependency of which country?",
+        "Answer": "New Zealand"
+    },
+    {
+        "Quiz question": "A Scottish mountain must be at least how many feet high to be called a Munro?",
+        "Answer": "3,000"
+    },
+    {
+        "Quiz question": "Name the river that flows through the city of Albuquerque in the USA.",
+        "Answer": "Rio Grande"
+    },
+    {
+        "Quiz question": "Winnepeg is the capital of which Canadian province?",
+        "Answer": "Manitoba"
+    },
+    {
+        "Quiz question": "On which side of the road do people drive in Japan?",
+        "Answer": "The left side"
+    },
+    {
+        "Quiz question": "Kosciusko is the highest mountain in which country?",
+        "Answer": "Australia"
+    },
+    {
+        "Quiz question": "Which shipping forecast area is to the directly north of Ireland?",
+        "Answer": "Malin"
+    },
+    {
+        "Quiz question": "The name of which European capital city is derived from the names of two towns on either bank of its main river?",
+        "Answer": "Budapest (from Buda and Pest)"
+    },
+    {
+        "Quiz question": "How many states of the United States of America have a Pacific coast?",
+        "Answer": "5 (California, Oregon, Washington, Alaska, Hawaii)"
+    },
+    {
+        "Quiz question": "What is the name of the sea that separates New Zealand and Australia?",
+        "Answer": "Tasman Sea"
+    },
+    {
+        "Quiz question": "A country historically known as Abyssinia, what is the modern name for it?",
+        "Answer": "Ethiopia"
+    },
+    {
+        "Quiz question": "How many states of the United States of America have a Pacific coast?",
+        "Answer": "5 (California, Oregon, Washington, Alaska, Hawaii)"
+    },
+    {
+        "Quiz question": "In which European country would you find the Troodos mountain range?",
+        "Answer": "Cyprus"
+    },
+    {
+        "Quiz question": "What is the only national capital that borders two different countries?",
+        "Answer": "Bratislava"
+    },
+    {
+        "Quiz question": "Which South American country has borders with Columbia and Peru?",
+        "Answer": "Ecuador"
+    },
+    {
+        "Quiz question": "On which planet is the solar system's highest volcano?",
+        "Answer": "Mars (Olympus Mons)"
+    },
+    {
+        "Quiz question": "What is the modern-day name for the country formerly known as Upper Volta?",
+        "Answer": "Burkina Faso"
+    },
+    {
+        "Quiz question": "What is the modern-day name for the country formerly known as Kampuchea?",
+        "Answer": "Cambodia"
+    },
+    {
+        "Quiz question": "What country was formerly known as Persia?",
+        "Answer": "Iran"
+    },
+    {
+        "Quiz question": "What is the higest mountain that is not in a mountain range?",
+        "Answer": "Mount Kilimanjaro"
+    },
+    {
+        "Quiz question": "What is the capital city of Tasmania?",
+        "Answer": "Hobart"
+    },
+    {
+        "Quiz question": "What is the capital of the Caribbean island of Grenada?",
+        "Answer": "St. Georges"
+    },
+    {
+        "Quiz question": "Which country's national flag has the most colours?",
+        "Answer": "South Africa's"
+    },
+    {
+        "Quiz question": "What country has the largest coastline?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "What is the name of the dam on the Zambia - Zimbabwe border?",
+        "Answer": "Kariba"
+    },
+    {
+        "Quiz question": "Also the name of an English city, Harare, the capital of  Zimbabwe was known as what until 1987?",
+        "Answer": "Salisbury"
+    },
+    {
+        "Quiz question": "Which two countries are double-landlocked (i.e. surrounded only by other landlocked countries)?",
+        "Answer": "Lichtenstein and Uzbekistan"
+    },
+    {
+        "Quiz question": "The world's smallest independant country since 1929 has a birth rate of zero. What is it called?",
+        "Answer": "The Vatican City"
+    },
+    {
+        "Quiz question": "What is the capital city of Botswana?",
+        "Answer": "Gabarone"
+    },
+    {
+        "Quiz question": "What is the capital city of the American state of Kansas?",
+        "Answer": "Topeka"
+    },
+    {
+        "Quiz question": "Which tree appears on the flag of Lebannon?",
+        "Answer": "The Cedar"
+    },
+    {
+        "Quiz question": "Which of the Great Lakes touches Chicago?",
+        "Answer": "Lake Michigan"
+    },
+    {
+        "Quiz question": "Which tree appears on the flag of Lebannon?",
+        "Answer": "The Cedar"
+    },
+    {
+        "Quiz question": "In which African country is Mount Kilimanjaro?",
+        "Answer": "Tanzania"
+    },
+    {
+        "Quiz question": "What is the capital of Mauritius?",
+        "Answer": "Port Louis"
+    },
+    {
+        "Quiz question": "Which island near Hong Kong is famous for gambling and motor racing?",
+        "Answer": "Macau"
+    },
+    {
+        "Quiz question": "In which North Amercan city is there a neighbourhood known as Hell's Kitchen?",
+        "Answer": "New York"
+    },
+    {
+        "Quiz question": "In which present day city is the remains of Carthage?",
+        "Answer": "Tunis"
+    },
+    {
+        "Quiz question": "On which group of Scottish islands would you find the neolithic village of Skara Brae?",
+        "Answer": "The Orkneys"
+    },
+    {
+        "Quiz question": "In which country would you find the Barossa Valley?",
+        "Answer": "Australia (it is a wine producing region)"
+    },
+    {
+        "Quiz question": "Still in use today, which country's flag is the oldest in the world?",
+        "Answer": "Denmark's"
+    },
+    {
+        "Quiz question": "To which country does the territory of Christmas Island belong?",
+        "Answer": "Australia"
+    },
+    {
+        "Quiz question": "What is the capital of Ghana?",
+        "Answer": "Accra"
+    },
+    {
+        "Quiz question": "What is often referred to as the oil capital of Norway?",
+        "Answer": "Stavanger"
+    },
+    {
+        "Quiz question": "On which Scottish river does Inverness stand?",
+        "Answer": "The river Ness"
+    },
+    {
+        "Quiz question": "What is the third largest city in the US?",
+        "Answer": "Chicago"
+    },
+    {
+        "Quiz question": "In which country would you find the Mojave Desert?",
+        "Answer": "USA"
+    },
+    {
+        "Quiz question": "What is the deepest lake in the world?",
+        "Answer": "Lake Baikal"
+    },
+    {
+        "Quiz question": "What is the capital of Iran?",
+        "Answer": "Tehran"
+    },
+    {
+        "Quiz question": "What is the capital of Saudi Arabia?",
+        "Answer": "Riyadh"
+    },
+    {
+        "Quiz question": "What is the capital of the Philippines?",
+        "Answer": "Manila"
+    },
+    {
+        "Quiz question": "Which two South American countries are landlocked?",
+        "Answer": "Bolivia and Paraguay"
+    },
+    {
+        "Quiz question": "New York City lies at the mouth of which river?",
+        "Answer": "Hudson"
+    },
+    {
+        "Quiz question": "In which Australian state of territory will you find the Adelaide river?",
+        "Answer": "Northern Territory"
+    },
+    {
+        "Quiz question": "What connects the end of the M4 and the end of the Suez Canal?",
+        "Answer": "Abraham (Pont Abraham and Port Abraham)"
+    },
+    {
+        "Quiz question": "In which Australian State or Territory would you find the Adelaide river?",
+        "Answer": "Nothern Territory"
+    },
+    {
+        "Quiz question": "What is a more common name for the Aurora Borealis?",
+        "Answer": "The Northern Lights"
+    },
+    {
+        "Quiz question": "Which country contains the largest number of active volcanoes?",
+        "Answer": "Indonesia"
+    },
+    {
+        "Quiz question": "What is the name of the largest lake in South America?",
+        "Answer": "Titicaca"
+    },
+    {
+        "Quiz question": "Which river runs through Budapest?",
+        "Answer": "The Danube"
+    },
+    {
+        "Quiz question": "What is the most populous country in Africa?",
+        "Answer": "Nigeria"
+    },
+    {
+        "Quiz question": "What is the capital of Libya?",
+        "Answer": "Tripoli"
+    },
+    {
+        "Quiz question": "Name the four American States that start with the letter 'I'.",
+        "Answer": "Idaho, Illinois, Indiana and Iowa."
+    },
+    {
+        "Quiz question": "Which country was previously called the Republic of Upper Volta?",
+        "Answer": "Burkina Faso"
+    },
+    {
+        "Quiz question": "Name the two major feeder rivers to the Nile.",
+        "Answer": "The Blue and White Niles"
+    },
+    {
+        "Quiz question": "What is the name of Amsterdam's main airport?",
+        "Answer": "Schiphol"
+    },
+    {
+        "Quiz question": "Which two European capital cities are closest together?",
+        "Answer": "Vienna and Bratislava"
+    },
+    {
+        "Quiz question": "What is the capital of Tajikistan?",
+        "Answer": "Dushanbe"
+    },
+    {
+        "Quiz question": "What is the name of the plain that was once the chief industrial region of the USSR?",
+        "Answer": "Oka Don Plain"
+    },
+    {
+        "Quiz question": "The Red River forms the border between Texas and which other American state?",
+        "Answer": "Oklahoma"
+    },
+    {
+        "Quiz question": "Which country is sometimes referred to as the Dead Heart of Africa?",
+        "Answer": "Chad"
+    },
+    {
+        "Quiz question": "Which is the only US state not to have a straight line in its borders?",
+        "Answer": "Hawaii"
+    },
+    {
+        "Quiz question": "Which country has a birth rate of zero?",
+        "Answer": "Vatican City"
+    },
+    {
+        "Quiz question": "Mount Everest is located on the border between which two countries?",
+        "Answer": "Nepal and Tibet"
+    },
+    {
+        "Quiz question": "Which mountain's name means 'shining mountain' in Swahili?",
+        "Answer": "Kilimanjaro"
+    },
+    {
+        "Quiz question": "What American state has the capital Cheyenne?",
+        "Answer": "Wyoming"
+    },
+    {
+        "Quiz question": "What number is Britain in a list of the largest islands in the world? 4th, 8th or 15th?",
+        "Answer": "8th"
+    },
+    {
+        "Quiz question": "What is the capital of Cyprus?",
+        "Answer": "Nicosia"
+    },
+    {
+        "Quiz question": "What is the capital city of Greenland?",
+        "Answer": "Nuuk"
+    },
+    {
+        "Quiz question": "K2, the world's second highest mountain, is in which country?",
+        "Answer": "Pakistan"
+    },
+    {
+        "Quiz question": "Which flag depicts the image of an eagle devouring a snake?",
+        "Answer": "Mexico"
+    },
+    {
+        "Quiz question": "What is the only monosyllabic American state name?",
+        "Answer": "Maine"
+    },
+    {
+        "Quiz question": "What is the name of the parliament of the Isle of Man?",
+        "Answer": "Tynwald"
+    },
+    {
+        "Quiz question": "Name the capital cities of the three Baltic States?",
+        "Answer": "Tallinn (Estonia), Riga (Latvia) and Vilnius (Lithunia)"
+    },
+    {
+        "Quiz question": "Where is the deepest location on Earth?",
+        "Answer": "The bottom of the Mariana Trench in the Pacific Ocean"
+    },
+    {
+        "Quiz question": "At the intersection of which four American states would you find the \"Four Corners\"?",
+        "Answer": "Arizona, Utah, Colorado and New Mexico"
+    },
+    {
+        "Quiz question": "What is the name of the extinct volcano which overlooks the city of Edinburgh?",
+        "Answer": "Arthur's seat"
+    },
+    {
+        "Quiz question": "In America, what is the state capital of Ohio?",
+        "Answer": "Columbus"
+    },
+    {
+        "Quiz question": "What is the southern hemisphere equivalent of the Aurora Borealis, also known as the Northern Lights?",
+        "Answer": "Aurora Australis"
+    },
+    {
+        "Quiz question": "What is the largest of the five Great Lakes in North America?",
+        "Answer": "Lake Superior"
+    },
+    {
+        "Quiz question": "Located in Russia near the border with Georgia, what is the highest mountain in Europe?",
+        "Answer": "Mount Elbrus"
+    },
+    {
+        "Quiz question": "What is the highest mountain in the USA?",
+        "Answer": "Mount McKinley"
+    },
+    {
+        "Quiz question": "In which city does the Blue Nile meet the White Nile?",
+        "Answer": "Khartoum"
+    },
+    {
+        "Quiz question": "In which country does the Blue Nile meet the White Nile?",
+        "Answer": "Sudan"
+    },
+    {
+        "Quiz question": "In which European country is the world's highest road bridge?",
+        "Answer": "France"
+    },
+    {
+        "Quiz question": "What is the smallest country in the world?",
+        "Answer": "Vatican City"
+    },
+    {
+        "Quiz question": "Which South American country was formerly known as Dutch Guiana?",
+        "Answer": "Suriname"
+    },
+    {
+        "Quiz question": "What is the capital of North Korea?",
+        "Answer": "Pyongyang"
+    },
+    {
+        "Quiz question": "Which African country achieved its independence from Ethiopia in 1993?",
+        "Answer": "Eritrea"
+    },
+    {
+        "Quiz question": "Bamako is the capital of which country?",
+        "Answer": "Mali"
+    },
+    {
+        "Quiz question": "Gaborone is the capital of which country?",
+        "Answer": "Botswana"
+    },
+    {
+        "Quiz question": "Alma-Ata is the largest city in which country?",
+        "Answer": "Kazakhstan"
+    },
+    {
+        "Quiz question": "Ulaanbaatar is the capital of which country?",
+        "Answer": "Mongolia"
+    },
+    {
+        "Quiz question": "Asuncion is the capital of which country?",
+        "Answer": "Paraguay"
+    },
+    {
+        "Quiz question": "What is the capital of Uruguay?",
+        "Answer": "Montevideo"
+    },
+    {
+        "Quiz question": "What is the name of the highest mountain in England?",
+        "Answer": "Scafell Pike"
+    },
+    {
+        "Quiz question": "What is the capital of Liechtenstein?",
+        "Answer": "Vaduz"
+    },
+    {
+        "Quiz question": "What is the capital of Venezuela?",
+        "Answer": "Caracas"
+    },
+    {
+        "Quiz question": "Tegucigalpa is the capital of which country?",
+        "Answer": "Honduras"
+    },
+    {
+        "Quiz question": "What is the only African country never to have been occupied by a foreign power?",
+        "Answer": "Liberia"
+    },
+    {
+        "Quiz question": "In which European Country is the port of Bergen?",
+        "Answer": "Norway"
+    },
+    {
+        "Quiz question": "What town is home to the Irish National Stud?",
+        "Answer": "Kildare"
+    },
+    {
+        "Quiz question": "In which country is Timbuktu?",
+        "Answer": "Mali"
+    },
+    {
+        "Quiz question": "What is the largest landlocked country in the world?",
+        "Answer": "Kazakhstan"
+    },
+    {
+        "Quiz question": "What other Eastern European City is St. George the patron Saint of?",
+        "Answer": "Moscow"
+    },
+    {
+        "Quiz question": "Cuba, Jamaica and Hispaniola are all part of which island group in the West Indies?",
+        "Answer": "The Greater Antilles"
+    },
+    {
+        "Quiz question": "Which river forms the eastern section of the border between England and Scotland?",
+        "Answer": "Tweed"
+    },
+    {
+        "Quiz question": "In which county is Glastonbury?",
+        "Answer": "Somerset"
+    },
+    {
+        "Quiz question": "Which point in Cornwall is the most southerly point of mainland Britain?",
+        "Answer": "Lizard Point"
+    },
+    {
+        "Quiz question": "Which country in Africa is completely surrounded by South Africa?",
+        "Answer": "Lesotho"
+    },
+    {
+        "Quiz question": "Dakar is the capital of which African country?",
+        "Answer": "Senegal"
+    },
+    {
+        "Quiz question": "What name is given to a native of Sydney, Australia? A Sydneyman, A Sydneysider or A Sydonian?",
+        "Answer": "Sydneysider"
+    },
+    {
+        "Quiz question": "What is the world's highest mountain that isn't part of a range?",
+        "Answer": "Kilimanjaro"
+    },
+    {
+        "Quiz question": "Which three countries have both a Mediterranean and Atlantic coastline?",
+        "Answer": "France, Spain and Morocco"
+    },
+    {
+        "Quiz question": "How many American states have the letter 'x' in their name?",
+        "Answer": "2 (New Mexico, Texas)"
+    },
+    {
+        "Quiz question": "If you travel directly east from New York City, which country would you reach first?",
+        "Answer": "Portugal"
+    },
+    {
+        "Quiz question": "What major city is on an island in the St Lawrence river?",
+        "Answer": "Montreal"
+    },
+    {
+        "Quiz question": "Which range of hills forms a natural border between Scotland and England?",
+        "Answer": "The Cheviots"
+    },
+    {
+        "Quiz question": "In which country is the town of Tequila?",
+        "Answer": "Mexico"
+    },
+    {
+        "Quiz question": "Where would you find the 'Ocean Of Storms'?",
+        "Answer": "On the moon"
+    },
+    {
+        "Quiz question": "Which English city stands on the river Nene?",
+        "Answer": "Peterborough"
+    },
+    {
+        "Quiz question": "What is the name given to the stretch of water between Russia and Alaska?",
+        "Answer": "The Bering Strait"
+    },
+    {
+        "Quiz question": "Which 2 European countries are linked by the Brenner pass?",
+        "Answer": "Austria and Italy"
+    },
+    {
+        "Quiz question": "Which of the Great Lakes is the source of the River Niagra?",
+        "Answer": "Lake Eerie"
+    },
+    {
+        "Quiz question": "Nairobi is the capital city of which African country?",
+        "Answer": "Kenya"
+    },
+    {
+        "Quiz question": "What is the official language of Chile?",
+        "Answer": "Spanish"
+    },
+    {
+        "Quiz question": "In which European country is the Alhambra palace?",
+        "Answer": "Spain"
+    },
+    {
+        "Quiz question": "What is the capital city of Cuba?",
+        "Answer": "Havana"
+    },
+    {
+        "Quiz question": "The Colosseum is located in the capital city of which country?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "In which country is the city of Mecca?",
+        "Answer": "Saudi Arabia"
+    },
+    {
+        "Quiz question": "Which of the following is not a real place name? Tarring Neville (East Sussex), South Flobbets (Aberdeenshire), Wham (North Yorkshire) or Booby (Tyne and Wear)?",
+        "Answer": "Booby (Tyne and Wear)"
+    },
+    {
+        "Quiz question": "What is the only mobile national monument in the USA?",
+        "Answer": "The cable cars in San Fransisco"
+    },
+    {
+        "Quiz question": "Why are the zip codes 10047 and 10048 in New York no longer used?",
+        "Answer": "They were for the World Trade centre (one for each building)"
+    },
+    {
+        "Quiz question": "Which is not a real 'Bottom'? Pratt's Bottom (Greater London), Six Mile Bottom (Cambridgeshire), Kettlesing Bottom (North Yorkshire) or Tiny Bottom (Cornwall)?",
+        "Answer": "Tiny Bottom (Cornwall)"
+    },
+    {
+        "Quiz question": "In which country is the river Yangtze?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "Which is the most westerly county in the United Kingdom?",
+        "Answer": "Fermanagh"
+    },
+    {
+        "Quiz question": "True or False: Westward Ho! is the only town or city in the United Kingdom which has an exclamation mark in it's name?",
+        "Answer": "True"
+    },
+    {
+        "Quiz question": "What is the largest country in the world to have only one time zone?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "Trinidad lies off the coast of which South American country?",
+        "Answer": "Venezuela"
+    },
+    {
+        "Quiz question": "Which of the following colours does not appear on the flag of Bolivia? Green, Yellow or Black?",
+        "Answer": "Black"
+    },
+    {
+        "Quiz question": "Where in New York is the largest stained-glass window in the world?",
+        "Answer": "At Kennedy International Airport"
+    },
+    {
+        "Quiz question": "In which famous French palace will you find the Hall of Mirrors?",
+        "Answer": "Versailles"
+    },
+    {
+        "Quiz question": "In which country does the river Amazon rise?",
+        "Answer": "Peru"
+    },
+    {
+        "Quiz question": "What river flows through the city of Cardiff?",
+        "Answer": "Taff"
+    },
+    {
+        "Quiz question": "What is the largest city in Scotland?",
+        "Answer": "Glasgow"
+    },
+    {
+        "Quiz question": "Riga is the capital of which European country?",
+        "Answer": "Latvia"
+    },
+    {
+        "Quiz question": "In which British city would you find Arthur's Seat?",
+        "Answer": "Edinburgh"
+    },
+    {
+        "Quiz question": "What is the only river which flows both north and south of the equator?",
+        "Answer": "The Congo"
+    },
+    {
+        "Quiz question": "What is the largest island in the Mediterranean Sea?",
+        "Answer": "Sicily"
+    },
+    {
+        "Quiz question": "Which Scottish city lies between the mouths of the rivers Dee and Don?",
+        "Answer": "Aberdeen"
+    },
+    {
+        "Quiz question": "In which state in America is Salem where in 1692 a number of people were accused of witchcraft?",
+        "Answer": "Massachusetts"
+    },
+    {
+        "Quiz question": "Vancouver in Canada stands on which of the following rivers? The Hudson, The Fraser or The St Lawrence?",
+        "Answer": "Fraser"
+    },
+    {
+        "Quiz question": "Which Central American state is also the name of a type of headgear?",
+        "Answer": "Panama"
+    },
+    {
+        "Quiz question": "What is the capital of Turkey?",
+        "Answer": "Ankara"
+    },
+    {
+        "Quiz question": "In which American city was the first Mardi Gras celebration held in 1827?",
+        "Answer": "New Orleans"
+    },
+    {
+        "Quiz question": "Which sea separates Saudi Arabia from Egypt and the Sudan?",
+        "Answer": "The Red Sea"
+    },
+    {
+        "Quiz question": "In which country are the Angel Falls, the highest waterfalls in the world?",
+        "Answer": "Venezuela"
+    },
+    {
+        "Quiz question": "Which is the only one of New York's five boroughs to be located on the mainland?",
+        "Answer": "The Bronx"
+    },
+    {
+        "Quiz question": "What is the nearest sea-side resort to London?",
+        "Answer": "Southend-on-sea"
+    },
+    {
+        "Quiz question": "If Alaska is the biggest state in America, what is second biggest?",
+        "Answer": "Texas"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Iowa? Lincoln, Concord or Des Moines?",
+        "Answer": "Des Moines"
+    },
+    {
+        "Quiz question": "Which American state is nicknamed the Sunshine State?",
+        "Answer": "Florida"
+    },
+    {
+        "Quiz question": "What is the longest river in Scotland?",
+        "Answer": "Tay"
+    },
+    {
+        "Quiz question": "In which capital city of Europe would you find the train station called Tara Street?",
+        "Answer": "Dublin"
+    },
+    {
+        "Quiz question": "What was the approximate population of Portugal in July 1999? 3 million, 10 million or 24 million?",
+        "Answer": "10 million"
+    },
+    {
+        "Quiz question": "Topeka is the capital of which American state?",
+        "Answer": "Kansas"
+    },
+    {
+        "Quiz question": "How is Saigon now known?",
+        "Answer": "Ho Chi Minh City"
+    },
+    {
+        "Quiz question": "In which four countries are the Alps?",
+        "Answer": "France, Italy, Switzerland and Austria"
+    },
+    {
+        "Quiz question": "Which American state is nicknamed the Empire State?",
+        "Answer": "New York"
+    },
+    {
+        "Quiz question": "With which mountain range would you associate the Abonimable Snowman?",
+        "Answer": "Himalayas"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Idaho?",
+        "Answer": "Boise"
+    },
+    {
+        "Quiz question": "On which island is the resort of Cowes?",
+        "Answer": "Isle Of Wight"
+    },
+    {
+        "Quiz question": "What is the capital of Bermuda?",
+        "Answer": "Hamilton"
+    },
+    {
+        "Quiz question": "What is the second largest country in the world?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "According to the 2001 census, what is the second most common language spoken in Australia?",
+        "Answer": "Chinese"
+    },
+    {
+        "Quiz question": "Easter island is a dependency of which country?",
+        "Answer": "Chile"
+    },
+    {
+        "Quiz question": "Liechtenstein lies in between which two European countries?",
+        "Answer": "Austria and Switzerland"
+    },
+    {
+        "Quiz question": "Which of the following colours would you not find on the flag of India? Green, Red or Yellow?",
+        "Answer": "Red"
+    },
+    {
+        "Quiz question": "In which Ocean are the group of islands called the Seychelles?",
+        "Answer": "The Indian Ocean"
+    },
+    {
+        "Quiz question": "If you travelled directly south from Malta, which is the first African country that you would arrive in?",
+        "Answer": "Libya"
+    },
+    {
+        "Quiz question": "What is the only American state which starts with the letter 'A' but doesn't end with the letter 'A'?",
+        "Answer": "Arkansas"
+    },
+    {
+        "Quiz question": "Which is Europe's largest port?",
+        "Answer": "Rotterdam"
+    },
+    {
+        "Quiz question": "What is the longest river in the world?",
+        "Answer": "The Nile"
+    },
+    {
+        "Quiz question": "In which English city is the Clifton Suspension Bridge?",
+        "Answer": "Bristol"
+    },
+    {
+        "Quiz question": "In which county is Windsor Castle?",
+        "Answer": "Berkshire"
+    },
+    {
+        "Quiz question": "What country is the world's largest producer of wine?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "What is the most famous building in the city of Agra?",
+        "Answer": "The Taj Mahal"
+    },
+    {
+        "Quiz question": "Which of the following flags does not feature the colour yellow? Ukraine, Ecuador or Costa Rica?",
+        "Answer": "Costa Rica"
+    },
+    {
+        "Quiz question": "In what mountain range is Mount Everest?",
+        "Answer": "The Himalayas"
+    },
+    {
+        "Quiz question": "What is the capital of Hong Kong?",
+        "Answer": "Victoria"
+    },
+    {
+        "Quiz question": "What is the highest mountain in the Alps?",
+        "Answer": "Mont Blanc"
+    },
+    {
+        "Quiz question": "Which 'M' is the capital of the American state of Alabama?",
+        "Answer": "Montgomery"
+    },
+    {
+        "Quiz question": "In which American state is Cape Canaveral, a launching site for space travel?",
+        "Answer": "Florida"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Delaware? Boise, Dover or Jefferson City?",
+        "Answer": "Dover"
+    },
+    {
+        "Quiz question": "What was the approximate population of Russia in 2000? 150 million, 250 million or 400 million?",
+        "Answer": "150 million"
+    },
+    {
+        "Quiz question": "If you were riding in a Gondola which city are you most likely to be in?",
+        "Answer": "Venice"
+    },
+    {
+        "Quiz question": "In which European city are the headquarters for Interpol?",
+        "Answer": "Lyon"
+    },
+    {
+        "Quiz question": "Which of the following flags does not feature the colour blue? Greece, Uruguay or Japan?",
+        "Answer": "Japan"
+    },
+    {
+        "Quiz question": "Christmas Island is surrounded by which ocean?",
+        "Answer": "Indian"
+    },
+    {
+        "Quiz question": "What three continents lie on the tropic of Capricorn?",
+        "Answer": "Australia, Africa and South America."
+    },
+    {
+        "Quiz question": "What colour is the cross on the flag of Finland?",
+        "Answer": "Blue"
+    },
+    {
+        "Quiz question": "If all the American states were listed in alphabetical order, which would come last?",
+        "Answer": "Wyoming"
+    },
+    {
+        "Quiz question": "In which American state is San Quentin prison?",
+        "Answer": "California"
+    },
+    {
+        "Quiz question": "What is the capital of Hungary?",
+        "Answer": "Budapest"
+    },
+    {
+        "Quiz question": "Maoris are associated with which country?",
+        "Answer": "New Zealand"
+    },
+    {
+        "Quiz question": "What is the largest city in Switzerland?",
+        "Answer": "Zurich"
+    },
+    {
+        "Quiz question": "Which 'M' is the capital of the American state of Wisconsin?",
+        "Answer": "Madison"
+    },
+    {
+        "Quiz question": "Which of the following colours does not appear on the Belgian flag? Green, Red or Yellow?",
+        "Answer": "Green"
+    },
+    {
+        "Quiz question": "Behind the Nile and the Amazon, what is the third longest river in the world?",
+        "Answer": "The Yangtze"
+    },
+    {
+        "Quiz question": "In which country is mythological monster the Bunyip said to live?",
+        "Answer": "Australia"
+    },
+    {
+        "Quiz question": "Iin which ocean is the island group the Maldives?",
+        "Answer": "Indian Ocean"
+    },
+    {
+        "Quiz question": "What is the largest river in Alaska called?",
+        "Answer": "The Yukon River."
+    },
+    {
+        "Quiz question": "St. Louis in America stands on which of the following rivers? Rio Grande, Mississippi or Colorado?",
+        "Answer": "Mississippi"
+    },
+    {
+        "Quiz question": "Which of the following countries is not in Europe? Luxembourg, Austria or Morocco?",
+        "Answer": "Morocco"
+    },
+    {
+        "Quiz question": "Satiago is the capital of which South American country?",
+        "Answer": "Chile"
+    },
+    {
+        "Quiz question": "In which Scottish city is Strathclyde University?",
+        "Answer": "Glasgow"
+    },
+    {
+        "Quiz question": "What is the longest river in France?",
+        "Answer": "The Loire"
+    },
+    {
+        "Quiz question": "What is the only US state which borders one other state only?",
+        "Answer": "Maine"
+    },
+    {
+        "Quiz question": "In which ocean is the island of Mauritius?",
+        "Answer": "Indian"
+    },
+    {
+        "Quiz question": "What country had the Roman name Hibernia?",
+        "Answer": "Ireland"
+    },
+    {
+        "Quiz question": "Which three South American countries does the Equator cross?",
+        "Answer": "Brazil, Colombia and Ecuador"
+    },
+    {
+        "Quiz question": "Where in Britain could you ride on the 'Pepsi Max Big One'?",
+        "Answer": "Blackpool Pleasure Beach"
+    },
+    {
+        "Quiz question": "Which city is the capital of the Italian District of Tuscany?",
+        "Answer": "Florence"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Texas? Austin, Houston or Dallas?",
+        "Answer": "Austin"
+    },
+    {
+        "Quiz question": "In which country would you find Lake Disappointment?",
+        "Answer": "Australia"
+    },
+    {
+        "Quiz question": "Which Canadian province is named after one of Queen Victoria's daughters?",
+        "Answer": "Alberta"
+    },
+    {
+        "Quiz question": "Which tourist attraction can be found at Anaheim, Orange County, California?",
+        "Answer": "Disneyland"
+    },
+    {
+        "Quiz question": "What country does Portugal border?",
+        "Answer": "Spain"
+    },
+    {
+        "Quiz question": "In which European capital city would you find Wenceslas Square?",
+        "Answer": "Prague"
+    },
+    {
+        "Quiz question": "Salem is the capital of which American state?",
+        "Answer": "Oregon"
+    },
+    {
+        "Quiz question": "What continent is sometimes known as the 'Dark Continent'?",
+        "Answer": "Africa"
+    },
+    {
+        "Quiz question": "In which American state is the west coast city of Tampa?",
+        "Answer": "Florida"
+    },
+    {
+        "Quiz question": "In which Canadian city is the CN Tower?",
+        "Answer": "Toronto"
+    },
+    {
+        "Quiz question": "In which country is the Simpson desert?",
+        "Answer": "Australia"
+    },
+    {
+        "Quiz question": "Into which sea does the Nile flow?",
+        "Answer": "The Mediterranean"
+    },
+    {
+        "Quiz question": "What is the most popular sport in the world?",
+        "Answer": "Soccer"
+    },
+    {
+        "Quiz question": "Which is the only Scottish city to have an underground railway?",
+        "Answer": "Glasgow"
+    },
+    {
+        "Quiz question": "What two countries border Andorra?",
+        "Answer": "France and Spain"
+    },
+    {
+        "Quiz question": "What capital city does the river Tagus flow through?",
+        "Answer": "Lisbon"
+    },
+    {
+        "Quiz question": "What colour is the circle on the Japanese flag?",
+        "Answer": "Red"
+    },
+    {
+        "Quiz question": "Santa Fe is the capital of which American state?",
+        "Answer": "New Mexico"
+    },
+    {
+        "Quiz question": "Which European country is also called the Hellenic Republic?",
+        "Answer": "Greece"
+    },
+    {
+        "Quiz question": "Which American state is Chicago in?",
+        "Answer": "Illinois"
+    },
+    {
+        "Quiz question": "Which of the following flags does not feature the colour blue? Brazil, Germany or France",
+        "Answer": "Germany"
+    },
+    {
+        "Quiz question": "Which 3 American states begin with the letter O?",
+        "Answer": "Ohio, Oklahoma and Oregon"
+    },
+    {
+        "Quiz question": "What is Britain's largest lake?",
+        "Answer": "Loch Lomond"
+    },
+    {
+        "Quiz question": "Which country has the longest rail network? USA, Russia or India?",
+        "Answer": "USA"
+    },
+    {
+        "Quiz question": "Which country has the most Universities in the world, almost twice the number in USA?",
+        "Answer": "India"
+    },
+    {
+        "Quiz question": "What is the capital of Cuba?",
+        "Answer": "Havana"
+    },
+    {
+        "Quiz question": "Which country borders Sweden and Russia?",
+        "Answer": "Finland"
+    },
+    {
+        "Quiz question": "Which of the following countries is not in Africa? Ecuador, Sudan or Egypt?",
+        "Answer": "Ecuador"
+    },
+    {
+        "Quiz question": "What colour is the maple leaf on the Canadian flag?",
+        "Answer": "Red"
+    },
+    {
+        "Quiz question": "The British island of Lundy derives its name from the Norse word for which bird?",
+        "Answer": "Puffin"
+    },
+    {
+        "Quiz question": "In which American city would you find the headquarters of McDonalds?",
+        "Answer": "Chicago"
+    },
+    {
+        "Quiz question": "Which of the following colours does not appear on the flag of Algeria? Green, Red or Yellow?",
+        "Answer": "Green"
+    },
+    {
+        "Quiz question": "The eastern entrance to the Panama Canal is in which ocean?",
+        "Answer": "The Pacific"
+    },
+    {
+        "Quiz question": "What colour are the stars on the Chinese flag?",
+        "Answer": "Yellow"
+    },
+    {
+        "Quiz question": "In which city was the world's first skyscraper built?",
+        "Answer": "Chicago"
+    },
+    {
+        "Quiz question": "What American state is Silicon Valley in?",
+        "Answer": "California"
+    },
+    {
+        "Quiz question": "Which of the five great lakes in North America is nearest to the sea?",
+        "Answer": "Lake Ontario"
+    },
+    {
+        "Quiz question": "What is the worlds most southerly capital?",
+        "Answer": "Wellington, New Zealand"
+    },
+    {
+        "Quiz question": "Of which European country is Tallin the capital?",
+        "Answer": "Estonia"
+    },
+    {
+        "Quiz question": "In which American city might you see a Broadway show?",
+        "Answer": "New York"
+    },
+    {
+        "Quiz question": "How many states is Australia divided into?",
+        "Answer": "6"
+    },
+    {
+        "Quiz question": "In which American city are Madison Square Gardens?",
+        "Answer": "New York"
+    },
+    {
+        "Quiz question": "The Rio Grande borders Mexico and which other country?",
+        "Answer": "U.S.A."
+    },
+    {
+        "Quiz question": "In which European country is the world's longest road tunnel?",
+        "Answer": "Switzerland"
+    },
+    {
+        "Quiz question": "The reference lines on a globe which circle the Earth parallel to the equator are lines of what? Longitude or Latitude?",
+        "Answer": "Latitude"
+    },
+    {
+        "Quiz question": "In which county would you find Stansted Airport?",
+        "Answer": "Essex"
+    },
+    {
+        "Quiz question": "What became the 10th country to join the EEC in 1981?",
+        "Answer": "Greece"
+    },
+    {
+        "Quiz question": "What was the approximate population of Mexico in July 1999? 10 million, 50 million or 100 million?",
+        "Answer": "100 million"
+    },
+    {
+        "Quiz question": "What is the longest river in Ireland?",
+        "Answer": "Shannon"
+    },
+    {
+        "Quiz question": "On which river does the American city of New Orleans stand?",
+        "Answer": "Mississippi"
+    },
+    {
+        "Quiz question": "What is the name of a line on a map that joins places of equal height?",
+        "Answer": "Contour"
+    },
+    {
+        "Quiz question": "Which canal joins the Red Sea and the Mediterranean?",
+        "Answer": "The Suez Canal"
+    },
+    {
+        "Quiz question": "How many provinces are there in Ireland?",
+        "Answer": "4"
+    },
+    {
+        "Quiz question": "In which American state is Harvard University?",
+        "Answer": "Massachusetts"
+    },
+    {
+        "Quiz question": "How many American states begin and end with the letter 'A'?",
+        "Answer": "3 (Alabama, Alaska and Arizona)"
+    },
+    {
+        "Quiz question": "Which American state is known as the 'Heart Of Dixie'?",
+        "Answer": "Alabama"
+    },
+    {
+        "Quiz question": "What is the capital of Croatia?",
+        "Answer": "Zagreb"
+    },
+    {
+        "Quiz question": "What is the largest desert in the world?",
+        "Answer": "Sahara"
+    },
+    {
+        "Quiz question": "Which of the following American states is nicknamed the Equality State? Wyoming, Michigan or Maryland?",
+        "Answer": "Wyoming"
+    },
+    {
+        "Quiz question": "Which of the following does not appear on the flag of the Czech Republic? A white star, a blue triangle or the colour red?",
+        "Answer": "A white star"
+    },
+    {
+        "Quiz question": "In which English city is Picadilly Railway Station?",
+        "Answer": "Manchester"
+    },
+    {
+        "Quiz question": "How many countries border San Marino?",
+        "Answer": "1"
+    },
+    {
+        "Quiz question": "What is the largest city in India?",
+        "Answer": "Calcutta"
+    },
+    {
+        "Quiz question": "What is the capital of Switzerland?",
+        "Answer": "Berne"
+    },
+    {
+        "Quiz question": "Which continent receives the greatest average amount of rainfall per square mile?",
+        "Answer": "South America"
+    },
+    {
+        "Quiz question": "What is the largest inland sea in the world?",
+        "Answer": "The Caspian Sea"
+    },
+    {
+        "Quiz question": "What is the state capital of Oklahoma?",
+        "Answer": "Oklahoma City"
+    },
+    {
+        "Quiz question": "Which bird is the state bird of New Mexico, and also the name of a cartoon character?",
+        "Answer": "Roadrunner"
+    },
+    {
+        "Quiz question": "St Johnstown was once the capital city of Scotland. By what name is St Johnstown now known?",
+        "Answer": "Perth"
+    },
+    {
+        "Quiz question": "How many English counties border the south coast?",
+        "Answer": "7"
+    },
+    {
+        "Quiz question": "The American states of Missouri and Tennessee both border how many other American states?",
+        "Answer": "8"
+    },
+    {
+        "Quiz question": "What is the largest land-locked country in Africa?",
+        "Answer": "Chad"
+    },
+    {
+        "Quiz question": "Which of these countries has the most coastline? Iceland, Norway or Portugal?",
+        "Answer": "Iceland (approx 5,000 km)"
+    },
+    {
+        "Quiz question": "What was the original name of the city of Atlanta in Georgia, USA? Bullswick, Terminus or Atlantic City?",
+        "Answer": "Terminus"
+    },
+    {
+        "Quiz question": "Orly airport is situated in which European city?",
+        "Answer": "Paris"
+    },
+    {
+        "Quiz question": "What is the capital city of New Zealand?",
+        "Answer": "Wellington"
+    },
+    {
+        "Quiz question": "What is the most northerly town in Britain?",
+        "Answer": "Lerwick (in the Shetland Isles)"
+    },
+    {
+        "Quiz question": "In which American city is Sears Tower?",
+        "Answer": "Chicago"
+    },
+    {
+        "Quiz question": "Which of the following colours appears on the French flag? White, Black or Yellow?",
+        "Answer": "White"
+    },
+    {
+        "Quiz question": "What is the second largest country in South America?",
+        "Answer": "Argentina"
+    },
+    {
+        "Quiz question": "Which Leicestershire town is famous for its pork pies?",
+        "Answer": "Melton Mobray"
+    },
+    {
+        "Quiz question": "Which continent produces 52% of the world's cocoa and 48% of the world's diamonds?",
+        "Answer": "Africa"
+    },
+    {
+        "Quiz question": "In which modern day country would you find the ruins of Troy?",
+        "Answer": "Turkey"
+    },
+    {
+        "Quiz question": "Green Park, Oxford Circus and Warren Street are on which London Underground line?",
+        "Answer": "Victoria"
+    },
+    {
+        "Quiz question": "In which Ocean are the group of islands called the Seychelles?",
+        "Answer": "Indian"
+    },
+    {
+        "Quiz question": "What river forms a large part of the boundary between Mexico and the USA?",
+        "Answer": "The Rio Grande"
+    },
+    {
+        "Quiz question": "What is the administrative centre of Cheshire?",
+        "Answer": "Chester"
+    },
+    {
+        "Quiz question": "How many American states begin with the letter 'M'?",
+        "Answer": "8"
+    },
+    {
+        "Quiz question": "What colour is the diamond on the Brazilian flag?",
+        "Answer": "Yellow"
+    },
+    {
+        "Quiz question": "Turin in Italy stands on which of the following rivers? The Rhone, The Tiber or The Po?",
+        "Answer": "Po"
+    },
+    {
+        "Quiz question": "What is the hottest, driest, and lowest place in North America called?",
+        "Answer": "Death Valley"
+    },
+    {
+        "Quiz question": "Nashville is the capital of which American state?",
+        "Answer": "Tennessee"
+    },
+    {
+        "Quiz question": "What is the smallest country in Central America? Costa Rica, Venezuela or El Salvador?",
+        "Answer": "El Salvador"
+    },
+    {
+        "Quiz question": "Which of the following countries' flags features the colours red, white and green? Hungary, Israel or Romania?",
+        "Answer": "Hungary"
+    },
+    {
+        "Quiz question": "What is the largest Canadian province?",
+        "Answer": "Quebec"
+    },
+    {
+        "Quiz question": "In which county is Reading?",
+        "Answer": "Berkshire"
+    },
+    {
+        "Quiz question": "What is the westernmost point of England called?",
+        "Answer": "Lands End"
+    },
+    {
+        "Quiz question": "Which American City is named after a British Prime Minister?",
+        "Answer": "Pittsburgh"
+    },
+    {
+        "Quiz question": "In which continent are the top ten highest active volcanoes in the world?",
+        "Answer": "South America"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Louisiana?",
+        "Answer": "Baton Rouge"
+    },
+    {
+        "Quiz question": "In which continent is the Angel Falls waterfall?",
+        "Answer": "South America"
+    },
+    {
+        "Quiz question": "What is the closest city to Portsmouth? Brighton, Southampton or Chicester?",
+        "Answer": "Chichester"
+    },
+    {
+        "Quiz question": "What is the longest river in Italy?",
+        "Answer": "The Po"
+    },
+    {
+        "Quiz question": "Hartford is the capital of which American state?",
+        "Answer": "Conneticut"
+    },
+    {
+        "Quiz question": "What is Chang Cheng better known as in English? The Great Wall Of China, Hong Kong or Coca Cola?",
+        "Answer": "The Great Wall Of China"
+    },
+    {
+        "Quiz question": "Mikado is a title given to emperors of which country?",
+        "Answer": "Japan"
+    },
+    {
+        "Quiz question": "In which European country is Dalmatia, from where the Dalmation dog gets its name?",
+        "Answer": "Croatia"
+    },
+    {
+        "Quiz question": "How many countries border Germany?",
+        "Answer": "9"
+    },
+    {
+        "Quiz question": "In which country are the headquarters of Interpol?",
+        "Answer": "France"
+    },
+    {
+        "Quiz question": "What is the name of the lake in the middle of Hyde Park?",
+        "Answer": "The Serpentine"
+    },
+    {
+        "Quiz question": "In which European country is the city of Bratislava?",
+        "Answer": "Slovakia"
+    },
+    {
+        "Quiz question": "In which city is the 'Wailing Wall'?",
+        "Answer": "Jerusalem"
+    },
+    {
+        "Quiz question": "In 1579, the Netherlands achieved independence from which other country?",
+        "Answer": "Spain"
+    },
+    {
+        "Quiz question": "The town of Timbuktu is in which African country?",
+        "Answer": "Mali"
+    },
+    {
+        "Quiz question": "Phoenix is the capital city of which US state?",
+        "Answer": "Arizona"
+    },
+    {
+        "Quiz question": "In which American state is Mount Waialeale, which has the highest average rainfall in the world?",
+        "Answer": "Hawaii"
+    },
+    {
+        "Quiz question": "In which European country would you find the city of Strasbourg?",
+        "Answer": "France"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Wyoming? Cheyenne or Harrisburg?",
+        "Answer": "Cheyenne"
+    },
+    {
+        "Quiz question": "In which country is Ayres Rock?",
+        "Answer": "Australia"
+    },
+    {
+        "Quiz question": "How many stars appear on the flag of Australia?",
+        "Answer": "6"
+    },
+    {
+        "Quiz question": "Byzantium is an ancient name for which city?",
+        "Answer": "Istanbul"
+    },
+    {
+        "Quiz question": "Charles University is situated in which European city?",
+        "Answer": "Prague"
+    },
+    {
+        "Quiz question": "Which country, other than England, has a city called London on a river called the Thames?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "The Puerto Rico Trench is the deepest point in which ocean?",
+        "Answer": "The Atlantic Ocean"
+    },
+    {
+        "Quiz question": "Sugarloaf mountain overlooks which of the following cities? Cape Town, Toronto or Rio De Janiero?",
+        "Answer": "Rio De Janiero"
+    },
+    {
+        "Quiz question": "The Tynwald is the parliament on which island?",
+        "Answer": "Isle of Man"
+    },
+    {
+        "Quiz question": "The Copacabana beach is situated by which city?",
+        "Answer": "Rio De Janeiro"
+    },
+    {
+        "Quiz question": "Which of the following colours appears on the flag of Italy? Green, Blue or Yellow?",
+        "Answer": "Green"
+    },
+    {
+        "Quiz question": "What is the longest river in the world?",
+        "Answer": "Nile"
+    },
+    {
+        "Quiz question": "In which American state is the city of Philadelphia?",
+        "Answer": "Pennsylvania"
+    },
+    {
+        "Quiz question": "In which city did the first bungee jump in England take place?",
+        "Answer": "Bristol"
+    },
+    {
+        "Quiz question": "The city of Glasgow stands on which of the following rivers? Forth, Clyde or Tay?",
+        "Answer": "Clyde"
+    },
+    {
+        "Quiz question": "On which London street is Selfridges?",
+        "Answer": "Oxford Street"
+    },
+    {
+        "Quiz question": "What is the largest and also most southern of the Greek islands?",
+        "Answer": "Crete"
+    },
+    {
+        "Quiz question": "How is the Welsh island Ynys Mon better known?",
+        "Answer": "Anglesey"
+    },
+    {
+        "Quiz question": "Montevideo is the capital of which South American country?",
+        "Answer": "Uruguay"
+    },
+    {
+        "Quiz question": "Which country had a parliament called the Duma?",
+        "Answer": "Russia"
+    },
+    {
+        "Quiz question": "Which country is sometimes known as the Emerald Isle?",
+        "Answer": "Ireland"
+    },
+    {
+        "Quiz question": "What is the largest country in the world?",
+        "Answer": "Russia"
+    },
+    {
+        "Quiz question": "What is the capital of Sicily?",
+        "Answer": "Palermo"
+    },
+    {
+        "Quiz question": "Which of the following countries produces the most gold - Indonesia, South Africa or Peru?",
+        "Answer": "South Africa"
+    },
+    {
+        "Quiz question": "The Solent separates which island from mainland Britain?",
+        "Answer": "Isle of Wight"
+    },
+    {
+        "Quiz question": "Which of the following appears on the flag of the Faroe Islands? A circle, a star or a cross?",
+        "Answer": "Cross"
+    },
+    {
+        "Quiz question": "What colour is the middle stripe on the German flag?",
+        "Answer": "Red"
+    },
+    {
+        "Quiz question": "What three colours appear on the flag of Bulgaria?",
+        "Answer": "White, Red and Green"
+    },
+    {
+        "Quiz question": "Of which US state is Tallahasse the capital?",
+        "Answer": "Florida"
+    },
+    {
+        "Quiz question": "In which European country are Limassol and Nicosia?",
+        "Answer": "Cyprus"
+    },
+    {
+        "Quiz question": "Montserrat is an Island in which West Indian group?",
+        "Answer": "The Leeward Islands"
+    },
+    {
+        "Quiz question": "What river is known in Hungary as the Duna?",
+        "Answer": "The River Danube"
+    },
+    {
+        "Quiz question": "The city of Cairo stands on which famous river?",
+        "Answer": "Nile"
+    },
+    {
+        "Quiz question": "Lanzarote is part of which island group?",
+        "Answer": "Canaries"
+    },
+    {
+        "Quiz question": "In which continent do most tornadoes occur?",
+        "Answer": "North America"
+    },
+    {
+        "Quiz question": "What is the most populated city in the world?",
+        "Answer": "Shanghai"
+    },
+    {
+        "Quiz question": "What is the capital of Jamaica?",
+        "Answer": "Kingston"
+    },
+    {
+        "Quiz question": "In which European country would you find the cities of Kiev and Odesa?",
+        "Answer": "Ukraine"
+    },
+    {
+        "Quiz question": "What is the longest river in Scotland?",
+        "Answer": "The Tay"
+    },
+    {
+        "Quiz question": "What is the only continent which does not have any reptiles or snakes?",
+        "Answer": "Antarctica"
+    },
+    {
+        "Quiz question": "What is the largest of the West Indian islands?",
+        "Answer": "Cuba"
+    },
+    {
+        "Quiz question": "The Rio Grande separates which 2 countries?",
+        "Answer": "Mexico and the USA"
+    },
+    {
+        "Quiz question": "How many Presidents heads are sculpted on Mount Rushmore?",
+        "Answer": "4"
+    },
+    {
+        "Quiz question": "Which 'F' is the capital of the American state of Kentucky?",
+        "Answer": "Frankfort"
+    },
+    {
+        "Quiz question": "Which of the following countries has the most coastline? Norway, Iceland or Portugal?",
+        "Answer": "Norway"
+    },
+    {
+        "Quiz question": "What is the name of the range of hills that divides England and Scotland?",
+        "Answer": "The Cheviot Hills"
+    },
+    {
+        "Quiz question": "The title of the French national anthem is derived from the name of which French city?",
+        "Answer": "Marseilles"
+    },
+    {
+        "Quiz question": "Helena is the capital of which American state?",
+        "Answer": "Montana"
+    },
+    {
+        "Quiz question": "Lima is the capital city of which South American country?",
+        "Answer": "Peru"
+    },
+    {
+        "Quiz question": "In which country is Cotopaxi, the highest active volcano in the world?",
+        "Answer": "Ecuador"
+    },
+    {
+        "Quiz question": "Chelmsford is the county town of which English county?",
+        "Answer": "Essex"
+    },
+    {
+        "Quiz question": "Addis Ababa is the capital of which country?",
+        "Answer": "Ethiopia"
+    },
+    {
+        "Quiz question": "What is the highest mountain in Great Britain?",
+        "Answer": "Ben Nevis"
+    },
+    {
+        "Quiz question": "Into which ocean does the river Amazon flow?",
+        "Answer": "Atlantic"
+    },
+    {
+        "Quiz question": "What is the sea between Arabia and Africa called?",
+        "Answer": "The Red Sea"
+    },
+    {
+        "Quiz question": "What is the administrative centre for the county of Devon?",
+        "Answer": "Exeter"
+    },
+    {
+        "Quiz question": "The country of Siam was renamed to what in 1939?",
+        "Answer": "Thailand"
+    },
+    {
+        "Quiz question": "Which two London boroughs begin with the letter 'E'?",
+        "Answer": "Ealing and Enfield"
+    },
+    {
+        "Quiz question": "The flag of Ecuador is made up of blue, red and which other colour?",
+        "Answer": "Yellow"
+    },
+    {
+        "Quiz question": "Which five districts make up New York?",
+        "Answer": "Manhattan, Richmond, Brooklyn, Queens and Bronx"
+    },
+    {
+        "Quiz question": "What was the capital of Brazil until 1960?",
+        "Answer": "Rio De Janiero"
+    },
+    {
+        "Quiz question": "What is the name of the highest waterfall in the world?",
+        "Answer": "The Angel Falls"
+    },
+    {
+        "Quiz question": "Approximately how many kilometres of coastline does the United Kingdom have? 2,500, 7,500 or 12,500?",
+        "Answer": "12500"
+    },
+    {
+        "Quiz question": "Which desert is found in South East Mongolia and Northern China?",
+        "Answer": "Gobi"
+    },
+    {
+        "Quiz question": "By what name is London Cathedral better known?",
+        "Answer": "St. Paul's Cathedral"
+    },
+    {
+        "Quiz question": "Which is bigger - Europe or Antarctica?",
+        "Answer": "Antarctica"
+    },
+    {
+        "Quiz question": "In which British city is the National Museum of Photography?",
+        "Answer": "Bradford"
+    },
+    {
+        "Quiz question": "In which US state is the record company Motown based?",
+        "Answer": "Michigan"
+    },
+    {
+        "Quiz question": "What is the capital of China?",
+        "Answer": "Beijing"
+    },
+    {
+        "Quiz question": "In which American city is O'Hare International Airport?",
+        "Answer": "Chicago"
+    },
+    {
+        "Quiz question": "What is the capital of Zimbabwe?",
+        "Answer": "Harare"
+    },
+    {
+        "Quiz question": "What is the name of the famous Chicago building that is 110 storeys high?",
+        "Answer": "Sears Tower"
+    },
+    {
+        "Quiz question": "What is the third largest country in the world?",
+        "Answer": "USA"
+    },
+    {
+        "Quiz question": "Which of the following islands is largest? Madagascar, Papua New Guinea or Honshu?",
+        "Answer": "Papua New Guinea"
+    },
+    {
+        "Quiz question": "What is the capital of the Falkland Islands?",
+        "Answer": "Stanley"
+    },
+    {
+        "Quiz question": "What country did Romans call Lusitania?",
+        "Answer": "Portugal"
+    },
+    {
+        "Quiz question": "Which European University has more students than any other in the world?",
+        "Answer": "The University Of Paris"
+    },
+    {
+        "Quiz question": "Which of the following colours does not appear on the Irish flag? White, Yellow or Orange?",
+        "Answer": "Yellow"
+    },
+    {
+        "Quiz question": "What mountain range is the natural habitat of the llama?",
+        "Answer": "Andes"
+    },
+    {
+        "Quiz question": "In which state is the US army base Fort Knox?",
+        "Answer": "Kentucky"
+    },
+    {
+        "Quiz question": "Approximately how many times smaller is the USA compared to Africa? 30%, 50% or 70%",
+        "Answer": "30%"
+    },
+    {
+        "Quiz question": "In which European country is the 'Black Forest'?",
+        "Answer": "Germany"
+    },
+    {
+        "Quiz question": "In which country is the river Yangtze located?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "In which Irish city is Shannon airport?",
+        "Answer": "Limerick"
+    },
+    {
+        "Quiz question": "Olympia is the capital of which American state?",
+        "Answer": "Washington"
+    },
+    {
+        "Quiz question": "What two colours make up the Chinese flag?",
+        "Answer": "Red and Yellow"
+    },
+    {
+        "Quiz question": "The Grand Canyon is located in which state?",
+        "Answer": "Arizona"
+    },
+    {
+        "Quiz question": "What name is given to a native of Sydney in Australia?",
+        "Answer": "Sydneysider"
+    },
+    {
+        "Quiz question": "What is the state capital of Mississippi?",
+        "Answer": "Jackson"
+    },
+    {
+        "Quiz question": "What 'H' is the capital of the Canadian provence of Nova Scotia?",
+        "Answer": "Halifax"
+    },
+    {
+        "Quiz question": "Which country's flag has a cedar tree in the middle?",
+        "Answer": "Lebanon"
+    },
+    {
+        "Quiz question": "Which city is 74 miles from Oxford, 85 miles from Birmingham and 75 miles from Southampton?",
+        "Answer": "Bristol"
+    },
+    {
+        "Quiz question": "Point Barrow is the northernmost point of which country?",
+        "Answer": "USA"
+    },
+    {
+        "Quiz question": "What is the most common place name in Britain?",
+        "Answer": "Newton"
+    },
+    {
+        "Quiz question": "Which continent has the largest population?",
+        "Answer": "Asia"
+    },
+    {
+        "Quiz question": "What is the name of the highest mountain in the USA?",
+        "Answer": "Mount McKinley"
+    },
+    {
+        "Quiz question": "The Hoover Dam in America was built on which river?",
+        "Answer": "Colorado"
+    },
+    {
+        "Quiz question": "Which European capital was once known as Christiania?",
+        "Answer": "Oslo"
+    },
+    {
+        "Quiz question": "In which country is the Great Bear lake?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "Which city is known as the 'Eternal City'?",
+        "Answer": "Rome"
+    },
+    {
+        "Quiz question": "Bahia was the capital city of which South American city between 1552 and 1763?",
+        "Answer": "Brazil"
+    },
+    {
+        "Quiz question": "In geography, what is Rapa Nui better known as?",
+        "Answer": "Easter Island"
+    },
+    {
+        "Quiz question": "Which country is bigger? North Korea or South Korea?",
+        "Answer": "North Korea (approx 120,500 sq km compared to approx. 98,500 sq km)"
+    },
+    {
+        "Quiz question": "What was the approximate population of Portugal in 2000? 10 million, 20 million or 30 million?",
+        "Answer": "10 million"
+    },
+    {
+        "Quiz question": "Which country's name originates from a line of Latitude?",
+        "Answer": "Equador"
+    },
+    {
+        "Quiz question": "What European country is home to the majority of Catalan speakers?",
+        "Answer": "Spain"
+    },
+    {
+        "Quiz question": "In which American city would you find Dodge City?",
+        "Answer": "Kansas"
+    },
+    {
+        "Quiz question": "Located in New York City, what type of building is Sing Sing?",
+        "Answer": "A prison"
+    },
+    {
+        "Quiz question": "In which Scottish city would you find Dyce Airport?",
+        "Answer": "Aberdeen"
+    },
+    {
+        "Quiz question": "What is the name of the fault that causes the earthquakes around San Francisco?",
+        "Answer": "San Andreas Fault"
+    },
+    {
+        "Quiz question": "Attu Island is the most western point of which country?",
+        "Answer": "USA"
+    },
+    {
+        "Quiz question": "In which city is Tianamen Square where over 1,000 demonstraters were killed in 1989?",
+        "Answer": "Beijing"
+    },
+    {
+        "Quiz question": "What is the largest lake in the Lake District national park?",
+        "Answer": "Lake Windemere"
+    },
+    {
+        "Quiz question": "What is the only country which is crossed by both the equator and the tropic of capricorn?",
+        "Answer": "Brazil"
+    },
+    {
+        "Quiz question": "What is the capital of Switzerland?",
+        "Answer": "Bern"
+    },
+    {
+        "Quiz question": "In which continent is Lake Superior?",
+        "Answer": "North America"
+    },
+    {
+        "Quiz question": "Which of the following countries is smallest in area? San Marino, Malta or Monaco?",
+        "Answer": "Monaco"
+    },
+    {
+        "Quiz question": "What is the most popular natural attraction in Alaska?",
+        "Answer": "Mount McKinley"
+    },
+    {
+        "Quiz question": "Which of the following counties is not in East Anglia? Suffolk, Essex or Sussex?",
+        "Answer": "Sussex"
+    },
+    {
+        "Quiz question": "What is the capital of Northern Ireland?",
+        "Answer": "Belfast"
+    },
+    {
+        "Quiz question": "Which 'M' is the country which has the capital city of Rabat?",
+        "Answer": "Morocco"
+    },
+    {
+        "Quiz question": "In which British city is Lime Street railway station?",
+        "Answer": "Liverpool"
+    },
+    {
+        "Quiz question": "Which current American state was called Franklin until 1796?",
+        "Answer": "Tennessee"
+    },
+    {
+        "Quiz question": "Which country has the longest coastline in the world?",
+        "Answer": "Canada"
+    },
+    {
+        "Quiz question": "How many countries border San Marino?",
+        "Answer": "One (Italy)"
+    },
+    {
+        "Quiz question": "In which country is Damascus, the oldest continually inhabited city in the world?",
+        "Answer": "Syria"
+    },
+    {
+        "Quiz question": "Montgomery is the capital of which American state?",
+        "Answer": "Alabama"
+    },
+    {
+        "Quiz question": "What is the second highest mountain in the world?",
+        "Answer": "K2"
+    },
+    {
+        "Quiz question": "How many stripes are there on an American flag?",
+        "Answer": "13"
+    },
+    {
+        "Quiz question": "Hamilton is the capital of which North American country?",
+        "Answer": "Bermuda"
+    },
+    {
+        "Quiz question": "How many counties share a border with Cornwall?",
+        "Answer": "One (Devon)"
+    },
+    {
+        "Quiz question": "To the nearest whole number, what percentage of the world's surface is land?",
+        "Answer": "29%"
+    },
+    {
+        "Quiz question": "Boston is the capital of which American state?",
+        "Answer": "Massachusetts"
+    },
+    {
+        "Quiz question": "Which of these countries has the most coastline? Greenland, Italy or Japan?",
+        "Answer": "Greenland (approx 44,000 km)"
+    },
+    {
+        "Quiz question": "Which Australian city is the capital of the state of Victoria?",
+        "Answer": "Melbourne"
+    },
+    {
+        "Quiz question": "What is the largest sea in the world?",
+        "Answer": "South China sea"
+    },
+    {
+        "Quiz question": "What is the largest island in the world?",
+        "Answer": "Greenland"
+    },
+    {
+        "Quiz question": "What is the capital of Barbados?",
+        "Answer": "Bridgetown"
+    },
+    {
+        "Quiz question": "Napier University is situated in which British city?",
+        "Answer": "Edinburgh"
+    },
+    {
+        "Quiz question": "Which five American states border on the Gulf of Mexico?",
+        "Answer": "Alabama, Florida, Louisiana, Mississippi and Texas."
+    },
+    {
+        "Quiz question": "What is the most Northern national capital in Europe?",
+        "Answer": "Helsinki"
+    },
+    {
+        "Quiz question": "Which British city has an underground railway system which is nicknamed 'The Clockwork Orange'?",
+        "Answer": "Glasgow"
+    },
+    {
+        "Quiz question": "Tobermory is the only town on which Scottish island?",
+        "Answer": "Mull"
+    },
+    {
+        "Quiz question": "What appears at the centre of the flag of Cameroon? The sun, the moon or a star?",
+        "Answer": "A Star"
+    },
+    {
+        "Quiz question": "Which city is 88 miles from Birmingham, 71 miles from York and 43 miles from Leeds?",
+        "Answer": "Manchester"
+    },
+    {
+        "Quiz question": "What is the county town of Essex?",
+        "Answer": "Chelmsford"
+    },
+    {
+        "Quiz question": "Which bay has the longest shoreline in the world?",
+        "Answer": "Hudson Bay"
+    },
+    {
+        "Quiz question": "In which county is Jodrell Bank?",
+        "Answer": "Cheshire"
+    },
+    {
+        "Quiz question": "In which US state was the TV show 'Flipper' set?",
+        "Answer": "Florida"
+    },
+    {
+        "Quiz question": "In which country is San Salvador?",
+        "Answer": "El Salvador"
+    },
+    {
+        "Quiz question": "What is the second largest country in Europe?",
+        "Answer": "Ukraine"
+    },
+    {
+        "Quiz question": "St. Anne's lies to the south of which holiday resort?",
+        "Answer": "Blackpool"
+    },
+    {
+        "Quiz question": "In which English county is Plymouth?",
+        "Answer": "Devon"
+    },
+    {
+        "Quiz question": "What colour is the cross on the flag of Denmark?",
+        "Answer": "White"
+    },
+    {
+        "Quiz question": "What is the most densely populated continent in the world?",
+        "Answer": "Europe"
+    },
+    {
+        "Quiz question": "Where is the lowest point in the United States?",
+        "Answer": "Death Valley"
+    },
+    {
+        "Quiz question": "In which Scottish city would you find Holyrood Palace?",
+        "Answer": "Edinburgh"
+    },
+    {
+        "Quiz question": "Which of the following countries' flags features the colours white and blue? Switzerland, Finland or Austria?",
+        "Answer": "Finland"
+    },
+    {
+        "Quiz question": "With which country are Mounties associated?",
+        "Answer": "Canada (mounted police)"
+    },
+    {
+        "Quiz question": "Which small European country has the capital city of Vaduz?",
+        "Answer": "Liechtenstein"
+    },
+    {
+        "Quiz question": "Which of the following large lakes is not in North America? Michigan, Huron or Victoria?",
+        "Answer": "Victoria"
+    },
+    {
+        "Quiz question": "What is the northernmost American state?",
+        "Answer": "Alaska"
+    },
+    {
+        "Quiz question": "What motorway connects Glasgow and Edinburgh?",
+        "Answer": "M8"
+    },
+    {
+        "Quiz question": "In which British City is Temple Meads station?",
+        "Answer": "Bristol"
+    },
+    {
+        "Quiz question": "Which city in Scotland is also known as 'Auld Reekie'?",
+        "Answer": "Edinburgh"
+    },
+    {
+        "Quiz question": "In which American city is the largest settlement of Chinese people outside of Asia?",
+        "Answer": "San Francisco"
+    },
+    {
+        "Quiz question": "What is the largest island in the Meditteraenean?",
+        "Answer": "Sicily"
+    },
+    {
+        "Quiz question": "Situated in Italy, what is Stromboli?",
+        "Answer": "An active volcano"
+    },
+    {
+        "Quiz question": "In which American state is Death Valley?",
+        "Answer": "California"
+    },
+    {
+        "Quiz question": "Approximately how much bigger is the land area of Greenland compared to Great Britain? 2 times, 10 times or 50 times?",
+        "Answer": "10 times"
+    },
+    {
+        "Quiz question": "Which city in the American town of Massachusetts is nicknamed 'Beantown' because it is famous for its baked beans?",
+        "Answer": "Boston"
+    },
+    {
+        "Quiz question": "In what country is Transylvania?",
+        "Answer": "Romania"
+    },
+    {
+        "Quiz question": "In which English county would you find Carlisle?",
+        "Answer": "Cumbria"
+    },
+    {
+        "Quiz question": "In which English county is Exeter?",
+        "Answer": "Devon"
+    },
+    {
+        "Quiz question": "What is the capital of Syria?",
+        "Answer": "Damascus"
+    },
+    {
+        "Quiz question": "Which of the five Great Lakes in North America would come first alphabetically?",
+        "Answer": "Lake Erie"
+    },
+    {
+        "Quiz question": "What are the three colours of the flag of Chile?",
+        "Answer": "Red, White and Blue"
+    },
+    {
+        "Quiz question": "How many degrees apart are two lines of longitude which determine a time zone?",
+        "Answer": "15"
+    },
+    {
+        "Quiz question": "What capital city stands on the Potomac river?",
+        "Answer": "Washington"
+    },
+    {
+        "Quiz question": "What is the official language of Brazil?",
+        "Answer": "Portuguese"
+    },
+    {
+        "Quiz question": "Which of the following colours do not appear on the German flag? Green, Yellow or Red?",
+        "Answer": "Green"
+    },
+    {
+        "Quiz question": "What is Europe's highest capital city? Madrid, Rome or Athens?",
+        "Answer": "Madrid"
+    },
+    {
+        "Quiz question": "Situated on an island in the Mediterranean, what is Europe's largest active volcano called?",
+        "Answer": "Mount Etna"
+    },
+    {
+        "Quiz question": "Which American state is nicknamed the Lone Star State?",
+        "Answer": "Texas"
+    },
+    {
+        "Quiz question": "Lanzarote is part of which island group?",
+        "Answer": "The Canary Islands"
+    },
+    {
+        "Quiz question": "What is the capital city of Finland?",
+        "Answer": "Helsinki"
+    },
+    {
+        "Quiz question": "Albany is the capital of which American state?",
+        "Answer": "New York"
+    },
+    {
+        "Quiz question": "What is the most populated city in America?",
+        "Answer": "New York"
+    },
+    {
+        "Quiz question": "In which European city are the headquarters of the World Health Organisation?",
+        "Answer": "Geneva"
+    },
+    {
+        "Quiz question": "Which is the smallest of North America's great lakes?",
+        "Answer": "Lake Ontario"
+    },
+    {
+        "Quiz question": "Which European state became two separate states in January 1993?",
+        "Answer": "Czechoslovakia"
+    },
+    {
+        "Quiz question": "In which English city is the world's largest chocolate factory?",
+        "Answer": "Birmingham"
+    },
+    {
+        "Quiz question": "In which two European cities are Nobel prizes presented?",
+        "Answer": "Oslo and Stockholm"
+    },
+    {
+        "Quiz question": "St Mary's, St Martins and Tresco are main islands in which group?",
+        "Answer": "Scilly Isles"
+    },
+    {
+        "Quiz question": "What is the state capital of Georgia?",
+        "Answer": "Atlanta"
+    },
+    {
+        "Quiz question": "What is the capital city of Libya?",
+        "Answer": "Tripolli"
+    },
+    {
+        "Quiz question": "In which century did Belgium become independent from the Netherlands?",
+        "Answer": "19th"
+    },
+    {
+        "Quiz question": "What is the largest country in Africa?",
+        "Answer": "Sudan"
+    },
+    {
+        "Quiz question": "What are the only two American state capitals which rhyme?",
+        "Answer": "Austin (Texas) and Boston (Massachusetts)."
+    },
+    {
+        "Quiz question": "Which of the four main Balearic Islands is closest to Spain?",
+        "Answer": "Ibiza"
+    },
+    {
+        "Quiz question": "Augusta is the capital of which American state?",
+        "Answer": "Maine"
+    },
+    {
+        "Quiz question": "Which motorway links Birmingham and Lancaster?",
+        "Answer": "M6"
+    },
+    {
+        "Quiz question": "Seoul is the capital of which country?",
+        "Answer": "South Korea"
+    },
+    {
+        "Quiz question": "In which South American country are the Glass waterfalls?",
+        "Answer": "Brazil"
+    },
+    {
+        "Quiz question": "Into which sea does the Nile flow?",
+        "Answer": "Mediterranean"
+    },
+    {
+        "Quiz question": "What is the only American state with a name which has just one syllable?",
+        "Answer": "Maine"
+    },
+    {
+        "Quiz question": "In which European country is the Costa del Sol?",
+        "Answer": "Spain"
+    },
+    {
+        "Quiz question": "What colour is the bottom stripe on the Croatian flag?",
+        "Answer": "Blue"
+    },
+    {
+        "Quiz question": "In which English country was Cheddar cheese first made?",
+        "Answer": "Somerset"
+    },
+    {
+        "Quiz question": "What is the capital of Bosnia?",
+        "Answer": "Sarajevo"
+    },
+    {
+        "Quiz question": "The city of Dublin stands on which of the following rivers? Liffey, Shannon or Clyde?",
+        "Answer": "Liffey"
+    },
+    {
+        "Quiz question": "Is the tropic of Cancer north or south of the equator?",
+        "Answer": "North"
+    },
+    {
+        "Quiz question": "In the American postal system, 'MN' is the abbreviation for which state?",
+        "Answer": "Minnesota"
+    },
+    {
+        "Quiz question": "The island of Gotland belongs to which country?",
+        "Answer": "Sweden"
+    },
+    {
+        "Quiz question": "Which of the following colours does not appear on the Argentinian flag? Red, White or Blue?",
+        "Answer": "Red"
+    },
+    {
+        "Quiz question": "Which city is served by W A Mozart airport?",
+        "Answer": "Salzburg"
+    },
+    {
+        "Quiz question": "What is the capital city of the Seychelles?",
+        "Answer": "Victoria"
+    },
+    {
+        "Quiz question": "In which English county would you find Aylesbury?",
+        "Answer": "Buckinghamshire"
+    },
+    {
+        "Quiz question": "The Ural Mountains form a natural border between which two continents?",
+        "Answer": "Asia and Europe"
+    },
+    {
+        "Quiz question": "Which country in the world has the highest population?",
+        "Answer": "China"
+    },
+    {
+        "Quiz question": "On the 1st of January of what year did Czechoslovakia split into the Czech Republic and Slovakia?",
+        "Answer": "1993"
+    },
+    {
+        "Quiz question": "In which European city would you find the statue of the Little Mermaid?",
+        "Answer": "Copenhagen"
+    },
+    {
+        "Quiz question": "In which year did Austria join the European union?",
+        "Answer": "1995"
+    },
+    {
+        "Quiz question": "Which of the following countries does not share a border with Luxembourg? Germany, Holland or Belgium?",
+        "Answer": "Holland"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Colorado?",
+        "Answer": "Denver"
+    },
+    {
+        "Quiz question": "Where in Europe is Nicosia the capital of?",
+        "Answer": "Cyprus"
+    },
+    {
+        "Quiz question": "Dhaka is the capital of which Asian country?",
+        "Answer": "Bangladesh"
+    },
+    {
+        "Quiz question": "Which range of mountains separates France from Spain?",
+        "Answer": "Pyrenees"
+    },
+    {
+        "Quiz question": "What is the largest city in China, which is thought to be the most densely populated area in the world?",
+        "Answer": "Shanghai"
+    },
+    {
+        "Quiz question": "Which of the following colours does not appear on the Brazilian flag? Green, Red or Yellow?",
+        "Answer": "Red"
+    },
+    {
+        "Quiz question": "What is the largest rainforest in the world?",
+        "Answer": "Amazon"
+    },
+    {
+        "Quiz question": "What is the highest mountain in the world?",
+        "Answer": "Mount Everest"
+    },
+    {
+        "Quiz question": "What is the capital of Canada?",
+        "Answer": "Ottawa"
+    },
+    {
+        "Quiz question": "Which American state is sometimes called 'The Last Frontier' and 'The Land Of The Midnight Sun'?",
+        "Answer": "Alaska"
+    },
+    {
+        "Quiz question": "In which English County can you find 4 towns with the suffix Regis?",
+        "Answer": "Dorset"
+    },
+    {
+        "Quiz question": "Vienna is the capital of which country?",
+        "Answer": "Austria"
+    },
+    {
+        "Quiz question": "What is the capital of the Canadian provence of Nova Scotia and also a town in England?",
+        "Answer": "Halifax"
+    },
+    {
+        "Quiz question": "Mount Cook is the highest peak in which country?",
+        "Answer": "New Zealand"
+    },
+    {
+        "Quiz question": "Honolulu is the capital of which American state?",
+        "Answer": "Hawaii"
+    },
+    {
+        "Quiz question": "Which of the Channel Islands lies furthest south?",
+        "Answer": "Jersey"
+    },
+    {
+        "Quiz question": "Which of the following countries does not border Costa Rica? Peru, Panama or Nicaragua?",
+        "Answer": "Peru"
+    },
+    {
+        "Quiz question": "Waterloo, the scence of a famous battles involving Napoleon, is in what country?",
+        "Answer": "Belgium"
+    },
+    {
+        "Quiz question": "What is the largest state in the USA?",
+        "Answer": "Alaska"
+    },
+    {
+        "Quiz question": "The city of London stands on which of the following rivers? Thames, Severn or Tay?",
+        "Answer": "Thames"
+    },
+    {
+        "Quiz question": "Which major American city is known as the 'Windy City'?",
+        "Answer": "Chicago"
+    },
+    {
+        "Quiz question": "In which country are Tivoli gardens?",
+        "Answer": "Denmark"
+    },
+    {
+        "Quiz question": "What is the longest river in the UK?",
+        "Answer": "The Severn"
+    },
+    {
+        "Quiz question": "What is the state capital of Florida?",
+        "Answer": "Tallahasse"
+    },
+    {
+        "Quiz question": "Which five countries border Argentina?",
+        "Answer": "Bolivia; Brazil; Chile; Paraguay; Uruguay."
+    },
+    {
+        "Quiz question": "What is the second longest river in the world?",
+        "Answer": "Amazon"
+    },
+    {
+        "Quiz question": "Which country in Europe did the inventor of Lego come from?",
+        "Answer": "Denmark"
+    },
+    {
+        "Quiz question": "What is the captial of the Isle of Man?",
+        "Answer": "Douglas"
+    },
+    {
+        "Quiz question": "Which two countries are linked by the Khyber pass?",
+        "Answer": "Pakistan and Afghanistan"
+    },
+    {
+        "Quiz question": "Which strait links the Mediterranean Sea to the Atlantic Ocean?",
+        "Answer": "Gibraltar Strait"
+    },
+    {
+        "Quiz question": "Which country owns the Canary islands?",
+        "Answer": "Spain"
+    },
+    {
+        "Quiz question": "Approximately how thick is the Earth's crust under land? 2 miles, 20 miles or 200 miles?",
+        "Answer": "20 miles"
+    },
+    {
+        "Quiz question": "In which English county is the Lake District?",
+        "Answer": "Cumbria"
+    },
+    {
+        "Quiz question": "Which of the following countries' flags features the colours blue, yellow and red? Hungary, Belgium or Romania?",
+        "Answer": "Romania"
+    },
+    {
+        "Quiz question": "What is Scotland's highest mountain?",
+        "Answer": "Ben Nevis"
+    },
+    {
+        "Quiz question": "Which American state lies between Canada and Wyoming?",
+        "Answer": "Montana"
+    },
+    {
+        "Quiz question": "Which of the following flags do not feature the colour red? Hong Kong, Algeria or Uruguay?",
+        "Answer": "Uruguay"
+    },
+    {
+        "Quiz question": "Based on the height above sea level, which South American city is the highest capital city in the world?",
+        "Answer": "La Paz (in Bolivia)"
+    },
+    {
+        "Quiz question": "Which canal links the Atlantic and Pacific Oceans?",
+        "Answer": "The Panama Canal"
+    },
+    {
+        "Quiz question": "What was the approximate population of the European country San Marino in 1999? 25,000, 75,000 or 150,000?",
+        "Answer": "25,000"
+    },
+    {
+        "Quiz question": "What is the largest country in the Caribbean?",
+        "Answer": "Cuba"
+    },
+    {
+        "Quiz question": "The Black Sea is off the north coast of which country?",
+        "Answer": "Turkey"
+    },
+    {
+        "Quiz question": "What is the state capital of Massachusetts?",
+        "Answer": "Boston"
+    },
+    {
+        "Quiz question": "In which English county would you find Truro?",
+        "Answer": "Cornwall"
+    },
+    {
+        "Quiz question": "What is 73 miles long and stretches from Solway Firth to Wallsend on Tyne?",
+        "Answer": "Hadrian's Wall"
+    },
+    {
+        "Quiz question": "Which of the following islands is smallest? Sumatra, Baffin Island or Borneo?",
+        "Answer": "Sumatra"
+    },
+    {
+        "Quiz question": "In which modern day country is the ancient city of Babylon?",
+        "Answer": "Iraq"
+    },
+    {
+        "Quiz question": "Which famous London street was formerly known as Tyburn Way?",
+        "Answer": "Oxford Street"
+    },
+    {
+        "Quiz question": "Port of Spain is the capital city of which Carribean country?",
+        "Answer": "Trinidad and Tobago"
+    },
+    {
+        "Quiz question": "What is EnglandÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s most northerly county?",
+        "Answer": "Northumberland"
+    },
+    {
+        "Quiz question": "Tenerife is part of which group of islands?",
+        "Answer": "Canary Islands"
+    },
+    {
+        "Quiz question": "What do the Welsh call Wales?",
+        "Answer": "Cymru"
+    },
+    {
+        "Quiz question": "For which river was Hernando de Soto famous for discovering?",
+        "Answer": "Mississippi"
+    },
+    {
+        "Quiz question": "The River Danube flows into which sea?",
+        "Answer": "The Black Sea"
+    },
+    {
+        "Quiz question": "The Bahamas lie off the coast of which US state?",
+        "Answer": "Florida"
+    },
+    {
+        "Quiz question": "On which side of the road do the Japanese drive?",
+        "Answer": "The left"
+    },
+    {
+        "Quiz question": "Maoris are associated with which country?",
+        "Answer": "New Zealand."
+    },
+    {
+        "Quiz question": "Which ocean surrounds Hawaii?",
+        "Answer": "Pacific"
+    },
+    {
+        "Quiz question": "What are the names of the five Great Lakes in North America?",
+        "Answer": "Erie, Huron, Michigan, Superior and Ontario"
+    },
+    {
+        "Quiz question": "Which 'M' is the capital of the American state of Vermont?",
+        "Answer": "Montpelier"
+    },
+    {
+        "Quiz question": "Which of the following has the largest population? Canada, India or Brazil?",
+        "Answer": "India"
+    },
+    {
+        "Quiz question": "What replaced Calcutta as the capital of India in 1912?",
+        "Answer": "Delhi"
+    },
+    {
+        "Quiz question": "To which European country does Greenland belong?",
+        "Answer": "Denmark"
+    },
+    {
+        "Quiz question": "How many bronze lions would you find in Trafalgar Square in London?",
+        "Answer": "4"
+    },
+    {
+        "Quiz question": "What is the name of the group of 1196 islands in the North Indian Ocean, none of which are bigger than 5 square miles?",
+        "Answer": "The Maldives"
+    },
+    {
+        "Quiz question": "In which country would you find the world's biggest pyramid?",
+        "Answer": "Mexico"
+    },
+    {
+        "Quiz question": "What was the approximate population of Mexico in 2000? 20 million, 50 million or 100 million?",
+        "Answer": "100 million"
+    },
+    {
+        "Quiz question": "What name is given to the Southernmost point in South America?",
+        "Answer": "Cape Horn"
+    },
+    {
+        "Quiz question": "Which three oceans surround Canada?",
+        "Answer": "The Atlantic, Pacific and Arctic"
+    },
+    {
+        "Quiz question": "What is the longest river in China?",
+        "Answer": "The Yangtze"
+    },
+    {
+        "Quiz question": "The Victoria Falls waterfall lies on the boundary of which two African countries?",
+        "Answer": "Zimbabwe and Zambia"
+    },
+    {
+        "Quiz question": "Which European country's capital city changed it's name from Christiana?",
+        "Answer": "Norway"
+    },
+    {
+        "Quiz question": "How many countries does the equator run through? 12, 16 or 21?",
+        "Answer": "12"
+    },
+    {
+        "Quiz question": "Which of the following flags do not feature the colour red? Brazil, Vietnam or Luxembourg?",
+        "Answer": "Brazil"
+    },
+    {
+        "Quiz question": "Which two countries border Costa Rica?",
+        "Answer": "Nicaragua and Panama"
+    },
+    {
+        "Quiz question": "For most of history, two out of three people in the world have lived on what continent?",
+        "Answer": "Asia"
+    },
+    {
+        "Quiz question": "How is the mountain called Godwin Austen better known?",
+        "Answer": "K2"
+    },
+    {
+        "Quiz question": "Which New York bridge, completed in 1883, was designed by John Augustus Roebling?",
+        "Answer": "Brooklyn Bridge"
+    },
+    {
+        "Quiz question": "Concord is the capital of which American state?",
+        "Answer": "New Hampshire"
+    },
+    {
+        "Quiz question": "On which river was Rome founded?",
+        "Answer": "Tiber"
+    },
+    {
+        "Quiz question": "In 1999, what was the approximate population of Canada? 31 million, 63 million or 113 miilion?",
+        "Answer": "31 million"
+    },
+    {
+        "Quiz question": "Which country is San Marino surrounded by?",
+        "Answer": "Italy"
+    },
+    {
+        "Quiz question": "Which waterway divides the Isle of Wight from the English mainland?",
+        "Answer": "The Solent"
+    },
+    {
+        "Quiz question": "What is the only county in England to have two separate coasts?",
+        "Answer": "Devon"
+    },
+    {
+        "Quiz question": "What is the capital of Thailand?",
+        "Answer": "Bangkok"
+    },
+    {
+        "Quiz question": "What type of geographical feature is Okeechobee in Florida?",
+        "Answer": "A lake"
+    },
+    {
+        "Quiz question": "Ibiza belongs to which island group?",
+        "Answer": "Balaeric"
+    },
+    {
+        "Quiz question": "What is the only country that Denmark borders?",
+        "Answer": "Germany"
+    },
+    {
+        "Quiz question": "Which canal links the Meditteranean Sea to the Red Sea?",
+        "Answer": "Suez canal"
+    },
+    {
+        "Quiz question": "Which of the Great Lakes in North America has the same name as a U.S. state?",
+        "Answer": "Lake Michigan"
+    },
+    {
+        "Quiz question": "Which American state comes first alphabetically?",
+        "Answer": "Alabama"
+    },
+    {
+        "Quiz question": "The city of Rome stands on which river?",
+        "Answer": "Tiber"
+    },
+    {
+        "Quiz question": "Which of the following American states is nicknamed the Golden State? Arizona, California or Florida?",
+        "Answer": "California"
+    },
+    {
+        "Quiz question": "Which of these oceans is the largest? Arctic, Atlantic or Indian?",
+        "Answer": "Atlantic"
+    },
+    {
+        "Quiz question": "In which Scottish city would you find the Royal Mile and Holyrood Palace?",
+        "Answer": "Edinburgh"
+    },
+    {
+        "Quiz question": "In which city is Marco Polo airport?",
+        "Answer": "Venice"
+    },
+    {
+        "Quiz question": "Which of the following is not a continent? North America, Central America or South America?",
+        "Answer": "Central America"
+    },
+    {
+        "Quiz question": "What US state would you arrive in if you headed due north from Hawaii?",
+        "Answer": "Alaska"
+    },
+    {
+        "Quiz question": "What is the only letter of the alphabet which does not appear in any of the names of the 50 American states?",
+        "Answer": "'Q'"
+    },
+    {
+        "Quiz question": "In which ocean would you be if you were at the geographical position 0 degrees latitude and 0 degrees longitude?",
+        "Answer": "Atlantic"
+    },
+    {
+        "Quiz question": "Christmas Island is surrounded by which ocean?",
+        "Answer": "The Indian Ocen"
+    },
+    {
+        "Quiz question": "Which island is part of Danish territory, but if regarded as a country would be the 12th largest in the world?",
+        "Answer": "Greenland"
+    },
+    {
+        "Quiz question": "Which is the only colour which appears on the flag of Libya?",
+        "Answer": "Green"
+    },
+    {
+        "Quiz question": "In which two cities would you find Cleopatra's needles?",
+        "Answer": "London and New York"
+    },
+    {
+        "Quiz question": "Which of the following countries is larger than 100 square miles in area? Liechtenstein, Monaco or Malta?",
+        "Answer": "Malta"
+    },
+    {
+        "Quiz question": "Which river runs through the Grand Canyon?",
+        "Answer": "The Colorado"
+    },
+    {
+        "Quiz question": "What is latitude 66ÃâÃÂ°32'N otherwise known as?",
+        "Answer": "The Arctic Circle"
+    },
+    {
+        "Quiz question": "What is Britain's highest earning toll bridge?",
+        "Answer": "The Humber Bridge"
+    },
+    {
+        "Quiz question": "In which county would you find Middlesbrough?",
+        "Answer": "Cleveland"
+    },
+    {
+        "Quiz question": "What is the state capital of New York?",
+        "Answer": "Albany"
+    },
+    {
+        "Quiz question": "New Jersey, New Mexico, New York. Which other American state begins with 'New'?",
+        "Answer": "New Hampshire"
+    },
+    {
+        "Quiz question": "What is the capital city of Saudi Arabia?",
+        "Answer": "Ryaddh"
+    },
+    {
+        "Quiz question": "Which Canadian province lies in between Alberta and Manitoba?",
+        "Answer": "Saskatchewan"
+    },
+    {
+        "Quiz question": "What is the capital of Austria?",
+        "Answer": "Vienna"
+    },
+    {
+        "Quiz question": "In which continent is the Caspian Sea?",
+        "Answer": "Asia"
+    },
+    {
+        "Quiz question": "What is the French name for the English Channel?",
+        "Answer": "La Manche"
+    },
+    {
+        "Quiz question": "Which river flows through Dublin?",
+        "Answer": "The Liffey"
+    },
+    {
+        "Quiz question": "In which group of islands would you find Harris, Lewis and Benbecula?",
+        "Answer": "Outer Hebrides"
+    },
+    {
+        "Quiz question": "What colour are the stars on the Australian flag?",
+        "Answer": "White"
+    },
+    {
+        "Quiz question": "Which three countries does Luxembourg border?",
+        "Answer": "Belgium, France and Germany"
+    },
+    {
+        "Quiz question": "Which tropic is north of the equator? Cancer or Capricorn?",
+        "Answer": "Cancer"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of California?",
+        "Answer": "Sacramento"
+    },
+    {
+        "Quiz question": "Which of the following American states is nicknamed the Hoosier State? Montana, New Mexico or Indiana?",
+        "Answer": "Indiana"
+    },
+    {
+        "Quiz question": "Which of the following rivers is the longest? Ob, Mississippi or Mekong?",
+        "Answer": "Mississippi"
+    },
+    {
+        "Quiz question": "Of which US state is Columbus the capital?",
+        "Answer": "Ohio"
+    },
+    {
+        "Quiz question": "In what mountain range is the Yeti said to live?",
+        "Answer": "The Himalayas"
+    },
+    {
+        "Quiz question": "Which sea does the river Thames flow into?",
+        "Answer": "North Sea"
+    },
+    {
+        "Quiz question": "Which two colours appear on the Austrian flag?",
+        "Answer": "Red and White"
+    },
+    {
+        "Quiz question": "What was the approximate population of the world in 1960? 3 billion, 4 billion or 5 billion?",
+        "Answer": "3 billion"
+    },
+    {
+        "Quiz question": "Which building in London contains a slab on the floor marking the tomb of an 'Unknown Warrior' of World War I?",
+        "Answer": "Westminster Abbey"
+    },
+    {
+        "Quiz question": "What is the capital of the American state of Arizona?",
+        "Answer": "Phoenix"
+    },
+    {
+        "Quiz question": "In which country would you find the original Legoland?",
+        "Answer": "Denmark"
+    },
+    {
+        "Quiz question": "Which island lies in the centre of Niagara Falls?",
+        "Answer": "Goat Island"
+    },
+    {
+        "Quiz question": "In which American state is Hollywood?",
+        "Answer": "California"
+    },
+    {
+        "Quiz question": "Out of the 20 highest mountains in America, 17 are in which state?",
+        "Answer": "Alaska"
+    },
+    {
+        "Quiz question": "What is the capital of Iraq?",
+        "Answer": "Baghdad"
+    },
+    {
+        "Quiz question": "What is the second largest continent in the world?",
+        "Answer": "Africa"
+    }
 ]
